@@ -202,9 +202,9 @@ export function parsePivotTable ( txt ) {
         currentTeam.teamName = cellData[ `Team` ] || currentTeam.teamName;
 
         const player = makePlayer(
-            cellData[`Player Name`],
-            cellData[`Current Status`],
-            cellData[`Reason`],
+            cellData[`Player Name`] || ``,
+            cellData[`Current Status`] || ``,
+            cellData[`Reason`] || ``,
         );
 
         // Check if "not submitted" and skip to next team

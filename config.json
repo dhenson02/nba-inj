@@ -1,0 +1,6 @@
+{
+    "nbaInjuryReportBaseUrl": "https://ak-static.cms.nba.com/referee/injury",
+    "nbaInjuryReportBaseFilename": "Injury-Report_%DATE%_%TIMEAMPM%.pdf",
+    "pdfConvertUtil": "pdftotext",
+    "pdfConvertUtilArgs": "-eol unix -enc UTF-8 -nopgbrk -layout -W 2000 -H 2000 %INPUTFILE% %OUTPUTFILE%"
+}

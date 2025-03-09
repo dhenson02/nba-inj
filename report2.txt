@@ -1,0 +1,3209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title></title>
+<meta name="Creator" content="GemBox.Document 3.1 for .NET Framework 3.5 - 4.8"/>
+<meta name="Producer" content="GemBox.Document 3.1 for .NET Framework 3.5 - 4.8"/>
+<meta name="CreationDate" content=""/>
+</head>
+<body>
+<doc>
+  <page width="841.950000" height="595.350000">
+    <flow>
+      <block xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+        <line xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+          <word xMin="289.108100" yMin="38.271400" xMax="349.454100" yMax="67.531400">Injury</word>
+          <word xMin="355.613000" yMin="38.271400" xMax="432.173000" yMax="67.531400">Report:</word>
+          <word xMin="438.317100" yMin="38.271400" xMax="533.709100" yMax="67.531400">03/08/25</word>
+          <word xMin="539.820000" yMin="38.271400" xMax="596.360000" yMax="67.531400">12:30</word>
+          <word xMin="602.468400" yMin="38.271400" xMax="637.030400" yMax="67.531400">PM</word>
+        </line>
+      </block>
+      <block xMin="23.148800" yMin="104.439100" xMax="75.018100" yMax="117.739100">
+        <line xMin="23.148800" yMin="104.439100" xMax="75.018100" yMax="117.739100">
+          <word xMin="23.148800" yMin="104.439100" xMax="50.198800" yMax="117.739100">Game</word>
+          <word xMin="52.968100" yMin="104.439100" xMax="75.018100" yMax="117.739100">Date</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="119.587100" yMin="104.439100" xMax="172.666400" yMax="117.739100">
+        <line xMin="119.587100" yMin="104.439100" xMax="172.666400" yMax="117.739100">
+          <word xMin="119.587100" yMin="104.439100" xMax="146.637100" yMax="117.739100">Game</word>
+          <word xMin="149.406400" yMin="104.439100" xMax="172.666400" yMax="117.739100">Time</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="199.952300" yMin="104.439100" xMax="241.842300" yMax="117.739100">
+        <line xMin="199.952300" yMin="104.439100" xMax="241.842300" yMax="117.739100">
+          <word xMin="199.952300" yMin="104.439100" xMax="241.842300" yMax="117.739100">Matchup</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="264.244500" yMin="104.439100" xMax="290.044500" yMax="117.739100">
+        <line xMin="264.244500" yMin="104.439100" xMax="290.044500" yMax="117.739100">
+          <word xMin="264.244500" yMin="104.439100" xMax="290.044500" yMax="117.739100">Team</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="424.975000" yMin="104.439100" xMax="484.719500" yMax="117.739100">
+        <line xMin="424.975000" yMin="104.439100" xMax="484.719500" yMax="117.739100">
+          <word xMin="424.975000" yMin="104.439100" xMax="454.095000" yMax="117.739100">Player</word>
+          <word xMin="456.869500" yMin="104.439100" xMax="484.719500" yMax="117.739100">Name</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="585.705500" yMin="104.439100" xMax="653.254900" yMax="117.739100">
+        <line xMin="585.705500" yMin="104.439100" xMax="653.254900" yMax="117.739100">
+          <word xMin="585.705500" yMin="104.439100" xMax="621.265500" yMax="117.739100">Current</word>
+          <word xMin="624.064900" yMin="104.439100" xMax="653.254900" yMax="117.739100">Status</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="666.070800" yMin="104.439100" xMax="699.920800" yMax="117.739100">
+        <line xMin="666.070800" yMin="104.439100" xMax="699.920800" yMax="117.739100">
+          <word xMin="666.070800" yMin="104.439100" xMax="699.920800" yMax="117.739100">Reason</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="24.148800" yMin="126.735500" xMax="72.348800" yMax="138.945500">
+        <line xMin="24.148800" yMin="126.735500" xMax="72.348800" yMax="138.945500">
+          <word xMin="24.148800" yMin="126.735500" xMax="72.348800" yMax="138.945500">03/08/2025</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="120.587100" yMin="126.735500" xMax="161.607100" yMax="138.945500">
+        <line xMin="120.587100" yMin="126.735500" xMax="161.607100" yMax="138.945500">
+          <word xMin="120.587100" yMin="126.735500" xMax="143.497100" yMax="138.945500">06:00</word>
+          <word xMin="145.797100" yMin="126.735500" xMax="161.607100" yMax="138.945500">(ET)</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="126.735500" xMax="244.302300" yMax="138.945500">
+        <line xMin="200.952300" yMin="126.735500" xMax="244.302300" yMax="138.945500">
+          <word xMin="200.952300" yMin="126.735500" xMax="244.302300" yMax="138.945500">BKN@CHA</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="126.735500" xMax="322.269000" yMax="138.945500">
+        <line xMin="265.244500" yMin="126.735500" xMax="322.269000" yMax="138.945500">
+          <word xMin="265.244500" yMin="126.735500" xMax="301.294500" yMax="138.945500">Brooklyn</word>
+          <word xMin="303.599000" yMin="126.735500" xMax="322.269000" yMax="138.945500">Nets</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="126.735500" xMax="493.249600" yMax="138.945500">
+        <line xMin="425.975000" yMin="126.735500" xMax="493.249600" yMax="138.945500">
+          <word xMin="425.975000" yMin="126.735500" xMax="466.395000" yMax="138.945500">Beekman,</word>
+          <word xMin="468.699600" yMin="126.735500" xMax="493.249600" yMax="138.945500">Reece</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="126.735500" xMax="601.915500" yMax="138.945500">
+        <line xMin="586.705500" yMin="126.735500" xMax="601.915500" yMax="138.945500">
+          <word xMin="586.705500" yMin="126.735500" xMax="601.915500" yMax="138.945500">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="126.735500" xMax="750.685800" yMax="138.945500">
+        <line xMin="667.070800" yMin="126.735500" xMax="750.685800" yMax="138.945500">
+          <word xMin="667.070800" yMin="126.735500" xMax="673.370800" yMax="138.945500">G</word>
+          <word xMin="675.640100" yMin="126.735500" xMax="704.520100" yMax="138.945500">League</word>
+          <word xMin="706.807100" yMin="126.735500" xMax="709.867100" yMax="138.945500">-</word>
+          <word xMin="712.129400" yMin="126.735500" xMax="750.685800" yMax="138.945500">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="148.773600" xMax="474.315900" yMax="160.983600">
+        <line xMin="425.975000" yMin="148.773600" xMax="474.315900" yMax="160.983600">
+          <word xMin="425.975000" yMin="148.773600" xMax="459.065000" yMax="160.983600">Claxton,</word>
+          <word xMin="461.355900" yMin="148.773600" xMax="474.315900" yMax="160.983600">Nic</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="148.773600" xMax="623.665500" yMax="160.983600">
+        <line xMin="586.705500" yMin="148.773600" xMax="623.665500" yMax="160.983600">
+          <word xMin="586.705500" yMin="148.773600" xMax="623.665500" yMax="160.983600">Available</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="148.773600" xMax="788.407600" yMax="160.983600">
+        <line xMin="667.070800" yMin="148.773600" xMax="788.407600" yMax="160.983600">
+          <word xMin="667.070800" yMin="148.773600" xMax="719.460800" yMax="160.983600">Injury/Illness</word>
+          <word xMin="721.787600" yMin="148.773600" xMax="724.847600" yMax="160.983600">-</word>
+          <word xMin="727.109900" yMin="148.773600" xMax="752.009900" yMax="160.983600">Nasal;</word>
+          <word xMin="754.287600" yMin="148.773600" xMax="788.407600" yMax="160.983600">Fracture</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="170.811600" xMax="485.537200" yMax="183.021600">
+        <line xMin="425.975000" yMin="170.811600" xMax="485.537200" yMax="183.021600">
+          <word xMin="425.975000" yMin="170.811600" xMax="459.415000" yMax="183.021600">Etienne,</word>
+          <word xMin="461.717200" yMin="170.811600" xMax="485.537200" yMax="183.021600">Tyson</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="170.811600" xMax="601.915500" yMax="183.021600">
+        <line xMin="586.705500" yMin="170.811600" xMax="601.915500" yMax="183.021600">
+          <word xMin="586.705500" yMin="170.811600" xMax="601.915500" yMax="183.021600">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="170.811600" xMax="750.685800" yMax="183.021600">
+        <line xMin="667.070800" yMin="170.811600" xMax="750.685800" yMax="183.021600">
+          <word xMin="667.070800" yMin="170.811600" xMax="673.370800" yMax="183.021600">G</word>
+          <word xMin="675.640100" yMin="170.811600" xMax="704.520100" yMax="183.021600">League</word>
+          <word xMin="706.807100" yMin="170.811600" xMax="709.867100" yMax="183.021600">-</word>
+          <word xMin="712.129400" yMin="170.811600" xMax="750.685800" yMax="183.021600">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="192.849700" xMax="505.182200" yMax="205.059700">
+        <line xMin="425.975000" yMin="192.849700" xMax="505.182200" yMax="205.059700">
+          <word xMin="425.975000" yMin="192.849700" xMax="478.785000" yMax="205.059700">Evbuomwan,</word>
+          <word xMin="481.092200" yMin="192.849700" xMax="505.182200" yMax="205.059700">Tosan</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="192.849700" xMax="601.915500" yMax="205.059700">
+        <line xMin="586.705500" yMin="192.849700" xMax="601.915500" yMax="205.059700">
+          <word xMin="586.705500" yMin="192.849700" xMax="601.915500" yMax="205.059700">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="192.849700" xMax="750.685800" yMax="205.059700">
+        <line xMin="667.070800" yMin="192.849700" xMax="750.685800" yMax="205.059700">
+          <word xMin="667.070800" yMin="192.849700" xMax="673.370800" yMax="205.059700">G</word>
+          <word xMin="675.640100" yMin="192.849700" xMax="704.520100" yMax="205.059700">League</word>
+          <word xMin="706.807100" yMin="192.849700" xMax="709.867100" yMax="205.059700">-</word>
+          <word xMin="712.129400" yMin="192.849700" xMax="750.685800" yMax="205.059700">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="214.887800" xMax="501.209100" yMax="227.097800">
+        <line xMin="425.975000" yMin="214.887800" xMax="501.209100" yMax="227.097800">
+          <word xMin="425.975000" yMin="214.887800" xMax="461.845000" yMax="227.097800">Johnson,</word>
+          <word xMin="464.139100" yMin="214.887800" xMax="501.209100" yMax="227.097800">Cameron</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="214.887800" xMax="601.915500" yMax="227.097800">
+        <line xMin="586.705500" yMin="214.887800" xMax="601.915500" yMax="227.097800">
+          <word xMin="586.705500" yMin="214.887800" xMax="601.915500" yMax="227.097800">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="214.887800" xMax="806.638600" yMax="227.097800">
+        <line xMin="667.070800" yMin="214.887800" xMax="806.638600" yMax="227.097800">
+          <word xMin="667.070800" yMin="214.887800" xMax="719.460800" yMax="227.097800">Injury/Illness</word>
+          <word xMin="721.787600" yMin="214.887800" xMax="724.847600" yMax="227.097800">-</word>
+          <word xMin="727.109900" yMin="214.887800" xMax="742.669900" yMax="227.097800">Left</word>
+          <word xMin="744.951700" yMin="214.887800" xMax="768.001700" yMax="227.097800">Knee;</word>
+          <word xMin="770.288600" yMin="214.887800" xMax="806.638600" yMax="227.097800">Soreness</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="236.925900" xMax="508.408100" yMax="249.135900">
+        <line xMin="425.975000" yMin="236.925900" xMax="508.408100" yMax="249.135900">
+          <word xMin="425.975000" yMin="236.925900" xMax="458.125000" yMax="249.135900">Melton,</word>
+          <word xMin="460.428100" yMin="236.925900" xMax="508.408100" yMax="249.135900">De&apos;Anthony</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="236.925900" xMax="601.915500" yMax="249.135900">
+        <line xMin="586.705500" yMin="236.925900" xMax="601.915500" yMax="249.135900">
+          <word xMin="586.705500" yMin="236.925900" xMax="601.915500" yMax="249.135900">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="236.925900" xMax="805.981600" yMax="249.135900">
+        <line xMin="667.070800" yMin="236.925900" xMax="805.981600" yMax="249.135900">
+          <word xMin="667.070800" yMin="236.925900" xMax="719.460800" yMax="249.135900">Injury/Illness</word>
+          <word xMin="721.787600" yMin="236.925900" xMax="724.847600" yMax="249.135900">-</word>
+          <word xMin="727.109900" yMin="236.925900" xMax="742.669900" yMax="249.135900">Left</word>
+          <word xMin="744.951700" yMin="236.925900" xMax="768.001700" yMax="249.135900">Knee;</word>
+          <word xMin="770.288600" yMin="236.925900" xMax="785.598600" yMax="249.135900">ACL</word>
+          <word xMin="787.871600" yMin="236.925900" xMax="805.981600" yMax="249.135900">Tear</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="258.964000" xMax="497.734800" yMax="271.174000">
+        <line xMin="425.975000" yMin="258.964000" xMax="497.734800" yMax="271.174000">
+          <word xMin="425.975000" yMin="258.964000" xMax="473.465000" yMax="271.174000">Whitehead,</word>
+          <word xMin="475.774800" yMin="258.964000" xMax="497.734800" yMax="271.174000">Dariq</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="258.964000" xMax="601.915500" yMax="271.174000">
+        <line xMin="586.705500" yMin="258.964000" xMax="601.915500" yMax="271.174000">
+          <word xMin="586.705500" yMin="258.964000" xMax="601.915500" yMax="271.174000">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="258.964000" xMax="773.645100" yMax="271.174000">
+        <line xMin="667.070800" yMin="258.964000" xMax="773.645100" yMax="271.174000">
+          <word xMin="667.070800" yMin="258.964000" xMax="673.370800" yMax="271.174000">G</word>
+          <word xMin="675.640100" yMin="258.964000" xMax="704.520100" yMax="271.174000">League</word>
+          <word xMin="706.807100" yMin="258.964000" xMax="709.867100" yMax="271.174000">-</word>
+          <word xMin="712.129400" yMin="258.964000" xMax="723.999400" yMax="271.174000">On</word>
+          <word xMin="726.265100" yMin="258.964000" xMax="773.645100" yMax="271.174000">Assignment</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="282.002100" xMax="338.060700" yMax="294.212100">
+        <line xMin="265.244500" yMin="282.002100" xMax="338.060700" yMax="294.212100">
+          <word xMin="265.244500" yMin="282.002100" xMax="303.304500" yMax="294.212100">Charlotte</word>
+          <word xMin="305.610700" yMin="282.002100" xMax="338.060700" yMax="294.212100">Hornets</word>
+        </line>
+      </block>
+      <block xMin="120.587100" yMin="305.040200" xMax="161.607100" yMax="317.250200">
+        <line xMin="120.587100" yMin="305.040200" xMax="161.607100" yMax="317.250200">
+          <word xMin="120.587100" yMin="305.040200" xMax="143.497100" yMax="317.250200">07:00</word>
+          <word xMin="145.797100" yMin="305.040200" xMax="161.607100" yMax="317.250200">(ET)</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="305.040200" xMax="247.382300" yMax="317.250200">
+        <line xMin="200.952300" yMin="305.040200" xMax="247.382300" yMax="317.250200">
+          <word xMin="200.952300" yMin="305.040200" xMax="247.382300" yMax="317.250200">NOP@HOU</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="305.040200" xMax="352.558100" yMax="317.250200">
+        <line xMin="265.244500" yMin="305.040200" xMax="352.558100" yMax="317.250200">
+          <word xMin="265.244500" yMin="305.040200" xMax="283.804500" yMax="317.250200">New</word>
+          <word xMin="286.084300" yMin="305.040200" xMax="317.394300" yMax="317.250200">Orleans</word>
+          <word xMin="319.678100" yMin="305.040200" xMax="352.558100" yMax="317.250200">Pelicans</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="282.002100" xMax="752.420400" yMax="294.212100">
+        <line xMin="667.070800" yMin="282.002100" xMax="752.420400" yMax="294.212100">
+          <word xMin="667.070800" yMin="282.002100" xMax="685.010800" yMax="294.212100">NOT</word>
+          <word xMin="687.280800" yMin="282.002100" xMax="701.900800" yMax="294.212100">YET</word>
+          <word xMin="704.170400" yMin="282.002100" xMax="752.420400" yMax="294.212100">SUBMITTED</word>
+        </line>
+      </block>
+      <block xMin="425.975000" yMin="305.040200" xMax="484.252300" yMax="317.250200">
+        <line xMin="425.975000" yMin="305.040200" xMax="484.252300" yMax="317.250200">
+          <word xMin="425.975000" yMin="305.040200" xMax="464.625000" yMax="317.250200">Alvarado,</word>
+          <word xMin="466.922300" yMin="305.040200" xMax="484.252300" yMax="317.250200">Jose</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="305.040200" xMax="623.665500" yMax="317.250200">
+        <line xMin="586.705500" yMin="305.040200" xMax="623.665500" yMax="317.250200">
+          <word xMin="586.705500" yMin="305.040200" xMax="623.665500" yMax="317.250200">Available</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="305.040200" xMax="800.017500" yMax="317.250200">
+        <line xMin="667.070800" yMin="305.040200" xMax="800.017500" yMax="317.250200">
+          <word xMin="667.070800" yMin="305.040200" xMax="719.460800" yMax="317.250200">Injury/Illness</word>
+          <word xMin="721.787600" yMin="305.040200" xMax="724.847600" yMax="317.250200">-</word>
+          <word xMin="727.109900" yMin="305.040200" xMax="742.669900" yMax="317.250200">Left</word>
+          <word xMin="744.951700" yMin="305.040200" xMax="761.391700" yMax="317.250200">Hip;</word>
+          <word xMin="763.667500" yMin="305.040200" xMax="800.017500" yMax="317.250200">Soreness</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="334.097300" xMax="493.951800" yMax="346.307300">
+        <line xMin="425.975000" yMin="334.097300" xMax="493.951800" yMax="346.307300">
+          <word xMin="425.975000" yMin="334.097300" xMax="456.935000" yMax="346.307300">Boston,</word>
+          <word xMin="459.231800" yMin="334.097300" xMax="493.951800" yMax="346.307300">Brandon</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="334.097300" xMax="601.915500" yMax="346.307300">
+        <line xMin="586.705500" yMin="334.097300" xMax="601.915500" yMax="346.307300">
+          <word xMin="586.705500" yMin="334.097300" xMax="601.915500" yMax="346.307300">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="327.078200" xMax="796.944700" yMax="353.326300">
+        <line xMin="667.070800" yMin="327.078200" xMax="796.944700" yMax="339.288200">
+          <word xMin="667.070800" yMin="327.078200" xMax="719.460800" yMax="339.288200">Injury/Illness</word>
+          <word xMin="721.787600" yMin="327.078200" xMax="724.847600" yMax="339.288200">-</word>
+          <word xMin="727.109900" yMin="327.078200" xMax="742.669900" yMax="339.288200">Left</word>
+          <word xMin="744.951700" yMin="327.078200" xMax="770.451700" yMax="339.288200">Ankle;</word>
+          <word xMin="772.744700" yMin="327.078200" xMax="796.944700" yMax="339.288200">Stress</word>
+        </line>
+        <line xMin="667.070900" yMin="341.116300" xMax="702.620900" yMax="353.326300">
+          <word xMin="667.070900" yMin="341.116300" xMax="702.620900" yMax="353.326300">Reaction</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="363.154400" xMax="493.090500" yMax="375.364400">
+        <line xMin="425.975000" yMin="363.154400" xMax="493.090500" yMax="375.364400">
+          <word xMin="425.975000" yMin="363.154400" xMax="453.875000" yMax="375.364400">Brooks</word>
+          <word xMin="456.165400" yMin="363.154400" xMax="467.835400" yMax="375.364400">Jr.,</word>
+          <word xMin="470.120500" yMin="363.154400" xMax="493.090500" yMax="375.364400">Keion</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="363.154400" xMax="601.915500" yMax="375.364400">
+        <line xMin="586.705500" yMin="363.154400" xMax="601.915500" yMax="375.364400">
+          <word xMin="586.705500" yMin="363.154400" xMax="601.915500" yMax="375.364400">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="363.154400" xMax="750.685800" yMax="375.364400">
+        <line xMin="667.070800" yMin="363.154400" xMax="750.685800" yMax="375.364400">
+          <word xMin="667.070800" yMin="363.154400" xMax="673.370800" yMax="375.364400">G</word>
+          <word xMin="675.640100" yMin="363.154400" xMax="704.520100" yMax="375.364400">League</word>
+          <word xMin="706.807100" yMin="363.154400" xMax="709.867100" yMax="375.364400">-</word>
+          <word xMin="712.129400" yMin="363.154400" xMax="750.685800" yMax="375.364400">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="392.211500" xMax="480.682400" yMax="404.421500">
+        <line xMin="425.975000" yMin="392.211500" xMax="480.682400" yMax="404.421500">
+          <word xMin="425.975000" yMin="392.211500" xMax="455.035000" yMax="404.421500">Brown,</word>
+          <word xMin="457.332400" yMin="392.211500" xMax="480.682400" yMax="404.421500">Bruce</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="392.211500" xMax="601.915500" yMax="404.421500">
+        <line xMin="586.705500" yMin="392.211500" xMax="601.915500" yMax="404.421500">
+          <word xMin="586.705500" yMin="392.211500" xMax="601.915500" yMax="404.421500">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="385.192500" xMax="758.544400" yMax="411.440600">
+        <line xMin="667.070800" yMin="385.192500" xMax="758.544400" yMax="397.402500">
+          <word xMin="667.070800" yMin="385.192500" xMax="694.780800" yMax="397.402500">Return</word>
+          <word xMin="697.080600" yMin="385.192500" xMax="705.690600" yMax="397.402500">to</word>
+          <word xMin="707.964400" yMin="385.192500" xMax="758.544400" yMax="397.402500">Competition</word>
+        </line>
+        <line xMin="667.070800" yMin="399.230600" xMax="728.130800" yMax="411.440600">
+          <word xMin="667.070800" yMin="399.230600" xMax="728.130800" yMax="411.440600">Reconditioning</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="428.287700" xMax="485.053400" yMax="440.497700">
+        <line xMin="425.975000" yMin="428.287700" xMax="485.053400" yMax="440.497700">
+          <word xMin="425.975000" yMin="428.287700" xMax="451.045000" yMax="440.497700">Jones,</word>
+          <word xMin="453.333400" yMin="428.287700" xMax="485.053400" yMax="440.497700">Herbert</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="428.287700" xMax="601.915500" yMax="440.497700">
+        <line xMin="586.705500" yMin="428.287700" xMax="601.915500" yMax="440.497700">
+          <word xMin="586.705500" yMin="428.287700" xMax="601.915500" yMax="440.497700">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="421.268700" xMax="810.599000" yMax="447.516800">
+        <line xMin="667.070800" yMin="421.268700" xMax="810.599000" yMax="433.478700">
+          <word xMin="667.070800" yMin="421.268700" xMax="719.460800" yMax="433.478700">Injury/Illness</word>
+          <word xMin="721.787600" yMin="421.268700" xMax="724.847600" yMax="433.478700">-</word>
+          <word xMin="727.109900" yMin="421.268700" xMax="748.109900" yMax="433.478700">Right</word>
+          <word xMin="750.405800" yMin="421.268700" xMax="789.425800" yMax="433.478700">Shoulder;</word>
+          <word xMin="791.729000" yMin="421.268700" xMax="810.599000" yMax="433.478700">Torn</word>
+        </line>
+        <line xMin="667.070800" yMin="435.306800" xMax="716.963700" yMax="447.516800">
+          <word xMin="667.070800" yMin="435.306800" xMax="697.980800" yMax="447.516800">Rotator</word>
+          <word xMin="700.283700" yMin="435.306800" xMax="716.963700" yMax="447.516800">Cuff</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="457.344800" xMax="498.413600" yMax="469.554800">
+        <line xMin="425.975000" yMin="457.344800" xMax="498.413600" yMax="469.554800">
+          <word xMin="425.975000" yMin="457.344800" xMax="458.525000" yMax="469.554800">Murray,</word>
+          <word xMin="460.823600" yMin="457.344800" xMax="498.413600" yMax="469.554800">Dejounte</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="457.344800" xMax="601.915500" yMax="469.554800">
+        <line xMin="586.705500" yMin="457.344800" xMax="601.915500" yMax="469.554800">
+          <word xMin="586.705500" yMin="457.344800" xMax="601.915500" yMax="469.554800">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="457.344800" xMax="819.342400" yMax="469.554800">
+        <line xMin="667.070800" yMin="457.344800" xMax="819.342400" yMax="469.554800">
+          <word xMin="667.070800" yMin="457.344800" xMax="719.460800" yMax="469.554800">Injury/Illness</word>
+          <word xMin="721.787600" yMin="457.344800" xMax="724.847600" yMax="469.554800">-</word>
+          <word xMin="727.109900" yMin="457.344800" xMax="748.109900" yMax="469.554800">Right</word>
+          <word xMin="750.405800" yMin="457.344800" xMax="784.075800" yMax="469.554800">Achilles;</word>
+          <word xMin="786.382400" yMin="457.344800" xMax="819.342400" yMax="469.554800">Rupture</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="479.382900" xMax="494.546200" yMax="491.592900">
+        <line xMin="425.975000" yMin="479.382900" xMax="494.546200" yMax="491.592900">
+          <word xMin="425.975000" yMin="479.382900" xMax="467.375000" yMax="491.592900">Quinones,</word>
+          <word xMin="469.676200" yMin="479.382900" xMax="494.546200" yMax="491.592900">Lester</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="479.382900" xMax="601.915500" yMax="491.592900">
+        <line xMin="586.705500" yMin="479.382900" xMax="601.915500" yMax="491.592900">
+          <word xMin="586.705500" yMin="479.382900" xMax="601.915500" yMax="491.592900">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="479.382900" xMax="750.685800" yMax="491.592900">
+        <line xMin="667.070800" yMin="479.382900" xMax="750.685800" yMax="491.592900">
+          <word xMin="667.070800" yMin="479.382900" xMax="673.370800" yMax="491.592900">G</word>
+          <word xMin="675.640100" yMin="479.382900" xMax="704.520100" yMax="491.592900">League</word>
+          <word xMin="706.807100" yMin="479.382900" xMax="709.867100" yMax="491.592900">-</word>
+          <word xMin="712.129400" yMin="479.382900" xMax="750.685800" yMax="491.592900">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="501.421000" xMax="491.965000" yMax="513.631000">
+        <line xMin="425.975000" yMin="501.421000" xMax="491.965000" yMax="513.631000">
+          <word xMin="425.975000" yMin="501.421000" xMax="457.215000" yMax="513.631000">Reeves,</word>
+          <word xMin="459.515000" yMin="501.421000" xMax="491.965000" yMax="513.631000">Antonio</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="501.421000" xMax="601.915500" yMax="513.631000">
+        <line xMin="586.705500" yMin="501.421000" xMax="601.915500" yMax="513.631000">
+          <word xMin="586.705500" yMin="501.421000" xMax="601.915500" yMax="513.631000">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="501.421000" xMax="773.645100" yMax="513.631000">
+        <line xMin="667.070800" yMin="501.421000" xMax="773.645100" yMax="513.631000">
+          <word xMin="667.070800" yMin="501.421000" xMax="673.370800" yMax="513.631000">G</word>
+          <word xMin="675.640100" yMin="501.421000" xMax="704.520100" yMax="513.631000">League</word>
+          <word xMin="706.807100" yMin="501.421000" xMax="709.867100" yMax="513.631000">-</word>
+          <word xMin="712.129400" yMin="501.421000" xMax="723.999400" yMax="513.631000">On</word>
+          <word xMin="726.265100" yMin="501.421000" xMax="773.645100" yMax="513.631000">Assignment</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+        <line xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+          <word xMin="398.533600" yMin="535.913400" xMax="418.153600" yMax="548.123400">Page</word>
+          <word xMin="420.433000" yMin="535.913400" xMax="425.493000" yMax="548.123400">1</word>
+          <word xMin="427.762100" yMin="535.913400" xMax="436.082100" yMax="548.123400">of</word>
+          <word xMin="438.348000" yMin="535.913400" xMax="443.408000" yMax="548.123400">7</word>
+        </line>
+      </block>
+    </flow>
+  </page>
+  <page width="841.950000" height="595.350000">
+    <flow>
+      <block xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+        <line xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+          <word xMin="289.108100" yMin="38.271400" xMax="349.454100" yMax="67.531400">Injury</word>
+          <word xMin="355.613000" yMin="38.271400" xMax="432.173000" yMax="67.531400">Report:</word>
+          <word xMin="438.317100" yMin="38.271400" xMax="533.709100" yMax="67.531400">03/08/25</word>
+          <word xMin="539.820000" yMin="38.271400" xMax="596.360000" yMax="67.531400">12:30</word>
+          <word xMin="602.468400" yMin="38.271400" xMax="637.030400" yMax="67.531400">PM</word>
+        </line>
+      </block>
+      <block xMin="265.244500" yMin="81.401500" xMax="333.721100" yMax="93.611500">
+        <line xMin="265.244500" yMin="81.401500" xMax="333.721100" yMax="93.611500">
+          <word xMin="265.244500" yMin="81.401500" xMax="299.764500" yMax="93.611500">Houston</word>
+          <word xMin="302.051100" yMin="81.401500" xMax="333.721100" yMax="93.611500">Rockets</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="120.587100" yMin="206.630000" xMax="161.607100" yMax="218.840000">
+        <line xMin="120.587100" yMin="206.630000" xMax="161.607100" yMax="218.840000">
+          <word xMin="120.587100" yMin="206.630000" xMax="143.497100" yMax="218.840000">07:30</word>
+          <word xMin="145.797100" yMin="206.630000" xMax="161.607100" yMax="218.840000">(ET)</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="206.630000" xMax="239.852300" yMax="218.840000">
+        <line xMin="200.952300" yMin="206.630000" xMax="239.852300" yMax="218.840000">
+          <word xMin="200.952300" yMin="206.630000" xMax="239.852300" yMax="218.840000">IND@ATL</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="206.630000" xMax="324.191500" yMax="218.840000">
+        <line xMin="265.244500" yMin="206.630000" xMax="324.191500" yMax="218.840000">
+          <word xMin="265.244500" yMin="206.630000" xMax="295.374500" yMax="218.840000">Indiana</word>
+          <word xMin="297.661500" yMin="206.630000" xMax="324.191500" yMax="218.840000">Pacers</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="382.953700" xMax="323.729500" yMax="395.163700">
+        <line xMin="265.244500" yMin="382.953700" xMax="323.729500" yMax="395.163700">
+          <word xMin="265.244500" yMin="382.953700" xMax="294.824500" yMax="395.163700">Atlanta</word>
+          <word xMin="297.119500" yMin="382.953700" xMax="323.729500" yMax="395.163700">Hawks</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="81.401500" xMax="480.092300" yMax="93.611500">
+        <line xMin="425.975000" yMin="81.401500" xMax="480.092300" yMax="93.611500">
+          <word xMin="425.975000" yMin="81.401500" xMax="452.965000" yMax="93.611500">Dante,</word>
+          <word xMin="455.252300" yMin="81.401500" xMax="480.092300" yMax="93.611500">N&apos;Faly</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="81.401500" xMax="601.915500" yMax="93.611500">
+        <line xMin="586.705500" yMin="81.401500" xMax="601.915500" yMax="93.611500">
+          <word xMin="586.705500" yMin="81.401500" xMax="601.915500" yMax="93.611500">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="81.401500" xMax="750.685800" yMax="93.611500">
+        <line xMin="667.070800" yMin="81.401500" xMax="750.685800" yMax="93.611500">
+          <word xMin="667.070800" yMin="81.401500" xMax="673.370800" yMax="93.611500">G</word>
+          <word xMin="675.640100" yMin="81.401500" xMax="704.520100" yMax="93.611500">League</word>
+          <word xMin="706.807100" yMin="81.401500" xMax="709.867100" yMax="93.611500">-</word>
+          <word xMin="712.129400" yMin="81.401500" xMax="750.685800" yMax="93.611500">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="103.439600" xMax="483.144500" yMax="115.649600">
+        <line xMin="425.975000" yMin="103.439600" xMax="483.144500" yMax="115.649600">
+          <word xMin="425.975000" yMin="103.439600" xMax="464.105000" yMax="115.649600">McVeigh,</word>
+          <word xMin="466.414500" yMin="103.439600" xMax="483.144500" yMax="115.649600">Jack</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="103.439600" xMax="601.915500" yMax="115.649600">
+        <line xMin="586.705500" yMin="103.439600" xMax="601.915500" yMax="115.649600">
+          <word xMin="586.705500" yMin="103.439600" xMax="601.915500" yMax="115.649600">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="103.439600" xMax="750.685800" yMax="115.649600">
+        <line xMin="667.070800" yMin="103.439600" xMax="750.685800" yMax="115.649600">
+          <word xMin="667.070800" yMin="103.439600" xMax="673.370800" yMax="115.649600">G</word>
+          <word xMin="675.640100" yMin="103.439600" xMax="704.520100" yMax="115.649600">League</word>
+          <word xMin="706.807100" yMin="103.439600" xMax="709.867100" yMax="115.649600">-</word>
+          <word xMin="712.129400" yMin="103.439600" xMax="750.685800" yMax="115.649600">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="125.477700" xMax="479.458200" yMax="137.687700">
+        <line xMin="425.975000" yMin="125.477700" xMax="479.458200" yMax="137.687700">
+          <word xMin="425.975000" yMin="125.477700" xMax="454.175000" yMax="137.687700">Roddy,</word>
+          <word xMin="456.468200" yMin="125.477700" xMax="479.458200" yMax="137.687700">David</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="125.477700" xMax="601.915500" yMax="137.687700">
+        <line xMin="586.705500" yMin="125.477700" xMax="601.915500" yMax="137.687700">
+          <word xMin="586.705500" yMin="125.477700" xMax="601.915500" yMax="137.687700">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="125.477700" xMax="750.685800" yMax="137.687700">
+        <line xMin="667.070800" yMin="125.477700" xMax="750.685800" yMax="137.687700">
+          <word xMin="667.070800" yMin="125.477700" xMax="673.370800" yMax="137.687700">G</word>
+          <word xMin="675.640100" yMin="125.477700" xMax="704.520100" yMax="137.687700">League</word>
+          <word xMin="706.807100" yMin="125.477700" xMax="709.867100" yMax="137.687700">-</word>
+          <word xMin="712.129400" yMin="125.477700" xMax="750.685800" yMax="137.687700">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="154.534800" xMax="490.203200" yMax="166.744800">
+        <line xMin="425.975000" yMin="154.534800" xMax="490.203200" yMax="166.744800">
+          <word xMin="425.975000" yMin="154.534800" xMax="467.295000" yMax="166.744800">Sheppard,</word>
+          <word xMin="469.593200" yMin="154.534800" xMax="490.203200" yMax="166.744800">Reed</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="154.534800" xMax="601.915500" yMax="166.744800">
+        <line xMin="586.705500" yMin="154.534800" xMax="601.915500" yMax="166.744800">
+          <word xMin="586.705500" yMin="154.534800" xMax="601.915500" yMax="166.744800">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="147.515700" xMax="818.515400" yMax="173.763800">
+        <line xMin="667.070800" yMin="147.515700" xMax="818.515400" yMax="159.725700">
+          <word xMin="667.070800" yMin="147.515700" xMax="719.460800" yMax="159.725700">Injury/Illness</word>
+          <word xMin="721.787600" yMin="147.515700" xMax="724.847600" yMax="159.725700">-</word>
+          <word xMin="727.109900" yMin="147.515700" xMax="748.109900" yMax="159.725700">Right</word>
+          <word xMin="750.405800" yMin="147.515700" xMax="781.675800" yMax="159.725700">Thumb;</word>
+          <word xMin="783.965400" yMin="147.515700" xMax="818.515400" yMax="159.725700">Avulsion</word>
+        </line>
+        <line xMin="667.070900" yMin="161.553800" xMax="701.190900" yMax="173.763800">
+          <word xMin="667.070900" yMin="161.553800" xMax="701.190900" yMax="173.763800">Fracture</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="183.591900" xMax="486.008200" yMax="195.801900">
+        <line xMin="425.975000" yMin="183.591900" xMax="486.008200" yMax="195.801900">
+          <word xMin="425.975000" yMin="183.591900" xMax="465.415000" yMax="195.801900">VanVleet,</word>
+          <word xMin="467.718200" yMin="183.591900" xMax="486.008200" yMax="195.801900">Fred</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="183.591900" xMax="601.915500" yMax="195.801900">
+        <line xMin="586.705500" yMin="183.591900" xMax="601.915500" yMax="195.801900">
+          <word xMin="586.705500" yMin="183.591900" xMax="601.915500" yMax="195.801900">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="183.591900" xMax="801.938800" yMax="195.801900">
+        <line xMin="667.070800" yMin="183.591900" xMax="801.938800" yMax="195.801900">
+          <word xMin="667.070800" yMin="183.591900" xMax="719.460800" yMax="195.801900">Injury/Illness</word>
+          <word xMin="721.787600" yMin="183.591900" xMax="724.847600" yMax="195.801900">-</word>
+          <word xMin="727.109900" yMin="183.591900" xMax="748.109900" yMax="195.801900">Right</word>
+          <word xMin="750.405800" yMin="183.591900" xMax="775.905800" yMax="195.801900">Ankle;</word>
+          <word xMin="778.198800" yMin="183.591900" xMax="801.938800" yMax="195.801900">Strain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="206.630000" xMax="476.482700" yMax="218.840000">
+        <line xMin="425.975000" yMin="206.630000" xMax="476.482700" yMax="218.840000">
+          <word xMin="425.975000" yMin="206.630000" xMax="456.285000" yMax="218.840000">Dennis,</word>
+          <word xMin="458.572700" yMin="206.630000" xMax="476.482700" yMax="218.840000">RayJ</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="206.630000" xMax="623.165500" yMax="218.840000">
+        <line xMin="586.705500" yMin="206.630000" xMax="623.165500" yMax="218.840000">
+          <word xMin="586.705500" yMin="206.630000" xMax="623.165500" yMax="218.840000">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="206.630000" xMax="750.685800" yMax="218.840000">
+        <line xMin="667.070800" yMin="206.630000" xMax="750.685800" yMax="218.840000">
+          <word xMin="667.070800" yMin="206.630000" xMax="673.370800" yMax="218.840000">G</word>
+          <word xMin="675.640100" yMin="206.630000" xMax="704.520100" yMax="218.840000">League</word>
+          <word xMin="706.807100" yMin="206.630000" xMax="709.867100" yMax="218.840000">-</word>
+          <word xMin="712.129400" yMin="206.630000" xMax="750.685800" yMax="218.840000">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="228.668100" xMax="498.165300" yMax="240.878100">
+        <line xMin="425.975000" yMin="228.668100" xMax="498.165300" yMax="240.878100">
+          <word xMin="425.975000" yMin="228.668100" xMax="464.495000" yMax="240.878100">Freeman,</word>
+          <word xMin="466.795300" yMin="228.668100" xMax="498.165300" yMax="240.878100">Enrique</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="228.668100" xMax="623.165500" yMax="240.878100">
+        <line xMin="586.705500" yMin="228.668100" xMax="623.165500" yMax="240.878100">
+          <word xMin="586.705500" yMin="228.668100" xMax="623.165500" yMax="240.878100">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="228.668100" xMax="750.685800" yMax="240.878100">
+        <line xMin="667.070800" yMin="228.668100" xMax="750.685800" yMax="240.878100">
+          <word xMin="667.070800" yMin="228.668100" xMax="673.370800" yMax="240.878100">G</word>
+          <word xMin="675.640100" yMin="228.668100" xMax="704.520100" yMax="240.878100">League</word>
+          <word xMin="706.807100" yMin="228.668100" xMax="709.867100" yMax="240.878100">-</word>
+          <word xMin="712.129400" yMin="228.668100" xMax="750.685800" yMax="240.878100">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="250.706200" xMax="500.932300" yMax="262.916200">
+        <line xMin="425.975000" yMin="250.706200" xMax="500.932300" yMax="262.916200">
+          <word xMin="425.975000" yMin="250.706200" xMax="471.905000" yMax="262.916200">Haliburton,</word>
+          <word xMin="474.212300" yMin="250.706200" xMax="500.932300" yMax="262.916200">Tyrese</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="250.706200" xMax="641.005500" yMax="262.916200">
+        <line xMin="586.705500" yMin="250.706200" xMax="641.005500" yMax="262.916200">
+          <word xMin="586.705500" yMin="250.706200" xMax="641.005500" yMax="262.916200">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="250.706200" xMax="814.624300" yMax="262.916200">
+        <line xMin="667.070800" yMin="250.706200" xMax="814.624300" yMax="262.916200">
+          <word xMin="667.070800" yMin="250.706200" xMax="719.460800" yMax="262.916200">Injury/Illness</word>
+          <word xMin="721.787600" yMin="250.706200" xMax="724.847600" yMax="262.916200">-</word>
+          <word xMin="727.109900" yMin="250.706200" xMax="742.669900" yMax="262.916200">Left</word>
+          <word xMin="744.951700" yMin="250.706200" xMax="758.721700" yMax="262.916200">Hip</word>
+          <word xMin="760.991700" yMin="250.706200" xMax="788.591700" yMax="262.916200">Flexor;</word>
+          <word xMin="790.884300" yMin="250.706200" xMax="814.624300" yMax="262.916200">Strain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="279.763300" xMax="485.462300" yMax="291.973300">
+        <line xMin="425.975000" yMin="279.763300" xMax="485.462300" yMax="291.973300">
+          <word xMin="425.975000" yMin="279.763300" xMax="459.625000" yMax="291.973300">Jackson,</word>
+          <word xMin="461.922300" yMin="279.763300" xMax="485.462300" yMax="291.973300">Isaiah</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="279.763300" xMax="601.915500" yMax="291.973300">
+        <line xMin="586.705500" yMin="279.763300" xMax="601.915500" yMax="291.973300">
+          <word xMin="586.705500" yMin="279.763300" xMax="601.915500" yMax="291.973300">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="272.744300" xMax="817.236600" yMax="298.992400">
+        <line xMin="667.070800" yMin="272.744300" xMax="817.236600" yMax="284.954300">
+          <word xMin="667.070800" yMin="272.744300" xMax="719.460800" yMax="284.954300">Injury/Illness</word>
+          <word xMin="721.787600" yMin="272.744300" xMax="724.847600" yMax="284.954300">-</word>
+          <word xMin="727.109900" yMin="272.744300" xMax="748.109900" yMax="284.954300">Right</word>
+          <word xMin="750.405800" yMin="272.744300" xMax="781.405800" yMax="284.954300">Achilles</word>
+          <word xMin="783.706600" yMin="272.744300" xMax="817.236600" yMax="284.954300">Tendon;</word>
+        </line>
+        <line xMin="667.070900" yMin="286.782400" xMax="685.940900" yMax="298.992400">
+          <word xMin="667.070900" yMin="286.782400" xMax="685.940900" yMax="298.992400">Torn</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="308.820400" xMax="497.972300" yMax="321.030400">
+        <line xMin="425.975000" yMin="308.820400" xMax="497.972300" yMax="321.030400">
+          <word xMin="425.975000" yMin="308.820400" xMax="459.625000" yMax="321.030400">Jackson,</word>
+          <word xMin="461.922300" yMin="308.820400" xMax="497.972300" yMax="321.030400">Quenton</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="308.820400" xMax="623.165500" yMax="321.030400">
+        <line xMin="586.705500" yMin="308.820400" xMax="623.165500" yMax="321.030400">
+          <word xMin="586.705500" yMin="308.820400" xMax="623.165500" yMax="321.030400">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="308.820400" xMax="750.685800" yMax="321.030400">
+        <line xMin="667.070800" yMin="308.820400" xMax="750.685800" yMax="321.030400">
+          <word xMin="667.070800" yMin="308.820400" xMax="673.370800" yMax="321.030400">G</word>
+          <word xMin="675.640100" yMin="308.820400" xMax="704.520100" yMax="321.030400">League</word>
+          <word xMin="706.807100" yMin="308.820400" xMax="709.867100" yMax="321.030400">-</word>
+          <word xMin="712.129400" yMin="308.820400" xMax="750.685800" yMax="321.030400">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="330.858500" xMax="509.933300" yMax="343.068500">
+        <line xMin="425.975000" yMin="330.858500" xMax="509.933300" yMax="343.068500">
+          <word xMin="425.975000" yMin="330.858500" xMax="466.655000" yMax="343.068500">Mathurin,</word>
+          <word xMin="468.963300" yMin="330.858500" xMax="509.933300" yMax="343.068500">Bennedict</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="330.858500" xMax="641.005500" yMax="343.068500">
+        <line xMin="586.705500" yMin="330.858500" xMax="641.005500" yMax="343.068500">
+          <word xMin="586.705500" yMin="330.858500" xMax="641.005500" yMax="343.068500">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="330.858500" xMax="797.476700" yMax="343.068500">
+        <line xMin="667.070800" yMin="330.858500" xMax="797.476700" yMax="343.068500">
+          <word xMin="667.070800" yMin="330.858500" xMax="719.460800" yMax="343.068500">Injury/Illness</word>
+          <word xMin="721.787600" yMin="330.858500" xMax="724.847600" yMax="343.068500">-</word>
+          <word xMin="727.109900" yMin="330.858500" xMax="742.669900" yMax="343.068500">Left</word>
+          <word xMin="744.951700" yMin="330.858500" xMax="769.531700" yMax="343.068500">Wrist;</word>
+          <word xMin="771.826700" yMin="330.858500" xMax="797.476700" yMax="343.068500">Sprain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="352.896600" xMax="489.529400" yMax="365.106600">
+        <line xMin="425.975000" yMin="352.896600" xMax="489.529400" yMax="365.106600">
+          <word xMin="425.975000" yMin="352.896600" xMax="462.655000" yMax="365.106600">Nesmith,</word>
+          <word xMin="464.959400" yMin="352.896600" xMax="489.529400" yMax="365.106600">Aaron</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="352.896600" xMax="623.165500" yMax="365.106600">
+        <line xMin="586.705500" yMin="352.896600" xMax="623.165500" yMax="365.106600">
+          <word xMin="586.705500" yMin="352.896600" xMax="623.165500" yMax="365.106600">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="352.896600" xMax="781.977500" yMax="365.106600">
+        <line xMin="667.070800" yMin="352.896600" xMax="781.977500" yMax="365.106600">
+          <word xMin="667.070800" yMin="352.896600" xMax="719.460800" yMax="365.106600">Injury/Illness</word>
+          <word xMin="721.787600" yMin="352.896600" xMax="724.847600" yMax="365.106600">-</word>
+          <word xMin="727.109900" yMin="352.896600" xMax="742.669900" yMax="365.106600">Left</word>
+          <word xMin="744.951700" yMin="352.896600" xMax="761.391700" yMax="365.106600">Hip;</word>
+          <word xMin="763.667500" yMin="352.896600" xMax="781.977500" yMax="365.106600">Sore</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="382.953700" xMax="477.250700" yMax="395.163700">
+        <line xMin="425.975000" yMin="382.953700" xMax="477.250700" yMax="395.163700">
+          <word xMin="425.975000" yMin="382.953700" xMax="454.275000" yMax="395.163700">Bufkin,</word>
+          <word xMin="456.570700" yMin="382.953700" xMax="477.250700" yMax="395.163700">Kobe</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="382.953700" xMax="601.915500" yMax="395.163700">
+        <line xMin="586.705500" yMin="382.953700" xMax="601.915500" yMax="395.163700">
+          <word xMin="586.705500" yMin="382.953700" xMax="601.915500" yMax="395.163700">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="375.934700" xMax="789.425800" yMax="402.182800">
+        <line xMin="667.070800" yMin="375.934700" xMax="789.425800" yMax="388.144700">
+          <word xMin="667.070800" yMin="375.934700" xMax="719.460800" yMax="388.144700">Injury/Illness</word>
+          <word xMin="721.787600" yMin="375.934700" xMax="724.847600" yMax="388.144700">-</word>
+          <word xMin="727.109900" yMin="375.934700" xMax="748.109900" yMax="388.144700">Right</word>
+          <word xMin="750.405800" yMin="375.934700" xMax="789.425800" yMax="388.144700">Shoulder;</word>
+        </line>
+        <line xMin="667.070800" yMin="389.972800" xMax="698.060800" yMax="402.182800">
+          <word xMin="667.070800" yMin="389.972800" xMax="698.060800" yMax="402.182800">Surgery</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="412.010900" xMax="484.619100" yMax="424.220900">
+        <line xMin="425.975000" yMin="412.010900" xMax="484.619100" yMax="424.220900">
+          <word xMin="425.975000" yMin="412.010900" xMax="461.845000" yMax="424.220900">Johnson,</word>
+          <word xMin="464.139100" yMin="412.010900" xMax="484.619100" yMax="424.220900">Jalen</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="412.010900" xMax="601.915500" yMax="424.220900">
+        <line xMin="586.705500" yMin="412.010900" xMax="601.915500" yMax="424.220900">
+          <word xMin="586.705500" yMin="412.010900" xMax="601.915500" yMax="424.220900">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="412.010900" xMax="817.264900" yMax="424.220900">
+        <line xMin="667.070800" yMin="412.010900" xMax="817.264900" yMax="424.220900">
+          <word xMin="667.070800" yMin="412.010900" xMax="719.460800" yMax="424.220900">Injury/Illness</word>
+          <word xMin="721.787600" yMin="412.010900" xMax="724.847600" yMax="424.220900">-</word>
+          <word xMin="727.109900" yMin="412.010900" xMax="742.669900" yMax="424.220900">Left</word>
+          <word xMin="744.951700" yMin="412.010900" xMax="783.971700" yMax="424.220900">Shoulder;</word>
+          <word xMin="786.274900" yMin="412.010900" xMax="817.264900" yMax="424.220900">Surgery</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="434.048900" xMax="464.604100" yMax="446.258900">
+        <line xMin="425.975000" yMin="434.048900" xMax="464.604100" yMax="446.258900">
+          <word xMin="425.975000" yMin="434.048900" xMax="451.005000" yMax="446.258900">Krejci,</word>
+          <word xMin="453.304100" yMin="434.048900" xMax="464.604100" yMax="446.258900">Vit</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="434.048900" xMax="641.005500" yMax="446.258900">
+        <line xMin="586.705500" yMin="434.048900" xMax="641.005500" yMax="446.258900">
+          <word xMin="586.705500" yMin="434.048900" xMax="641.005500" yMax="446.258900">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="434.048900" xMax="797.143000" yMax="446.258900">
+        <line xMin="667.070800" yMin="434.048900" xMax="797.143000" yMax="446.258900">
+          <word xMin="667.070800" yMin="434.048900" xMax="719.460800" yMax="446.258900">Injury/Illness</word>
+          <word xMin="721.787600" yMin="434.048900" xMax="724.847600" yMax="446.258900">-</word>
+          <word xMin="727.109900" yMin="434.048900" xMax="760.729900" yMax="446.258900">Lumbar;</word>
+          <word xMin="763.023000" yMin="434.048900" xMax="797.143000" yMax="446.258900">Fracture</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="463.106100" xMax="477.195900" yMax="475.316100">
+        <line xMin="425.975000" yMin="463.106100" xMax="477.195900" yMax="475.316100">
+          <word xMin="425.975000" yMin="463.106100" xMax="455.095000" yMax="475.316100">LeVert,</word>
+          <word xMin="457.395900" yMin="463.106100" xMax="477.195900" yMax="475.316100">Caris</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="463.106100" xMax="641.005500" yMax="475.316100">
+        <line xMin="586.705500" yMin="463.106100" xMax="641.005500" yMax="475.316100">
+          <word xMin="586.705500" yMin="463.106100" xMax="641.005500" yMax="475.316100">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="456.087000" xMax="768.001700" yMax="482.335100">
+        <line xMin="667.070800" yMin="456.087000" xMax="768.001700" yMax="468.297000">
+          <word xMin="667.070800" yMin="456.087000" xMax="719.460800" yMax="468.297000">Injury/Illness</word>
+          <word xMin="721.787600" yMin="456.087000" xMax="724.847600" yMax="468.297000">-</word>
+          <word xMin="727.109900" yMin="456.087000" xMax="742.669900" yMax="468.297000">Left</word>
+          <word xMin="744.951700" yMin="456.087000" xMax="768.001700" yMax="468.297000">Knee;</word>
+        </line>
+        <line xMin="667.070800" yMin="470.125100" xMax="721.860800" yMax="482.335100">
+          <word xMin="667.070800" yMin="470.125100" xMax="721.860800" yMax="482.335100">Inflammation</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="492.163200" xMax="487.128500" yMax="504.373200">
+        <line xMin="425.975000" yMin="492.163200" xMax="487.128500" yMax="504.373200">
+          <word xMin="425.975000" yMin="492.163200" xMax="452.295000" yMax="504.373200">Mann,</word>
+          <word xMin="454.578500" yMin="492.163200" xMax="487.128500" yMax="504.373200">Terance</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="492.163200" xMax="641.005500" yMax="504.373200">
+        <line xMin="586.705500" yMin="492.163200" xMax="641.005500" yMax="504.373200">
+          <word xMin="586.705500" yMin="492.163200" xMax="641.005500" yMax="504.373200">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="492.163200" xMax="818.528700" yMax="504.373200">
+        <line xMin="667.070800" yMin="492.163200" xMax="818.528700" yMax="504.373200">
+          <word xMin="667.070800" yMin="492.163200" xMax="719.460800" yMax="504.373200">Injury/Illness</word>
+          <word xMin="721.787600" yMin="492.163200" xMax="724.847600" yMax="504.373200">-</word>
+          <word xMin="727.109900" yMin="492.163200" xMax="748.109900" yMax="504.373200">Right</word>
+          <word xMin="750.405800" yMin="492.163200" xMax="775.085800" yMax="504.373200">Quad;</word>
+          <word xMin="777.368700" yMin="492.163200" xMax="818.528700" yMax="504.373200">Contusion</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+        <line xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+          <word xMin="398.533600" yMin="535.913400" xMax="418.153600" yMax="548.123400">Page</word>
+          <word xMin="420.433000" yMin="535.913400" xMax="425.493000" yMax="548.123400">2</word>
+          <word xMin="427.762100" yMin="535.913400" xMax="436.082100" yMax="548.123400">of</word>
+          <word xMin="438.348000" yMin="535.913400" xMax="443.408000" yMax="548.123400">7</word>
+        </line>
+      </block>
+    </flow>
+  </page>
+  <page width="841.950000" height="595.350000">
+    <flow>
+      <block xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+        <line xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+          <word xMin="289.108100" yMin="38.271400" xMax="349.454100" yMax="67.531400">Injury</word>
+          <word xMin="355.613000" yMin="38.271400" xMax="432.173000" yMax="67.531400">Report:</word>
+          <word xMin="438.317100" yMin="38.271400" xMax="533.709100" yMax="67.531400">03/08/25</word>
+          <word xMin="539.820000" yMin="38.271400" xMax="596.360000" yMax="67.531400">12:30</word>
+          <word xMin="602.468400" yMin="38.271400" xMax="637.030400" yMax="67.531400">PM</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="197.630000" xMax="246.062300" yMax="209.840000">
+        <line xMin="200.952300" yMin="197.630000" xMax="246.062300" yMax="209.840000">
+          <word xMin="200.952300" yMin="197.630000" xMax="246.062300" yMax="209.840000">WAS@TOR</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="197.630000" xMax="349.049600" yMax="209.840000">
+        <line xMin="265.244500" yMin="197.630000" xMax="349.049600" yMax="209.840000">
+          <word xMin="265.244500" yMin="197.630000" xMax="314.184500" yMax="209.840000">Washington</word>
+          <word xMin="316.489600" yMin="197.630000" xMax="349.049600" yMax="209.840000">Wizards</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="87.420500" xMax="488.364000" yMax="99.630500">
+        <line xMin="425.975000" yMin="87.420500" xMax="488.364000" yMax="99.630500">
+          <word xMin="425.975000" yMin="87.420500" xMax="451.655000" yMax="99.630500">Nance</word>
+          <word xMin="453.938900" yMin="87.420500" xMax="465.608900" yMax="99.630500">Jr.,</word>
+          <word xMin="467.894000" yMin="87.420500" xMax="488.364000" yMax="99.630500">Larry</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="87.420500" xMax="601.915500" yMax="99.630500">
+        <line xMin="586.705500" yMin="87.420500" xMax="601.915500" yMax="99.630500">
+          <word xMin="586.705500" yMin="87.420500" xMax="601.915500" yMax="99.630500">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="80.401500" xMax="814.195700" yMax="106.649600">
+        <line xMin="667.070800" yMin="80.401500" xMax="814.195700" yMax="92.611500">
+          <word xMin="667.070800" yMin="80.401500" xMax="719.460800" yMax="92.611500">Injury/Illness</word>
+          <word xMin="721.787600" yMin="80.401500" xMax="724.847600" yMax="92.611500">-</word>
+          <word xMin="727.109900" yMin="80.401500" xMax="748.109900" yMax="92.611500">Right</word>
+          <word xMin="750.405800" yMin="80.401500" xMax="778.535800" yMax="92.611500">Medial</word>
+          <word xMin="780.825700" yMin="80.401500" xMax="814.195700" yMax="92.611500">Femoral</word>
+        </line>
+        <line xMin="667.070800" yMin="94.439600" xMax="739.037500" yMax="106.649600">
+          <word xMin="667.070800" yMin="94.439600" xMax="702.620800" yMax="106.649600">Condyle;</word>
+          <word xMin="704.917500" yMin="94.439600" xMax="739.037500" yMax="106.649600">Fracture</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="116.477700" xMax="504.917100" yMax="128.687700">
+        <line xMin="425.975000" yMin="116.477700" xMax="504.917100" yMax="128.687700">
+          <word xMin="425.975000" yMin="116.477700" xMax="463.795000" yMax="128.687700">Plowden,</word>
+          <word xMin="466.097100" yMin="116.477700" xMax="504.917100" yMax="128.687700">Daeqwon</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="116.477700" xMax="601.915500" yMax="128.687700">
+        <line xMin="586.705500" yMin="116.477700" xMax="601.915500" yMax="128.687700">
+          <word xMin="586.705500" yMin="116.477700" xMax="601.915500" yMax="128.687700">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="116.477700" xMax="750.685800" yMax="128.687700">
+        <line xMin="667.070800" yMin="116.477700" xMax="750.685800" yMax="128.687700">
+          <word xMin="667.070800" yMin="116.477700" xMax="673.370800" yMax="128.687700">G</word>
+          <word xMin="675.640100" yMin="116.477700" xMax="704.520100" yMax="128.687700">League</word>
+          <word xMin="706.807100" yMin="116.477700" xMax="709.867100" yMax="128.687700">-</word>
+          <word xMin="712.129400" yMin="116.477700" xMax="750.685800" yMax="128.687700">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="138.515700" xMax="481.644000" yMax="150.725700">
+        <line xMin="425.975000" yMin="138.515700" xMax="481.644000" yMax="150.725700">
+          <word xMin="425.975000" yMin="138.515700" xMax="456.645000" yMax="150.725700">Toppin,</word>
+          <word xMin="458.934000" yMin="138.515700" xMax="481.644000" yMax="150.725700">Jacob</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="138.515700" xMax="601.915500" yMax="150.725700">
+        <line xMin="586.705500" yMin="138.515700" xMax="601.915500" yMax="150.725700">
+          <word xMin="586.705500" yMin="138.515700" xMax="601.915500" yMax="150.725700">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="138.515700" xMax="750.685800" yMax="150.725700">
+        <line xMin="667.070800" yMin="138.515700" xMax="750.685800" yMax="150.725700">
+          <word xMin="667.070800" yMin="138.515700" xMax="673.370800" yMax="150.725700">G</word>
+          <word xMin="675.640100" yMin="138.515700" xMax="704.520100" yMax="150.725700">League</word>
+          <word xMin="706.807100" yMin="138.515700" xMax="709.867100" yMax="150.725700">-</word>
+          <word xMin="712.129400" yMin="138.515700" xMax="750.685800" yMax="150.725700">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="167.572900" xMax="474.202200" yMax="179.782900">
+        <line xMin="425.975000" yMin="167.572900" xMax="474.202200" yMax="179.782900">
+          <word xMin="425.975000" yMin="167.572900" xMax="453.805000" yMax="179.782900">Young,</word>
+          <word xMin="456.092200" yMin="167.572900" xMax="474.202200" yMax="179.782900">Trae</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="167.572900" xMax="623.165500" yMax="179.782900">
+        <line xMin="586.705500" yMin="167.572900" xMax="623.165500" yMax="179.782900">
+          <word xMin="586.705500" yMin="167.572900" xMax="623.165500" yMax="179.782900">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="160.553800" xMax="784.075800" yMax="186.801900">
+        <line xMin="667.070800" yMin="160.553800" xMax="784.075800" yMax="172.763800">
+          <word xMin="667.070800" yMin="160.553800" xMax="719.460800" yMax="172.763800">Injury/Illness</word>
+          <word xMin="721.787600" yMin="160.553800" xMax="724.847600" yMax="172.763800">-</word>
+          <word xMin="727.109900" yMin="160.553800" xMax="748.109900" yMax="172.763800">Right</word>
+          <word xMin="750.405800" yMin="160.553800" xMax="784.075800" yMax="172.763800">Achilles;</word>
+        </line>
+        <line xMin="667.070800" yMin="174.591900" xMax="706.780800" yMax="186.801900">
+          <word xMin="667.070800" yMin="174.591900" xMax="706.780800" yMax="186.801900">Tendinitis</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="197.630000" xMax="473.092300" yMax="209.840000">
+        <line xMin="425.975000" yMin="197.630000" xMax="473.092300" yMax="209.840000">
+          <word xMin="425.975000" yMin="197.630000" xMax="443.385000" yMax="209.840000">Bey,</word>
+          <word xMin="445.672300" yMin="197.630000" xMax="473.092300" yMax="209.840000">Saddiq</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="197.630000" xMax="601.915500" yMax="209.840000">
+        <line xMin="586.705500" yMin="197.630000" xMax="601.915500" yMax="209.840000">
+          <word xMin="586.705500" yMin="197.630000" xMax="601.915500" yMax="209.840000">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="197.630000" xMax="818.861600" yMax="209.840000">
+        <line xMin="667.070800" yMin="197.630000" xMax="818.861600" yMax="209.840000">
+          <word xMin="667.070800" yMin="197.630000" xMax="719.460800" yMax="209.840000">Injury/Illness</word>
+          <word xMin="721.787600" yMin="197.630000" xMax="724.847600" yMax="209.840000">-</word>
+          <word xMin="727.109900" yMin="197.630000" xMax="742.669900" yMax="209.840000">Left</word>
+          <word xMin="744.951700" yMin="197.630000" xMax="768.001700" yMax="209.840000">Knee;</word>
+          <word xMin="770.288600" yMin="197.630000" xMax="785.598600" yMax="209.840000">ACL</word>
+          <word xMin="787.871600" yMin="197.630000" xMax="818.861600" yMax="209.840000">Surgery</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="219.668100" xMax="500.798400" yMax="231.878100">
+        <line xMin="425.975000" yMin="219.668100" xMax="500.798400" yMax="231.878100">
+          <word xMin="425.975000" yMin="219.668100" xMax="463.115000" yMax="231.878100">Brogdon,</word>
+          <word xMin="465.418400" yMin="219.668100" xMax="500.798400" yMax="231.878100">Malcolm</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="219.668100" xMax="601.915500" yMax="231.878100">
+        <line xMin="586.705500" yMin="219.668100" xMax="601.915500" yMax="231.878100">
+          <word xMin="586.705500" yMin="219.668100" xMax="601.915500" yMax="231.878100">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="219.668100" xMax="798.394700" yMax="231.878100">
+        <line xMin="667.070800" yMin="219.668100" xMax="798.394700" yMax="231.878100">
+          <word xMin="667.070800" yMin="219.668100" xMax="719.460800" yMax="231.878100">Injury/Illness</word>
+          <word xMin="721.787600" yMin="219.668100" xMax="724.847600" yMax="231.878100">-</word>
+          <word xMin="727.109900" yMin="219.668100" xMax="742.669900" yMax="231.878100">Left</word>
+          <word xMin="744.951700" yMin="219.668100" xMax="770.451700" yMax="231.878100">Ankle;</word>
+          <word xMin="772.744700" yMin="219.668100" xMax="798.394700" yMax="231.878100">Sprain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="241.706200" xMax="493.874700" yMax="253.916200">
+        <line xMin="425.975000" yMin="241.706200" xMax="493.874700" yMax="253.916200">
+          <word xMin="425.975000" yMin="241.706200" xMax="459.115000" yMax="253.916200">Holmes,</word>
+          <word xMin="461.404700" yMin="241.706200" xMax="493.874700" yMax="253.916200">Richaun</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="241.706200" xMax="641.005500" yMax="253.916200">
+        <line xMin="586.705500" yMin="241.706200" xMax="641.005500" yMax="253.916200">
+          <word xMin="586.705500" yMin="241.706200" xMax="641.005500" yMax="253.916200">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="241.706200" xMax="811.448600" yMax="253.916200">
+        <line xMin="667.070800" yMin="241.706200" xMax="811.448600" yMax="253.916200">
+          <word xMin="667.070800" yMin="241.706200" xMax="719.460800" yMax="253.916200">Injury/Illness</word>
+          <word xMin="721.787600" yMin="241.706200" xMax="724.847600" yMax="253.916200">-</word>
+          <word xMin="727.109900" yMin="241.706200" xMax="742.669900" yMax="253.916200">Left</word>
+          <word xMin="744.951700" yMin="241.706200" xMax="768.001700" yMax="253.916200">Knee;</word>
+          <word xMin="770.288600" yMin="241.706200" xMax="811.448600" yMax="253.916200">Contusion</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="270.763300" xMax="475.993400" yMax="282.973300">
+        <line xMin="425.975000" yMin="270.763300" xMax="475.993400" yMax="282.973300">
+          <word xMin="425.975000" yMin="270.763300" xMax="451.045000" yMax="282.973300">Jones,</word>
+          <word xMin="453.333400" yMin="270.763300" xMax="475.993400" yMax="282.973300">Colby</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="270.763300" xMax="601.915500" yMax="282.973300">
+        <line xMin="586.705500" yMin="270.763300" xMax="601.915500" yMax="282.973300">
+          <word xMin="586.705500" yMin="270.763300" xMax="601.915500" yMax="282.973300">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="263.744300" xMax="784.075800" yMax="289.992400">
+        <line xMin="667.070800" yMin="263.744300" xMax="784.075800" yMax="275.954300">
+          <word xMin="667.070800" yMin="263.744300" xMax="719.460800" yMax="275.954300">Injury/Illness</word>
+          <word xMin="721.787600" yMin="263.744300" xMax="724.847600" yMax="275.954300">-</word>
+          <word xMin="727.109900" yMin="263.744300" xMax="748.109900" yMax="275.954300">Right</word>
+          <word xMin="750.405800" yMin="263.744300" xMax="784.075800" yMax="275.954300">Achilles;</word>
+        </line>
+        <line xMin="667.070800" yMin="277.782400" xMax="723.370800" yMax="289.992400">
+          <word xMin="667.070800" yMin="277.782400" xMax="723.370800" yMax="289.992400">Tendinopathy</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="299.820400" xMax="483.455500" yMax="312.030400">
+        <line xMin="425.975000" yMin="299.820400" xMax="483.455500" yMax="312.030400">
+          <word xMin="425.975000" yMin="299.820400" xMax="456.155000" yMax="312.030400">Martin,</word>
+          <word xMin="458.455500" yMin="299.820400" xMax="483.455500" yMax="312.030400">Jaylen</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="299.820400" xMax="601.915500" yMax="312.030400">
+        <line xMin="586.705500" yMin="299.820400" xMax="601.915500" yMax="312.030400">
+          <word xMin="586.705500" yMin="299.820400" xMax="601.915500" yMax="312.030400">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="299.820400" xMax="750.685800" yMax="312.030400">
+        <line xMin="667.070800" yMin="299.820400" xMax="750.685800" yMax="312.030400">
+          <word xMin="667.070800" yMin="299.820400" xMax="673.370800" yMax="312.030400">G</word>
+          <word xMin="675.640100" yMin="299.820400" xMax="704.520100" yMax="312.030400">League</word>
+          <word xMin="706.807100" yMin="299.820400" xMax="709.867100" yMax="312.030400">-</word>
+          <word xMin="712.129400" yMin="299.820400" xMax="750.685800" yMax="312.030400">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="328.877600" xMax="480.934300" yMax="341.087600">
+        <line xMin="425.975000" yMin="328.877600" xMax="480.934300" yMax="341.087600">
+          <word xMin="425.975000" yMin="328.877600" xMax="451.425000" yMax="341.087600">Poole,</word>
+          <word xMin="453.714300" yMin="328.877600" xMax="480.934300" yMax="341.087600">Jordan</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="328.877600" xMax="641.005500" yMax="341.087600">
+        <line xMin="586.705500" yMin="328.877600" xMax="641.005500" yMax="341.087600">
+          <word xMin="586.705500" yMin="328.877600" xMax="641.005500" yMax="341.087600">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="321.858500" xMax="777.905800" yMax="348.106600">
+        <line xMin="667.070800" yMin="321.858500" xMax="777.905800" yMax="334.068500">
+          <word xMin="667.070800" yMin="321.858500" xMax="719.460800" yMax="334.068500">Injury/Illness</word>
+          <word xMin="721.787600" yMin="321.858500" xMax="724.847600" yMax="334.068500">-</word>
+          <word xMin="727.109900" yMin="321.858500" xMax="748.109900" yMax="334.068500">Right</word>
+          <word xMin="750.405800" yMin="321.858500" xMax="777.905800" yMax="334.068500">Elbow;</word>
+        </line>
+        <line xMin="667.070800" yMin="335.896600" xMax="708.230800" yMax="348.106600">
+          <word xMin="667.070800" yMin="335.896600" xMax="708.230800" yMax="348.106600">Contusion</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="357.934700" xMax="457.667600" yMax="370.144700">
+        <line xMin="425.975000" yMin="357.934700" xMax="457.667600" yMax="370.144700">
+          <word xMin="425.975000" yMin="357.934700" xMax="447.335000" yMax="370.144700">Thor,</word>
+          <word xMin="449.617600" yMin="357.934700" xMax="457.667600" yMax="370.144700">JT</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="357.934700" xMax="601.915500" yMax="370.144700">
+        <line xMin="586.705500" yMin="357.934700" xMax="601.915500" yMax="370.144700">
+          <word xMin="586.705500" yMin="357.934700" xMax="601.915500" yMax="370.144700">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="357.934700" xMax="750.685800" yMax="370.144700">
+        <line xMin="667.070800" yMin="357.934700" xMax="750.685800" yMax="370.144700">
+          <word xMin="667.070800" yMin="357.934700" xMax="673.370800" yMax="370.144700">G</word>
+          <word xMin="675.640100" yMin="357.934700" xMax="704.520100" yMax="370.144700">League</word>
+          <word xMin="706.807100" yMin="357.934700" xMax="709.867100" yMax="370.144700">-</word>
+          <word xMin="712.129400" yMin="357.934700" xMax="750.685800" yMax="370.144700">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="380.972800" xMax="331.748400" yMax="393.182800">
+        <line xMin="265.244500" yMin="380.972800" xMax="331.748400" yMax="393.182800">
+          <word xMin="265.244500" yMin="380.972800" xMax="297.994500" yMax="393.182800">Toronto</word>
+          <word xMin="300.288400" yMin="380.972800" xMax="331.748400" yMax="393.182800">Raptors</word>
+        </line>
+      </block>
+      <block xMin="120.587100" yMin="404.010900" xMax="161.607100" yMax="416.220900">
+        <line xMin="120.587100" yMin="404.010900" xMax="161.607100" yMax="416.220900">
+          <word xMin="120.587100" yMin="404.010900" xMax="143.497100" yMax="416.220900">08:00</word>
+          <word xMin="145.797100" yMin="404.010900" xMax="161.607100" yMax="416.220900">(ET)</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="404.010900" xMax="240.792300" yMax="416.220900">
+        <line xMin="200.952300" yMin="404.010900" xMax="240.792300" yMax="416.220900">
+          <word xMin="200.952300" yMin="404.010900" xMax="240.792300" yMax="416.220900">CHI@MIA</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="404.010900" xMax="318.555100" yMax="416.220900">
+        <line xMin="265.244500" yMin="404.010900" xMax="318.555100" yMax="416.220900">
+          <word xMin="265.244500" yMin="404.010900" xMax="297.094500" yMax="416.220900">Chicago</word>
+          <word xMin="299.385100" yMin="404.010900" xMax="318.555100" yMax="416.220900">Bulls</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="380.972800" xMax="752.420400" yMax="393.182800">
+        <line xMin="667.070800" yMin="380.972800" xMax="752.420400" yMax="393.182800">
+          <word xMin="667.070800" yMin="380.972800" xMax="685.010800" yMax="393.182800">NOT</word>
+          <word xMin="687.280800" yMin="380.972800" xMax="701.900800" yMax="393.182800">YET</word>
+          <word xMin="704.170400" yMin="380.972800" xMax="752.420400" yMax="393.182800">SUBMITTED</word>
+        </line>
+      </block>
+      <block xMin="425.975000" yMin="404.010900" xMax="469.490200" yMax="416.220900">
+        <line xMin="425.975000" yMin="404.010900" xMax="469.490200" yMax="416.220900">
+          <word xMin="425.975000" yMin="404.010900" xMax="443.265000" yMax="416.220900">Ball,</word>
+          <word xMin="445.550200" yMin="404.010900" xMax="469.490200" yMax="416.220900">Lonzo</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="404.010900" xMax="622.555500" yMax="416.220900">
+        <line xMin="586.705500" yMin="404.010900" xMax="622.555500" yMax="416.220900">
+          <word xMin="586.705500" yMin="404.010900" xMax="622.555500" yMax="416.220900">Doubtful</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="404.010900" xMax="802.930800" yMax="416.220900">
+        <line xMin="667.070800" yMin="404.010900" xMax="802.930800" yMax="416.220900">
+          <word xMin="667.070800" yMin="404.010900" xMax="719.460800" yMax="416.220900">Injury/Illness</word>
+          <word xMin="721.787600" yMin="404.010900" xMax="724.847600" yMax="416.220900">-</word>
+          <word xMin="727.109900" yMin="404.010900" xMax="748.109900" yMax="416.220900">Right</word>
+          <word xMin="750.405800" yMin="404.010900" xMax="774.985800" yMax="416.220900">Wrist;</word>
+          <word xMin="777.280800" yMin="404.010900" xMax="802.930800" yMax="416.220900">Sprain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="426.048900" xMax="485.387800" yMax="438.258900">
+        <line xMin="425.975000" yMin="426.048900" xMax="485.387800" yMax="438.258900">
+          <word xMin="425.975000" yMin="426.048900" xMax="467.525000" yMax="438.258900">Dosunmu,</word>
+          <word xMin="469.817800" yMin="426.048900" xMax="485.387800" yMax="438.258900">Ayo</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="426.048900" xMax="601.915500" yMax="438.258900">
+        <line xMin="586.705500" yMin="426.048900" xMax="601.915500" yMax="438.258900">
+          <word xMin="586.705500" yMin="426.048900" xMax="601.915500" yMax="438.258900">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="426.048900" xMax="817.264900" yMax="438.258900">
+        <line xMin="667.070800" yMin="426.048900" xMax="817.264900" yMax="438.258900">
+          <word xMin="667.070800" yMin="426.048900" xMax="719.460800" yMax="438.258900">Injury/Illness</word>
+          <word xMin="721.787600" yMin="426.048900" xMax="724.847600" yMax="438.258900">-</word>
+          <word xMin="727.109900" yMin="426.048900" xMax="742.669900" yMax="438.258900">Left</word>
+          <word xMin="744.951700" yMin="426.048900" xMax="783.971700" yMax="438.258900">Shoulder;</word>
+          <word xMin="786.274900" yMin="426.048900" xMax="817.264900" yMax="438.258900">Surgery</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="448.087000" xMax="512.192800" yMax="460.297000">
+        <line xMin="425.975000" yMin="448.087000" xMax="512.192800" yMax="460.297000">
+          <word xMin="425.975000" yMin="448.087000" xMax="487.723700" yMax="460.297000">Horton-Tucker,</word>
+          <word xMin="490.022800" yMin="448.087000" xMax="512.192800" yMax="460.297000">Talen</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="448.087000" xMax="623.165500" yMax="460.297000">
+        <line xMin="586.705500" yMin="448.087000" xMax="623.165500" yMax="460.297000">
+          <word xMin="586.705500" yMin="448.087000" xMax="623.165500" yMax="460.297000">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="448.087000" xMax="803.848800" yMax="460.297000">
+        <line xMin="667.070800" yMin="448.087000" xMax="803.848800" yMax="460.297000">
+          <word xMin="667.070800" yMin="448.087000" xMax="719.460800" yMax="460.297000">Injury/Illness</word>
+          <word xMin="721.787600" yMin="448.087000" xMax="724.847600" yMax="460.297000">-</word>
+          <word xMin="727.109900" yMin="448.087000" xMax="748.109900" yMax="460.297000">Right</word>
+          <word xMin="750.405800" yMin="448.087000" xMax="775.905800" yMax="460.297000">Ankle;</word>
+          <word xMin="778.198800" yMin="448.087000" xMax="803.848800" yMax="460.297000">Sprain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="470.125100" xMax="487.532700" yMax="482.335100">
+        <line xMin="425.975000" yMin="470.125100" xMax="487.532700" yMax="482.335100">
+          <word xMin="425.975000" yMin="470.125100" xMax="459.595000" yMax="482.335100">Vucevic,</word>
+          <word xMin="461.902700" yMin="470.125100" xMax="487.532700" yMax="482.335100">Nikola</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="470.125100" xMax="622.555500" yMax="482.335100">
+        <line xMin="586.705500" yMin="470.125100" xMax="622.555500" yMax="482.335100">
+          <word xMin="586.705500" yMin="470.125100" xMax="622.555500" yMax="482.335100">Doubtful</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="470.125100" xMax="794.551100" yMax="482.335100">
+        <line xMin="667.070800" yMin="470.125100" xMax="794.551100" yMax="482.335100">
+          <word xMin="667.070800" yMin="470.125100" xMax="719.460800" yMax="482.335100">Injury/Illness</word>
+          <word xMin="721.787600" yMin="470.125100" xMax="724.847600" yMax="482.335100">-</word>
+          <word xMin="727.109900" yMin="470.125100" xMax="748.109900" yMax="482.335100">Right</word>
+          <word xMin="750.405800" yMin="470.125100" xMax="768.535800" yMax="482.335100">Calf;</word>
+          <word xMin="770.811100" yMin="470.125100" xMax="794.551100" yMax="482.335100">Strain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="492.163200" xMax="475.871400" yMax="504.373200">
+        <line xMin="425.975000" yMin="492.163200" xMax="475.871400" yMax="504.373200">
+          <word xMin="425.975000" yMin="492.163200" xMax="453.205000" yMax="504.373200">White,</word>
+          <word xMin="455.501400" yMin="492.163200" xMax="475.871400" yMax="504.373200">Coby</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="492.163200" xMax="623.165500" yMax="504.373200">
+        <line xMin="586.705500" yMin="492.163200" xMax="623.165500" yMax="504.373200">
+          <word xMin="586.705500" yMin="492.163200" xMax="623.165500" yMax="504.373200">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="492.163200" xMax="768.185800" yMax="504.373200">
+        <line xMin="667.070800" yMin="492.163200" xMax="768.185800" yMax="504.373200">
+          <word xMin="667.070800" yMin="492.163200" xMax="719.460800" yMax="504.373200">Injury/Illness</word>
+          <word xMin="721.787600" yMin="492.163200" xMax="724.847600" yMax="504.373200">-</word>
+          <word xMin="727.109900" yMin="492.163200" xMax="748.109900" yMax="504.373200">Right</word>
+          <word xMin="750.405800" yMin="492.163200" xMax="768.185800" yMax="504.373200">Toe;</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+        <line xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+          <word xMin="398.533600" yMin="535.913400" xMax="418.153600" yMax="548.123400">Page</word>
+          <word xMin="420.433000" yMin="535.913400" xMax="425.493000" yMax="548.123400">3</word>
+          <word xMin="427.762100" yMin="535.913400" xMax="436.082100" yMax="548.123400">of</word>
+          <word xMin="438.348000" yMin="535.913400" xMax="443.408000" yMax="548.123400">7</word>
+        </line>
+      </block>
+    </flow>
+  </page>
+  <page width="841.950000" height="595.350000">
+    <flow>
+      <block xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+        <line xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+          <word xMin="289.108100" yMin="38.271400" xMax="349.454100" yMax="67.531400">Injury</word>
+          <word xMin="355.613000" yMin="38.271400" xMax="432.173000" yMax="67.531400">Report:</word>
+          <word xMin="438.317100" yMin="38.271400" xMax="533.709100" yMax="67.531400">03/08/25</word>
+          <word xMin="539.820000" yMin="38.271400" xMax="596.360000" yMax="67.531400">12:30</word>
+          <word xMin="602.468400" yMin="38.271400" xMax="637.030400" yMax="67.531400">PM</word>
+        </line>
+      </block>
+      <block xMin="667.070800" yMin="78.401500" xMax="717.950800" yMax="90.611500">
+        <line xMin="667.070800" yMin="78.401500" xMax="717.950800" yMax="90.611500">
+          <word xMin="667.070800" yMin="78.401500" xMax="717.950800" yMax="90.611500">Sesamoiditis</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="137.515700" xMax="312.753200" yMax="149.725700">
+        <line xMin="265.244500" yMin="137.515700" xMax="312.753200" yMax="149.725700">
+          <word xMin="265.244500" yMin="137.515700" xMax="291.134500" yMax="149.725700">Miami</word>
+          <word xMin="293.423200" yMin="137.515700" xMax="312.753200" yMax="149.725700">Heat</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="336.858500" xMax="241.382300" yMax="349.068500">
+        <line xMin="200.952300" yMin="336.858500" xMax="241.382300" yMax="349.068500">
+          <word xMin="200.952300" yMin="336.858500" xMax="241.382300" yMax="349.068500">ORL@MIL</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="336.858500" xMax="325.018900" yMax="349.068500">
+        <line xMin="265.244500" yMin="336.858500" xMax="325.018900" yMax="349.068500">
+          <word xMin="265.244500" yMin="336.858500" xMax="298.194500" yMax="349.068500">Orlando</word>
+          <word xMin="300.478900" yMin="336.858500" xMax="325.018900" yMax="349.068500">Magic</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="440.048900" xMax="335.684300" yMax="452.258900">
+        <line xMin="265.244500" yMin="440.048900" xMax="335.684300" yMax="452.258900">
+          <word xMin="265.244500" yMin="440.048900" xMax="310.024500" yMax="452.258900">Milwaukee</word>
+          <word xMin="312.334300" yMin="440.048900" xMax="335.684300" yMax="452.258900">Bucks</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="107.458600" xMax="493.316500" yMax="119.668600">
+        <line xMin="425.975000" yMin="107.458600" xMax="493.316500" yMax="119.668600">
+          <word xMin="425.975000" yMin="107.458600" xMax="463.195000" yMax="119.668600">Williams,</word>
+          <word xMin="465.496500" yMin="107.458600" xMax="493.316500" yMax="119.668600">Patrick</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="107.458600" xMax="622.555500" yMax="119.668600">
+        <line xMin="586.705500" yMin="107.458600" xMax="622.555500" yMax="119.668600">
+          <word xMin="586.705500" yMin="107.458600" xMax="622.555500" yMax="119.668600">Doubtful</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="100.439600" xMax="792.625800" yMax="126.687700">
+        <line xMin="667.070800" yMin="100.439600" xMax="792.625800" yMax="112.649600">
+          <word xMin="667.070800" yMin="100.439600" xMax="719.460800" yMax="112.649600">Injury/Illness</word>
+          <word xMin="721.787600" yMin="100.439600" xMax="724.847600" yMax="112.649600">-</word>
+          <word xMin="727.109900" yMin="100.439600" xMax="748.109900" yMax="112.649600">Right</word>
+          <word xMin="750.405800" yMin="100.439600" xMax="792.625800" yMax="112.649600">Quadricep</word>
+        </line>
+        <line xMin="667.070800" yMin="114.477700" xMax="746.151100" yMax="126.687700">
+          <word xMin="667.070800" yMin="114.477700" xMax="700.600800" yMax="126.687700">Tendon;</word>
+          <word xMin="702.891100" yMin="114.477700" xMax="746.151100" yMax="126.687700">Tendinosis</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="137.515700" xMax="484.790200" yMax="149.725700">
+        <line xMin="425.975000" yMin="137.515700" xMax="484.790200" yMax="149.725700">
+          <word xMin="425.975000" yMin="137.515700" xMax="464.295000" yMax="149.725700">Adebayo,</word>
+          <word xMin="466.590200" yMin="137.515700" xMax="484.790200" yMax="149.725700">Bam</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="137.515700" xMax="623.665500" yMax="149.725700">
+        <line xMin="586.705500" yMin="137.515700" xMax="623.665500" yMax="149.725700">
+          <word xMin="586.705500" yMin="137.515700" xMax="623.665500" yMax="149.725700">Available</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="137.515700" xMax="811.971100" yMax="149.725700">
+        <line xMin="667.070800" yMin="137.515700" xMax="811.971100" yMax="149.725700">
+          <word xMin="667.070800" yMin="137.515700" xMax="719.460800" yMax="149.725700">Injury/Illness</word>
+          <word xMin="721.787600" yMin="137.515700" xMax="724.847600" yMax="149.725700">-</word>
+          <word xMin="727.109900" yMin="137.515700" xMax="748.109900" yMax="149.725700">Right</word>
+          <word xMin="750.405800" yMin="137.515700" xMax="768.535800" yMax="149.725700">Calf;</word>
+          <word xMin="770.811100" yMin="137.515700" xMax="811.971100" yMax="149.725700">Contusion</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="159.553800" xMax="470.627600" yMax="171.763800">
+        <line xMin="425.975000" yMin="159.553800" xMax="470.627600" yMax="171.763800">
+          <word xMin="425.975000" yMin="159.553800" xMax="451.075000" yMax="171.763800">Burks,</word>
+          <word xMin="453.367600" yMin="159.553800" xMax="470.627600" yMax="171.763800">Alec</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="159.553800" xMax="641.005500" yMax="171.763800">
+        <line xMin="586.705500" yMin="159.553800" xMax="641.005500" yMax="171.763800">
+          <word xMin="586.705500" yMin="159.553800" xMax="641.005500" yMax="171.763800">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="159.553800" xMax="795.888900" yMax="171.763800">
+        <line xMin="667.070800" yMin="159.553800" xMax="795.888900" yMax="171.763800">
+          <word xMin="667.070800" yMin="159.553800" xMax="719.460800" yMax="171.763800">Injury/Illness</word>
+          <word xMin="721.787600" yMin="159.553800" xMax="724.847600" yMax="171.763800">-</word>
+          <word xMin="727.109900" yMin="159.553800" xMax="752.169900" yMax="171.763800">Lower</word>
+          <word xMin="754.458500" yMin="159.553800" xMax="776.108500" yMax="171.763800">Back;</word>
+          <word xMin="778.398900" yMin="159.553800" xMax="795.888900" yMax="171.763800">Pain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="181.591900" xMax="496.212000" yMax="193.801900">
+        <line xMin="425.975000" yMin="181.591900" xMax="496.212000" yMax="193.801900">
+          <word xMin="425.975000" yMin="181.591900" xMax="476.285000" yMax="193.801900">Christopher,</word>
+          <word xMin="478.602000" yMin="181.591900" xMax="496.212000" yMax="193.801900">Josh</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="181.591900" xMax="601.915500" yMax="193.801900">
+        <line xMin="586.705500" yMin="181.591900" xMax="601.915500" yMax="193.801900">
+          <word xMin="586.705500" yMin="181.591900" xMax="601.915500" yMax="193.801900">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="181.591900" xMax="750.685800" yMax="193.801900">
+        <line xMin="667.070800" yMin="181.591900" xMax="750.685800" yMax="193.801900">
+          <word xMin="667.070800" yMin="181.591900" xMax="673.370800" yMax="193.801900">G</word>
+          <word xMin="675.640100" yMin="181.591900" xMax="704.520100" yMax="193.801900">League</word>
+          <word xMin="706.807100" yMin="181.591900" xMax="709.867100" yMax="193.801900">-</word>
+          <word xMin="712.129400" yMin="181.591900" xMax="750.685800" yMax="193.801900">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="203.630000" xMax="474.313000" yMax="215.840000">
+        <line xMin="425.975000" yMin="203.630000" xMax="474.313000" yMax="215.840000">
+          <word xMin="425.975000" yMin="203.630000" xMax="451.895000" yMax="215.840000">Herro,</word>
+          <word xMin="454.183000" yMin="203.630000" xMax="474.313000" yMax="215.840000">Tyler</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="203.630000" xMax="623.165500" yMax="215.840000">
+        <line xMin="586.705500" yMin="203.630000" xMax="623.165500" yMax="215.840000">
+          <word xMin="586.705500" yMin="203.630000" xMax="623.165500" yMax="215.840000">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="203.630000" xMax="771.436400" yMax="215.840000">
+        <line xMin="667.070800" yMin="203.630000" xMax="771.436400" yMax="215.840000">
+          <word xMin="667.070800" yMin="203.630000" xMax="719.460800" yMax="215.840000">Injury/Illness</word>
+          <word xMin="721.787600" yMin="203.630000" xMax="724.847600" yMax="215.840000">-</word>
+          <word xMin="727.109900" yMin="203.630000" xMax="751.019900" yMax="215.840000">Head;</word>
+          <word xMin="753.296400" yMin="203.630000" xMax="771.436400" yMax="215.840000">Cold</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="225.668100" xMax="492.813000" yMax="237.878100">
+        <line xMin="425.975000" yMin="225.668100" xMax="492.813000" yMax="237.878100">
+          <word xMin="425.975000" yMin="225.668100" xMax="453.365000" yMax="237.878100">Jaquez</word>
+          <word xMin="455.647900" yMin="225.668100" xMax="467.317900" yMax="237.878100">Jr.,</word>
+          <word xMin="469.603000" yMin="225.668100" xMax="492.813000" yMax="237.878100">Jaime</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="225.668100" xMax="623.665500" yMax="237.878100">
+        <line xMin="586.705500" yMin="225.668100" xMax="623.665500" yMax="237.878100">
+          <word xMin="586.705500" yMin="225.668100" xMax="623.665500" yMax="237.878100">Available</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="225.668100" xMax="803.848800" yMax="237.878100">
+        <line xMin="667.070800" yMin="225.668100" xMax="803.848800" yMax="237.878100">
+          <word xMin="667.070800" yMin="225.668100" xMax="719.460800" yMax="237.878100">Injury/Illness</word>
+          <word xMin="721.787600" yMin="225.668100" xMax="724.847600" yMax="237.878100">-</word>
+          <word xMin="727.109900" yMin="225.668100" xMax="748.109900" yMax="237.878100">Right</word>
+          <word xMin="750.405800" yMin="225.668100" xMax="775.905800" yMax="237.878100">Ankle;</word>
+          <word xMin="778.198800" yMin="225.668100" xMax="803.848800" yMax="237.878100">Sprain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="247.706200" xMax="475.862800" yMax="259.916200">
+        <line xMin="425.975000" yMin="247.706200" xMax="475.862800" yMax="259.916200">
+          <word xMin="425.975000" yMin="247.706200" xMax="447.935000" yMax="259.916200">Jovic,</word>
+          <word xMin="450.232800" yMin="247.706200" xMax="475.862800" yMax="259.916200">Nikola</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="247.706200" xMax="601.915500" yMax="259.916200">
+        <line xMin="586.705500" yMin="247.706200" xMax="601.915500" yMax="259.916200">
+          <word xMin="586.705500" yMin="247.706200" xMax="601.915500" yMax="259.916200">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="247.706200" xMax="805.810600" yMax="259.916200">
+        <line xMin="667.070800" yMin="247.706200" xMax="805.810600" yMax="259.916200">
+          <word xMin="667.070800" yMin="247.706200" xMax="719.460800" yMax="259.916200">Injury/Illness</word>
+          <word xMin="721.787600" yMin="247.706200" xMax="724.847600" yMax="259.916200">-</word>
+          <word xMin="727.109900" yMin="247.706200" xMax="748.109900" yMax="259.916200">Right</word>
+          <word xMin="750.405800" yMin="247.706200" xMax="774.595800" yMax="259.916200">Hand;</word>
+          <word xMin="776.870600" yMin="247.706200" xMax="805.810600" yMax="259.916200">Broken</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="269.744300" xMax="469.092300" yMax="281.954300">
+        <line xMin="425.975000" yMin="269.744300" xMax="469.092300" yMax="281.954300">
+          <word xMin="425.975000" yMin="269.744300" xMax="451.915000" yMax="281.954300">Smith,</word>
+          <word xMin="454.212300" yMin="269.744300" xMax="469.092300" yMax="281.954300">Dru</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="269.744300" xMax="601.915500" yMax="281.954300">
+        <line xMin="586.705500" yMin="269.744300" xMax="601.915500" yMax="281.954300">
+          <word xMin="586.705500" yMin="269.744300" xMax="601.915500" yMax="281.954300">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="269.744300" xMax="811.918300" yMax="281.954300">
+        <line xMin="667.070800" yMin="269.744300" xMax="811.918300" yMax="281.954300">
+          <word xMin="667.070800" yMin="269.744300" xMax="719.460800" yMax="281.954300">Injury/Illness</word>
+          <word xMin="721.787600" yMin="269.744300" xMax="724.847600" yMax="281.954300">-</word>
+          <word xMin="727.109900" yMin="269.744300" xMax="742.669900" yMax="281.954300">Left</word>
+          <word xMin="744.951700" yMin="269.744300" xMax="778.621700" yMax="281.954300">Achilles;</word>
+          <word xMin="780.928300" yMin="269.744300" xMax="811.918300" yMax="281.954300">Surgery</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="291.782300" xMax="474.789300" yMax="303.992300">
+        <line xMin="425.975000" yMin="291.782300" xMax="474.789300" yMax="303.992300">
+          <word xMin="425.975000" yMin="291.782300" xMax="450.595000" yMax="303.992300">Ware,</word>
+          <word xMin="452.879300" yMin="291.782300" xMax="474.789300" yMax="303.992300">Kel&apos;el</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="291.782300" xMax="623.165500" yMax="303.992300">
+        <line xMin="586.705500" yMin="291.782300" xMax="623.165500" yMax="303.992300">
+          <word xMin="586.705500" yMin="291.782300" xMax="623.165500" yMax="303.992300">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="291.782300" xMax="795.938600" yMax="303.992300">
+        <line xMin="667.070800" yMin="291.782300" xMax="795.938600" yMax="303.992300">
+          <word xMin="667.070800" yMin="291.782300" xMax="719.460800" yMax="303.992300">Injury/Illness</word>
+          <word xMin="721.787600" yMin="291.782300" xMax="724.847600" yMax="303.992300">-</word>
+          <word xMin="727.109900" yMin="291.782300" xMax="742.669900" yMax="303.992300">Left</word>
+          <word xMin="744.951700" yMin="291.782300" xMax="768.001700" yMax="303.992300">Knee;</word>
+          <word xMin="770.288600" yMin="291.782300" xMax="795.938600" yMax="303.992300">Sprain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="313.820400" xMax="494.666300" yMax="326.030400">
+        <line xMin="425.975000" yMin="313.820400" xMax="494.666300" yMax="326.030400">
+          <word xMin="425.975000" yMin="313.820400" xMax="460.495000" yMax="326.030400">Wiggins,</word>
+          <word xMin="462.796300" yMin="313.820400" xMax="494.666300" yMax="326.030400">Andrew</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="313.820400" xMax="641.005500" yMax="326.030400">
+        <line xMin="586.705500" yMin="313.820400" xMax="641.005500" yMax="326.030400">
+          <word xMin="586.705500" yMin="313.820400" xMax="641.005500" yMax="326.030400">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="313.820400" xMax="803.848800" yMax="326.030400">
+        <line xMin="667.070800" yMin="313.820400" xMax="803.848800" yMax="326.030400">
+          <word xMin="667.070800" yMin="313.820400" xMax="719.460800" yMax="326.030400">Injury/Illness</word>
+          <word xMin="721.787600" yMin="313.820400" xMax="724.847600" yMax="326.030400">-</word>
+          <word xMin="727.109900" yMin="313.820400" xMax="748.109900" yMax="326.030400">Right</word>
+          <word xMin="750.405800" yMin="313.820400" xMax="775.905800" yMax="326.030400">Ankle;</word>
+          <word xMin="778.198800" yMin="313.820400" xMax="803.848800" yMax="326.030400">Sprain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="336.858500" xMax="483.901000" yMax="349.068500">
+        <line xMin="425.975000" yMin="336.858500" xMax="483.901000" yMax="349.068500">
+          <word xMin="425.975000" yMin="336.858500" xMax="464.045000" yMax="349.068500">McClung,</word>
+          <word xMin="466.351000" yMin="336.858500" xMax="483.901000" yMax="349.068500">Mac</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="336.858500" xMax="601.915500" yMax="349.068500">
+        <line xMin="586.705500" yMin="336.858500" xMax="601.915500" yMax="349.068500">
+          <word xMin="586.705500" yMin="336.858500" xMax="601.915500" yMax="349.068500">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="336.858500" xMax="750.685800" yMax="349.068500">
+        <line xMin="667.070800" yMin="336.858500" xMax="750.685800" yMax="349.068500">
+          <word xMin="667.070800" yMin="336.858500" xMax="673.370800" yMax="349.068500">G</word>
+          <word xMin="675.640100" yMin="336.858500" xMax="704.520100" yMax="349.068500">League</word>
+          <word xMin="706.807100" yMin="336.858500" xMax="709.867100" yMax="349.068500">-</word>
+          <word xMin="712.129400" yMin="336.858500" xMax="750.685800" yMax="349.068500">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="365.915600" xMax="474.384700" yMax="378.125600">
+        <line xMin="425.975000" yMin="365.915600" xMax="474.384700" yMax="378.125600">
+          <word xMin="425.975000" yMin="365.915600" xMax="451.615000" yMax="378.125600">Suggs,</word>
+          <word xMin="453.904700" yMin="365.915600" xMax="474.384700" yMax="378.125600">Jalen</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="365.915600" xMax="601.915500" yMax="378.125600">
+        <line xMin="586.705500" yMin="365.915600" xMax="601.915500" yMax="378.125600">
+          <word xMin="586.705500" yMin="365.915600" xMax="601.915500" yMax="378.125600">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="358.896600" xMax="805.428600" yMax="385.144700">
+        <line xMin="667.070800" yMin="358.896600" xMax="805.428600" yMax="371.106600">
+          <word xMin="667.070800" yMin="358.896600" xMax="719.460800" yMax="371.106600">Injury/Illness</word>
+          <word xMin="721.787600" yMin="358.896600" xMax="724.847600" yMax="371.106600">-</word>
+          <word xMin="727.109900" yMin="358.896600" xMax="742.669900" yMax="371.106600">Left</word>
+          <word xMin="744.951700" yMin="358.896600" xMax="768.001700" yMax="371.106600">Knee;</word>
+          <word xMin="770.288600" yMin="358.896600" xMax="805.428600" yMax="371.106600">Trochlea</word>
+        </line>
+        <line xMin="667.070800" yMin="372.934700" xMax="723.462100" yMax="385.144700">
+          <word xMin="667.070800" yMin="372.934700" xMax="703.050800" yMax="385.144700">Cartilage</word>
+          <word xMin="705.352100" yMin="372.934700" xMax="723.462100" yMax="385.144700">Tear</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="394.972800" xMax="497.321900" yMax="407.182800">
+        <line xMin="425.975000" yMin="394.972800" xMax="497.321900" yMax="407.182800">
+          <word xMin="425.975000" yMin="394.972800" xMax="471.515000" yMax="407.182800">Thompson,</word>
+          <word xMin="473.811900" yMin="394.972800" xMax="497.321900" yMax="407.182800">Ethan</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="394.972800" xMax="601.915500" yMax="407.182800">
+        <line xMin="586.705500" yMin="394.972800" xMax="601.915500" yMax="407.182800">
+          <word xMin="586.705500" yMin="394.972800" xMax="601.915500" yMax="407.182800">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="394.972800" xMax="750.685800" yMax="407.182800">
+        <line xMin="667.070800" yMin="394.972800" xMax="750.685800" yMax="407.182800">
+          <word xMin="667.070800" yMin="394.972800" xMax="673.370800" yMax="407.182800">G</word>
+          <word xMin="675.640100" yMin="394.972800" xMax="704.520100" yMax="407.182800">League</word>
+          <word xMin="706.807100" yMin="394.972800" xMax="709.867100" yMax="407.182800">-</word>
+          <word xMin="712.129400" yMin="394.972800" xMax="750.685800" yMax="407.182800">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="417.010900" xMax="489.710200" yMax="429.220900">
+        <line xMin="425.975000" yMin="417.010900" xMax="489.710200" yMax="429.220900">
+          <word xMin="425.975000" yMin="417.010900" xMax="460.545000" yMax="429.220900">Wagner,</word>
+          <word xMin="462.840200" yMin="417.010900" xMax="489.710200" yMax="429.220900">Moritz</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="417.010900" xMax="601.915500" yMax="429.220900">
+        <line xMin="586.705500" yMin="417.010900" xMax="601.915500" yMax="429.220900">
+          <word xMin="586.705500" yMin="417.010900" xMax="601.915500" yMax="429.220900">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="417.010900" xMax="806.746100" yMax="429.220900">
+        <line xMin="667.070800" yMin="417.010900" xMax="806.746100" yMax="429.220900">
+          <word xMin="667.070800" yMin="417.010900" xMax="719.460800" yMax="429.220900">Injury/Illness</word>
+          <word xMin="721.787600" yMin="417.010900" xMax="724.847600" yMax="429.220900">-</word>
+          <word xMin="727.109900" yMin="417.010900" xMax="742.669900" yMax="429.220900">Left</word>
+          <word xMin="744.951700" yMin="417.010900" xMax="768.001700" yMax="429.220900">Knee;</word>
+          <word xMin="770.288600" yMin="417.010900" xMax="789.158600" yMax="429.220900">Torn</word>
+          <word xMin="791.436100" yMin="417.010900" xMax="806.746100" yMax="429.220900">ACL</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="440.048900" xMax="527.641900" yMax="452.258900">
+        <line xMin="425.975000" yMin="440.048900" xMax="527.641900" yMax="452.258900">
+          <word xMin="425.975000" yMin="440.048900" xMax="495.225000" yMax="452.258900">Antetokounmpo,</word>
+          <word xMin="497.561900" yMin="440.048900" xMax="527.641900" yMax="452.258900">Giannis</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="440.048900" xMax="641.005500" yMax="452.258900">
+        <line xMin="586.705500" yMin="440.048900" xMax="641.005500" yMax="452.258900">
+          <word xMin="586.705500" yMin="440.048900" xMax="641.005500" yMax="452.258900">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="440.048900" xMax="798.787700" yMax="452.258900">
+        <line xMin="667.070800" yMin="440.048900" xMax="798.787700" yMax="452.258900">
+          <word xMin="667.070800" yMin="440.048900" xMax="719.460800" yMax="452.258900">Injury/Illness</word>
+          <word xMin="721.787600" yMin="440.048900" xMax="724.847600" yMax="452.258900">-</word>
+          <word xMin="727.109900" yMin="440.048900" xMax="771.363800" yMax="452.258900">Non-covid;</word>
+          <word xMin="773.657700" yMin="440.048900" xMax="798.787700" yMax="452.258900">Illness</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="462.087000" xMax="499.016000" yMax="474.297000">
+        <line xMin="425.975000" yMin="462.087000" xMax="499.016000" yMax="474.297000">
+          <word xMin="425.975000" yMin="462.087000" xMax="483.415000" yMax="474.297000">Connaughton,</word>
+          <word xMin="485.726000" yMin="462.087000" xMax="499.016000" yMax="474.297000">Pat</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="462.087000" xMax="601.915500" yMax="474.297000">
+        <line xMin="586.705500" yMin="462.087000" xMax="601.915500" yMax="474.297000">
+          <word xMin="586.705500" yMin="462.087000" xMax="601.915500" yMax="474.297000">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="462.087000" xMax="789.097000" yMax="474.297000">
+        <line xMin="667.070800" yMin="462.087000" xMax="789.097000" yMax="474.297000">
+          <word xMin="667.070800" yMin="462.087000" xMax="719.460800" yMax="474.297000">Injury/Illness</word>
+          <word xMin="721.787600" yMin="462.087000" xMax="724.847600" yMax="474.297000">-</word>
+          <word xMin="727.109900" yMin="462.087000" xMax="742.669900" yMax="474.297000">Left</word>
+          <word xMin="744.951700" yMin="462.087000" xMax="763.081700" yMax="474.297000">Calf;</word>
+          <word xMin="765.357000" yMin="462.087000" xMax="789.097000" yMax="474.297000">Strain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="484.125100" xMax="486.600000" yMax="496.335100">
+        <line xMin="425.975000" yMin="484.125100" xMax="486.600000" yMax="496.335100">
+          <word xMin="425.975000" yMin="484.125100" xMax="453.055000" yMax="496.335100">Lillard,</word>
+          <word xMin="455.350000" yMin="484.125100" xMax="486.600000" yMax="496.335100">Damian</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="484.125100" xMax="623.165500" yMax="496.335100">
+        <line xMin="586.705500" yMin="484.125100" xMax="623.165500" yMax="496.335100">
+          <word xMin="586.705500" yMin="484.125100" xMax="623.165500" yMax="496.335100">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="484.125100" xMax="805.433000" yMax="496.335100">
+        <line xMin="667.070800" yMin="484.125100" xMax="805.433000" yMax="496.335100">
+          <word xMin="667.070800" yMin="484.125100" xMax="719.460800" yMax="496.335100">Injury/Illness</word>
+          <word xMin="721.787600" yMin="484.125100" xMax="724.847600" yMax="496.335100">-</word>
+          <word xMin="727.109900" yMin="484.125100" xMax="742.669900" yMax="496.335100">Left</word>
+          <word xMin="744.951700" yMin="484.125100" xMax="761.991700" yMax="496.335100">Eye;</word>
+          <word xMin="764.273000" yMin="484.125100" xMax="805.433000" yMax="496.335100">Contusion</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+        <line xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+          <word xMin="398.533600" yMin="535.913400" xMax="418.153600" yMax="548.123400">Page</word>
+          <word xMin="420.433000" yMin="535.913400" xMax="425.493000" yMax="548.123400">4</word>
+          <word xMin="427.762100" yMin="535.913400" xMax="436.082100" yMax="548.123400">of</word>
+          <word xMin="438.348000" yMin="535.913400" xMax="443.408000" yMax="548.123400">7</word>
+        </line>
+      </block>
+    </flow>
+  </page>
+  <page width="841.950000" height="595.350000">
+    <flow>
+      <block xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+        <line xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+          <word xMin="289.108100" yMin="38.271400" xMax="349.454100" yMax="67.531400">Injury</word>
+          <word xMin="355.613000" yMin="38.271400" xMax="432.173000" yMax="67.531400">Report:</word>
+          <word xMin="438.317100" yMin="38.271400" xMax="533.709100" yMax="67.531400">03/08/25</word>
+          <word xMin="539.820000" yMin="38.271400" xMax="596.360000" yMax="67.531400">12:30</word>
+          <word xMin="602.468400" yMin="38.271400" xMax="637.030400" yMax="67.531400">PM</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="120.587100" yMin="161.553800" xMax="161.607100" yMax="173.763800">
+        <line xMin="120.587100" yMin="161.553800" xMax="161.607100" yMax="173.763800">
+          <word xMin="120.587100" yMin="161.553800" xMax="143.497100" yMax="173.763800">08:30</word>
+          <word xMin="145.797100" yMin="161.553800" xMax="161.607100" yMax="173.763800">(ET)</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="161.553800" xMax="245.572300" yMax="173.763800">
+        <line xMin="200.952300" yMin="161.553800" xMax="245.572300" yMax="173.763800">
+          <word xMin="200.952300" yMin="161.553800" xMax="245.572300" yMax="173.763800">DET@GSW</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="161.553800" xMax="325.517100" yMax="173.763800">
+        <line xMin="265.244500" yMin="161.553800" xMax="325.517100" yMax="173.763800">
+          <word xMin="265.244500" yMin="161.553800" xMax="294.084500" yMax="173.763800">Detroit</word>
+          <word xMin="296.387100" yMin="161.553800" xMax="325.517100" yMax="173.763800">Pistons</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="294.782300" xMax="355.775900" yMax="306.992300">
+        <line xMin="265.244500" yMin="294.782300" xMax="355.775900" yMax="306.992300">
+          <word xMin="265.244500" yMin="294.782300" xMax="294.574500" yMax="306.992300">Golden</word>
+          <word xMin="296.865600" yMin="294.782300" xMax="317.895600" yMax="306.992300">State</word>
+          <word xMin="320.185900" yMin="294.782300" xMax="355.775900" yMax="306.992300">Warriors</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="389.972800" xMax="240.712300" yMax="402.182800">
+        <line xMin="200.952300" yMin="389.972800" xMax="240.712300" yMax="402.182800">
+          <word xMin="200.952300" yMin="389.972800" xMax="240.712300" yMax="402.182800">LAL@BOS</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="389.972800" xMax="340.948900" yMax="402.182800">
+        <line xMin="265.244500" yMin="389.972800" xMax="340.948900" yMax="402.182800">
+          <word xMin="265.244500" yMin="389.972800" xMax="278.624500" yMax="402.182800">Los</word>
+          <word xMin="280.893900" yMin="389.972800" xMax="312.763900" yMax="402.182800">Angeles</word>
+          <word xMin="315.058900" yMin="389.972800" xMax="340.948900" yMax="402.182800">Lakers</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="80.401500" xMax="474.874000" yMax="92.611500">
+        <line xMin="425.975000" yMin="80.401500" xMax="474.874000" yMax="92.611500">
+          <word xMin="425.975000" yMin="80.401500" xMax="454.145000" yMax="92.611500">Nance,</word>
+          <word xMin="456.434000" yMin="80.401500" xMax="474.874000" yMax="92.611500">Pete</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="80.401500" xMax="601.915500" yMax="92.611500">
+        <line xMin="586.705500" yMin="80.401500" xMax="601.915500" yMax="92.611500">
+          <word xMin="586.705500" yMin="80.401500" xMax="601.915500" yMax="92.611500">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="80.401500" xMax="798.394700" yMax="92.611500">
+        <line xMin="667.070800" yMin="80.401500" xMax="798.394700" yMax="92.611500">
+          <word xMin="667.070800" yMin="80.401500" xMax="719.460800" yMax="92.611500">Injury/Illness</word>
+          <word xMin="721.787600" yMin="80.401500" xMax="724.847600" yMax="92.611500">-</word>
+          <word xMin="727.109900" yMin="80.401500" xMax="742.669900" yMax="92.611500">Left</word>
+          <word xMin="744.951700" yMin="80.401500" xMax="770.451700" yMax="92.611500">Ankle;</word>
+          <word xMin="772.744700" yMin="80.401500" xMax="798.394700" yMax="92.611500">Sprain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="102.439600" xMax="479.932300" yMax="114.649600">
+        <line xMin="425.975000" yMin="102.439600" xMax="479.932300" yMax="114.649600">
+          <word xMin="425.975000" yMin="102.439600" xMax="451.915000" yMax="114.649600">Portis,</word>
+          <word xMin="454.212300" yMin="102.439600" xMax="479.932300" yMax="114.649600">Bobby</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="102.439600" xMax="601.915500" yMax="114.649600">
+        <line xMin="586.705500" yMin="102.439600" xMax="601.915500" yMax="114.649600">
+          <word xMin="586.705500" yMin="102.439600" xMax="601.915500" yMax="114.649600">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="102.439600" xMax="744.177800" yMax="114.649600">
+        <line xMin="667.070800" yMin="102.439600" xMax="744.177800" yMax="114.649600">
+          <word xMin="667.070800" yMin="102.439600" xMax="695.950800" yMax="114.649600">League</word>
+          <word xMin="698.237800" yMin="102.439600" xMax="744.177800" yMax="114.649600">Suspension</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="131.496700" xMax="483.219300" yMax="143.706700">
+        <line xMin="425.975000" yMin="131.496700" xMax="483.219300" yMax="143.706700">
+          <word xMin="425.975000" yMin="131.496700" xMax="447.885000" yMax="143.706700">Trent</word>
+          <word xMin="450.174200" yMin="131.496700" xMax="461.844200" yMax="143.706700">Jr.,</word>
+          <word xMin="464.129300" yMin="131.496700" xMax="483.219300" yMax="143.706700">Gary</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="131.496700" xMax="622.555500" yMax="143.706700">
+        <line xMin="586.705500" yMin="131.496700" xMax="622.555500" yMax="143.706700">
+          <word xMin="586.705500" yMin="131.496700" xMax="622.555500" yMax="143.706700">Doubtful</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="124.477700" xMax="773.455800" yMax="150.725800">
+        <line xMin="667.070800" yMin="124.477700" xMax="773.455800" yMax="136.687700">
+          <word xMin="667.070800" yMin="124.477700" xMax="719.460800" yMax="136.687700">Injury/Illness</word>
+          <word xMin="721.787600" yMin="124.477700" xMax="724.847600" yMax="136.687700">-</word>
+          <word xMin="727.109900" yMin="124.477700" xMax="748.109900" yMax="136.687700">Right</word>
+          <word xMin="750.405800" yMin="124.477700" xMax="773.455800" yMax="136.687700">Knee;</word>
+        </line>
+        <line xMin="667.070800" yMin="138.515800" xMax="731.100800" yMax="150.725800">
+          <word xMin="667.070800" yMin="138.515800" xMax="731.100800" yMax="150.725800">Hyperextension</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="161.553800" xMax="486.353500" yMax="173.763800">
+        <line xMin="425.975000" yMin="161.553800" xMax="486.353500" yMax="173.763800">
+          <word xMin="425.975000" yMin="161.553800" xMax="454.175000" yMax="173.763800">Harper</word>
+          <word xMin="456.458400" yMin="161.553800" xMax="468.128400" yMax="173.763800">Jr.,</word>
+          <word xMin="470.413500" yMin="161.553800" xMax="486.353500" yMax="173.763800">Ron</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="161.553800" xMax="601.915500" yMax="173.763800">
+        <line xMin="586.705500" yMin="161.553800" xMax="601.915500" yMax="173.763800">
+          <word xMin="586.705500" yMin="161.553800" xMax="601.915500" yMax="173.763800">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="161.553800" xMax="750.685800" yMax="173.763800">
+        <line xMin="667.070800" yMin="161.553800" xMax="750.685800" yMax="173.763800">
+          <word xMin="667.070800" yMin="161.553800" xMax="673.370800" yMax="173.763800">G</word>
+          <word xMin="675.640100" yMin="161.553800" xMax="704.520100" yMax="173.763800">League</word>
+          <word xMin="706.807100" yMin="161.553800" xMax="709.867100" yMax="173.763800">-</word>
+          <word xMin="712.129400" yMin="161.553800" xMax="750.685800" yMax="173.763800">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="183.591900" xMax="481.310100" yMax="195.801900">
+        <line xMin="425.975000" yMin="183.591900" xMax="481.310100" yMax="195.801900">
+          <word xMin="425.975000" yMin="183.591900" xMax="452.645000" yMax="195.801900">Harris,</word>
+          <word xMin="454.930100" yMin="183.591900" xMax="481.310100" yMax="195.801900">Tobias</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="183.591900" xMax="623.165500" yMax="195.801900">
+        <line xMin="586.705500" yMin="183.591900" xMax="623.165500" yMax="195.801900">
+          <word xMin="586.705500" yMin="183.591900" xMax="623.165500" yMax="195.801900">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="183.591900" xMax="738.002900" yMax="195.801900">
+        <line xMin="667.070800" yMin="183.591900" xMax="738.002900" yMax="195.801900">
+          <word xMin="667.070800" yMin="183.591900" xMax="702.190800" yMax="195.801900">Personal</word>
+          <word xMin="704.482900" yMin="183.591900" xMax="738.002900" yMax="195.801900">Reasons</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="205.630000" xMax="470.708900" yMax="217.840000">
+        <line xMin="425.975000" yMin="205.630000" xMax="470.708900" yMax="217.840000">
+          <word xMin="425.975000" yMin="205.630000" xMax="444.975000" yMax="217.840000">Ivey,</word>
+          <word xMin="447.268900" yMin="205.630000" xMax="470.708900" yMax="217.840000">Jaden</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="205.630000" xMax="601.915500" yMax="217.840000">
+        <line xMin="586.705500" yMin="205.630000" xMax="601.915500" yMax="217.840000">
+          <word xMin="586.705500" yMin="205.630000" xMax="601.915500" yMax="217.840000">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="205.630000" xMax="808.490600" yMax="217.840000">
+        <line xMin="667.070800" yMin="205.630000" xMax="808.490600" yMax="217.840000">
+          <word xMin="667.070800" yMin="205.630000" xMax="719.460800" yMax="217.840000">Injury/Illness</word>
+          <word xMin="721.787600" yMin="205.630000" xMax="724.847600" yMax="217.840000">-</word>
+          <word xMin="727.109900" yMin="205.630000" xMax="742.669900" yMax="217.840000">Left</word>
+          <word xMin="744.951700" yMin="205.630000" xMax="772.081700" yMax="217.840000">Fibula;</word>
+          <word xMin="774.370600" yMin="205.630000" xMax="808.490600" yMax="217.840000">Fracture</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="227.668100" xMax="486.454700" yMax="239.878100">
+        <line xMin="425.975000" yMin="227.668100" xMax="486.454700" yMax="239.878100">
+          <word xMin="425.975000" yMin="227.668100" xMax="457.855000" yMax="239.878100">Jenkins,</word>
+          <word xMin="460.154700" yMin="227.668100" xMax="486.454700" yMax="239.878100">Daniss</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="227.668100" xMax="601.915500" yMax="239.878100">
+        <line xMin="586.705500" yMin="227.668100" xMax="601.915500" yMax="239.878100">
+          <word xMin="586.705500" yMin="227.668100" xMax="601.915500" yMax="239.878100">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="227.668100" xMax="750.685800" yMax="239.878100">
+        <line xMin="667.070800" yMin="227.668100" xMax="750.685800" yMax="239.878100">
+          <word xMin="667.070800" yMin="227.668100" xMax="673.370800" yMax="239.878100">G</word>
+          <word xMin="675.640100" yMin="227.668100" xMax="704.520100" yMax="239.878100">League</word>
+          <word xMin="706.807100" yMin="227.668100" xMax="709.867100" yMax="239.878100">-</word>
+          <word xMin="712.129400" yMin="227.668100" xMax="750.685800" yMax="239.878100">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="249.706200" xMax="485.391800" yMax="261.916200">
+        <line xMin="425.975000" yMin="249.706200" xMax="485.391800" yMax="261.916200">
+          <word xMin="425.975000" yMin="249.706200" xMax="464.845000" yMax="261.916200">Klintman,</word>
+          <word xMin="467.151800" yMin="249.706200" xMax="485.391800" yMax="261.916200">Bobi</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="249.706200" xMax="601.915500" yMax="261.916200">
+        <line xMin="586.705500" yMin="249.706200" xMax="601.915500" yMax="261.916200">
+          <word xMin="586.705500" yMin="249.706200" xMax="601.915500" yMax="261.916200">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="249.706200" xMax="773.645100" yMax="261.916200">
+        <line xMin="667.070800" yMin="249.706200" xMax="773.645100" yMax="261.916200">
+          <word xMin="667.070800" yMin="249.706200" xMax="673.370800" yMax="261.916200">G</word>
+          <word xMin="675.640100" yMin="249.706200" xMax="704.520100" yMax="261.916200">League</word>
+          <word xMin="706.807100" yMin="249.706200" xMax="709.867100" yMax="261.916200">-</word>
+          <word xMin="712.129400" yMin="249.706200" xMax="723.999400" yMax="261.916200">On</word>
+          <word xMin="726.265100" yMin="249.706200" xMax="773.645100" yMax="261.916200">Assignment</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="271.744300" xMax="471.892300" yMax="283.954300">
+        <line xMin="425.975000" yMin="271.744300" xMax="471.892300" yMax="283.954300">
+          <word xMin="425.975000" yMin="271.744300" xMax="451.915000" yMax="283.954300">Smith,</word>
+          <word xMin="454.212300" yMin="271.744300" xMax="471.892300" yMax="283.954300">Tolu</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="271.744300" xMax="601.915500" yMax="283.954300">
+        <line xMin="586.705500" yMin="271.744300" xMax="601.915500" yMax="283.954300">
+          <word xMin="586.705500" yMin="271.744300" xMax="601.915500" yMax="283.954300">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="271.744300" xMax="750.685800" yMax="283.954300">
+        <line xMin="667.070800" yMin="271.744300" xMax="750.685800" yMax="283.954300">
+          <word xMin="667.070800" yMin="271.744300" xMax="673.370800" yMax="283.954300">G</word>
+          <word xMin="675.640100" yMin="271.744300" xMax="704.520100" yMax="283.954300">League</word>
+          <word xMin="706.807100" yMin="271.744300" xMax="709.867100" yMax="283.954300">-</word>
+          <word xMin="712.129400" yMin="271.744300" xMax="750.685800" yMax="283.954300">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="294.782300" xMax="503.334300" yMax="306.992300">
+        <line xMin="425.975000" yMin="294.782300" xMax="503.334300" yMax="306.992300">
+          <word xMin="425.975000" yMin="294.782300" xMax="463.915000" yMax="306.992300">Kuminga,</word>
+          <word xMin="466.214300" yMin="294.782300" xMax="503.334300" yMax="306.992300">Jonathan</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="294.782300" xMax="601.915500" yMax="306.992300">
+        <line xMin="586.705500" yMin="294.782300" xMax="601.915500" yMax="306.992300">
+          <word xMin="586.705500" yMin="294.782300" xMax="601.915500" yMax="306.992300">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="294.782300" xMax="803.848800" yMax="306.992300">
+        <line xMin="667.070800" yMin="294.782300" xMax="803.848800" yMax="306.992300">
+          <word xMin="667.070800" yMin="294.782300" xMax="719.460800" yMax="306.992300">Injury/Illness</word>
+          <word xMin="721.787600" yMin="294.782300" xMax="724.847600" yMax="306.992300">-</word>
+          <word xMin="727.109900" yMin="294.782300" xMax="748.109900" yMax="306.992300">Right</word>
+          <word xMin="750.405800" yMin="294.782300" xMax="775.905800" yMax="306.992300">Ankle;</word>
+          <word xMin="778.198800" yMin="294.782300" xMax="803.848800" yMax="306.992300">Sprain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="323.839500" xMax="485.480000" yMax="336.049500">
+        <line xMin="425.975000" yMin="323.839500" xMax="485.480000" yMax="336.049500">
+          <word xMin="425.975000" yMin="323.839500" xMax="454.305000" yMax="336.049500">Payton</word>
+          <word xMin="456.595100" yMin="323.839500" xMax="464.105100" yMax="336.049500">II,</word>
+          <word xMin="466.390000" yMin="323.839500" xMax="485.480000" yMax="336.049500">Gary</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="323.839500" xMax="623.665500" yMax="336.049500">
+        <line xMin="586.705500" yMin="323.839500" xMax="623.665500" yMax="336.049500">
+          <word xMin="586.705500" yMin="323.839500" xMax="623.665500" yMax="336.049500">Available</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="316.820400" xMax="816.976600" yMax="343.068500">
+        <line xMin="667.070800" yMin="316.820400" xMax="816.976600" yMax="329.030400">
+          <word xMin="667.070800" yMin="316.820400" xMax="719.460800" yMax="329.030400">Injury/Illness</word>
+          <word xMin="721.787600" yMin="316.820400" xMax="724.847600" yMax="329.030400">-</word>
+          <word xMin="727.109900" yMin="316.820400" xMax="749.339900" yMax="329.030400">Nasal</word>
+          <word xMin="751.611900" yMin="316.820400" xMax="775.201900" yMax="329.030400">Bone;</word>
+          <word xMin="777.490800" yMin="316.820400" xMax="811.610800" yMax="329.030400">Fracture</word>
+          <word xMin="813.916600" yMin="316.820400" xMax="816.976600" yMax="329.030400">-</word>
+        </line>
+        <line xMin="667.070900" yMin="330.858500" xMax="706.860900" yMax="343.068500">
+          <word xMin="667.070900" yMin="330.858500" xMax="706.860900" yMax="343.068500">Facemask</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="359.915600" xMax="508.125200" yMax="372.125600">
+        <line xMin="425.975000" yMin="359.915600" xMax="508.125200" yMax="372.125600">
+          <word xMin="425.975000" yMin="359.915600" xMax="474.075000" yMax="372.125600">Podziemski,</word>
+          <word xMin="476.385200" yMin="359.915600" xMax="508.125200" yMax="372.125600">Brandin</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="359.915600" xMax="641.005500" yMax="372.125600">
+        <line xMin="586.705500" yMin="359.915600" xMax="641.005500" yMax="372.125600">
+          <word xMin="586.705500" yMin="359.915600" xMax="641.005500" yMax="372.125600">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="352.896600" xMax="803.623200" yMax="379.144700">
+        <line xMin="667.070800" yMin="352.896600" xMax="803.623200" yMax="365.106600">
+          <word xMin="667.070800" yMin="352.896600" xMax="719.460800" yMax="365.106600">Injury/Illness</word>
+          <word xMin="721.787600" yMin="352.896600" xMax="724.847600" yMax="365.106600">-</word>
+          <word xMin="727.109900" yMin="352.896600" xMax="760.779900" yMax="365.106600">Bilateral</word>
+          <word xMin="763.086500" yMin="352.896600" xMax="779.696500" yMax="365.106600">Low</word>
+          <word xMin="781.973200" yMin="352.896600" xMax="803.623200" yMax="365.106600">Back;</word>
+        </line>
+        <line xMin="667.070900" yMin="366.934700" xMax="703.420900" yMax="379.144700">
+          <word xMin="667.070900" yMin="366.934700" xMax="703.420900" yMax="379.144700">Soreness</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="389.972800" xMax="476.942500" yMax="402.182800">
+        <line xMin="425.975000" yMin="389.972800" xMax="476.942500" yMax="402.182800">
+          <word xMin="425.975000" yMin="389.972800" xMax="455.865000" yMax="402.182800">Doncic,</word>
+          <word xMin="458.162500" yMin="389.972800" xMax="476.942500" yMax="402.182800">Luka</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="389.972800" xMax="623.165500" yMax="402.182800">
+        <line xMin="586.705500" yMin="389.972800" xMax="623.165500" yMax="402.182800">
+          <word xMin="586.705500" yMin="389.972800" xMax="623.165500" yMax="402.182800">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="389.972800" xMax="816.902700" yMax="402.182800">
+        <line xMin="667.070800" yMin="389.972800" xMax="816.902700" yMax="402.182800">
+          <word xMin="667.070800" yMin="389.972800" xMax="719.460800" yMax="402.182800">Injury/Illness</word>
+          <word xMin="721.787600" yMin="389.972800" xMax="724.847600" yMax="402.182800">-</word>
+          <word xMin="727.109900" yMin="389.972800" xMax="748.109900" yMax="402.182800">Right</word>
+          <word xMin="750.405800" yMin="389.972800" xMax="773.455800" yMax="402.182800">Knee;</word>
+          <word xMin="775.742700" yMin="389.972800" xMax="816.902700" yMax="402.182800">Contusion</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="419.029900" xMax="488.007300" yMax="431.239900">
+        <line xMin="425.975000" yMin="419.029900" xMax="488.007300" yMax="431.239900">
+          <word xMin="425.975000" yMin="419.029900" xMax="472.745000" yMax="431.239900">Hachimura,</word>
+          <word xMin="475.047300" yMin="419.029900" xMax="488.007300" yMax="431.239900">Rui</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="419.029900" xMax="601.915500" yMax="431.239900">
+        <line xMin="586.705500" yMin="419.029900" xMax="601.915500" yMax="431.239900">
+          <word xMin="586.705500" yMin="419.029900" xMax="601.915500" yMax="431.239900">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="412.010900" xMax="778.731700" yMax="438.259000">
+        <line xMin="667.070800" yMin="412.010900" xMax="778.731700" yMax="424.220900">
+          <word xMin="667.070800" yMin="412.010900" xMax="719.460800" yMax="424.220900">Injury/Illness</word>
+          <word xMin="721.787600" yMin="412.010900" xMax="724.847600" yMax="424.220900">-</word>
+          <word xMin="727.109900" yMin="412.010900" xMax="742.669900" yMax="424.220900">Left</word>
+          <word xMin="744.951700" yMin="412.010900" xMax="778.731700" yMax="424.220900">Patellar;</word>
+        </line>
+        <line xMin="667.070800" yMin="426.049000" xMax="723.370800" yMax="438.259000">
+          <word xMin="667.070800" yMin="426.049000" xMax="723.370800" yMax="438.259000">Tendinopathy</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="448.087000" xMax="481.894500" yMax="460.297000">
+        <line xMin="425.975000" yMin="448.087000" xMax="481.894500" yMax="460.297000">
+          <word xMin="425.975000" yMin="448.087000" xMax="452.885000" yMax="460.297000">Hayes,</word>
+          <word xMin="455.164500" yMin="448.087000" xMax="481.894500" yMax="460.297000">Jaxson</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="448.087000" xMax="641.005500" yMax="460.297000">
+        <line xMin="586.705500" yMin="448.087000" xMax="641.005500" yMax="460.297000">
+          <word xMin="586.705500" yMin="448.087000" xMax="641.005500" yMax="460.297000">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="448.087000" xMax="816.902700" yMax="460.297000">
+        <line xMin="667.070800" yMin="448.087000" xMax="816.902700" yMax="460.297000">
+          <word xMin="667.070800" yMin="448.087000" xMax="719.460800" yMax="460.297000">Injury/Illness</word>
+          <word xMin="721.787600" yMin="448.087000" xMax="724.847600" yMax="460.297000">-</word>
+          <word xMin="727.109900" yMin="448.087000" xMax="748.109900" yMax="460.297000">Right</word>
+          <word xMin="750.405800" yMin="448.087000" xMax="773.455800" yMax="460.297000">Knee;</word>
+          <word xMin="775.742700" yMin="448.087000" xMax="816.902700" yMax="460.297000">Contusion</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="470.125100" xMax="484.784400" yMax="482.335100">
+        <line xMin="425.975000" yMin="470.125100" xMax="484.784400" yMax="482.335100">
+          <word xMin="425.975000" yMin="470.125100" xMax="453.295000" yMax="482.335100">James,</word>
+          <word xMin="455.584400" yMin="470.125100" xMax="484.784400" yMax="482.335100">Bronny</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="470.125100" xMax="601.915500" yMax="482.335100">
+        <line xMin="586.705500" yMin="470.125100" xMax="601.915500" yMax="482.335100">
+          <word xMin="586.705500" yMin="470.125100" xMax="601.915500" yMax="482.335100">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="470.125100" xMax="773.645100" yMax="482.335100">
+        <line xMin="667.070800" yMin="470.125100" xMax="773.645100" yMax="482.335100">
+          <word xMin="667.070800" yMin="470.125100" xMax="673.370800" yMax="482.335100">G</word>
+          <word xMin="675.640100" yMin="470.125100" xMax="704.520100" yMax="482.335100">League</word>
+          <word xMin="706.807100" yMin="470.125100" xMax="709.867100" yMax="482.335100">-</word>
+          <word xMin="712.129400" yMin="470.125100" xMax="723.999400" yMax="482.335100">On</word>
+          <word xMin="726.265100" yMin="470.125100" xMax="773.645100" yMax="482.335100">Assignment</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="492.163200" xMax="484.184400" yMax="504.373200">
+        <line xMin="425.975000" yMin="492.163200" xMax="484.184400" yMax="504.373200">
+          <word xMin="425.975000" yMin="492.163200" xMax="453.295000" yMax="504.373200">James,</word>
+          <word xMin="455.584400" yMin="492.163200" xMax="484.184400" yMax="504.373200">LeBron</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="492.163200" xMax="623.165500" yMax="504.373200">
+        <line xMin="586.705500" yMin="492.163200" xMax="623.165500" yMax="504.373200">
+          <word xMin="586.705500" yMin="492.163200" xMax="623.165500" yMax="504.373200">Probable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="492.163200" xMax="791.779400" yMax="504.373200">
+        <line xMin="667.070800" yMin="492.163200" xMax="791.779400" yMax="504.373200">
+          <word xMin="667.070800" yMin="492.163200" xMax="719.460800" yMax="504.373200">Injury/Illness</word>
+          <word xMin="721.787600" yMin="492.163200" xMax="724.847600" yMax="504.373200">-</word>
+          <word xMin="727.109900" yMin="492.163200" xMax="742.669900" yMax="504.373200">Left</word>
+          <word xMin="744.951700" yMin="492.163200" xMax="766.091700" yMax="504.373200">Foot;</word>
+          <word xMin="768.379400" yMin="492.163200" xMax="791.779400" yMax="504.373200">Injury</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+        <line xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+          <word xMin="398.533600" yMin="535.913400" xMax="418.153600" yMax="548.123400">Page</word>
+          <word xMin="420.433000" yMin="535.913400" xMax="425.493000" yMax="548.123400">5</word>
+          <word xMin="427.762100" yMin="535.913400" xMax="436.082100" yMax="548.123400">of</word>
+          <word xMin="438.348000" yMin="535.913400" xMax="443.408000" yMax="548.123400">7</word>
+        </line>
+      </block>
+    </flow>
+  </page>
+  <page width="841.950000" height="595.350000">
+    <flow>
+      <block xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+        <line xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+          <word xMin="289.108100" yMin="38.271400" xMax="349.454100" yMax="67.531400">Injury</word>
+          <word xMin="355.613000" yMin="38.271400" xMax="432.173000" yMax="67.531400">Report:</word>
+          <word xMin="438.317100" yMin="38.271400" xMax="533.709100" yMax="67.531400">03/08/25</word>
+          <word xMin="539.820000" yMin="38.271400" xMax="596.360000" yMax="67.531400">12:30</word>
+          <word xMin="602.468400" yMin="38.271400" xMax="637.030400" yMax="67.531400">PM</word>
+        </line>
+      </block>
+      <block xMin="667.070800" yMin="78.401500" xMax="721.650800" yMax="90.611500">
+        <line xMin="667.070800" yMin="78.401500" xMax="721.650800" yMax="90.611500">
+          <word xMin="667.070800" yMin="78.401500" xMax="721.650800" yMax="90.611500">Management</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="137.515700" xMax="322.356200" yMax="149.725700">
+        <line xMin="265.244500" yMin="137.515700" xMax="322.356200" yMax="149.725700">
+          <word xMin="265.244500" yMin="137.515700" xMax="293.714500" yMax="149.725700">Boston</word>
+          <word xMin="296.006200" yMin="137.515700" xMax="322.356200" yMax="149.725700">Celtics</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="24.148800" yMin="284.782300" xMax="72.348800" yMax="296.992300">
+        <line xMin="24.148800" yMin="284.782300" xMax="72.348800" yMax="296.992300">
+          <word xMin="24.148800" yMin="284.782300" xMax="72.348800" yMax="296.992300">03/09/2025</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="120.587100" yMin="284.782300" xMax="161.607100" yMax="296.992300">
+        <line xMin="120.587100" yMin="284.782300" xMax="161.607100" yMax="296.992300">
+          <word xMin="120.587100" yMin="284.782300" xMax="143.497100" yMax="296.992300">01:00</word>
+          <word xMin="145.797100" yMin="284.782300" xMax="161.607100" yMax="296.992300">(ET)</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="120.587100" yMin="330.858500" xMax="161.607100" yMax="343.068500">
+        <line xMin="120.587100" yMin="330.858500" xMax="161.607100" yMax="343.068500">
+          <word xMin="120.587100" yMin="330.858500" xMax="143.497100" yMax="343.068500">03:30</word>
+          <word xMin="145.797100" yMin="330.858500" xMax="161.607100" yMax="343.068500">(ET)</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="120.587100" yMin="376.934700" xMax="161.607100" yMax="389.144700">
+        <line xMin="120.587100" yMin="376.934700" xMax="161.607100" yMax="389.144700">
+          <word xMin="120.587100" yMin="376.934700" xMax="143.497100" yMax="389.144700">07:00</word>
+          <word xMin="145.797100" yMin="376.934700" xMax="161.607100" yMax="389.144700">(ET)</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="120.587100" yMin="423.010900" xMax="161.607100" yMax="435.220900">
+        <line xMin="120.587100" yMin="423.010900" xMax="161.607100" yMax="435.220900">
+          <word xMin="120.587100" yMin="423.010900" xMax="143.497100" yMax="435.220900">07:30</word>
+          <word xMin="145.797100" yMin="423.010900" xMax="161.607100" yMax="435.220900">(ET)</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="120.587100" yMin="469.087000" xMax="161.607100" yMax="481.297000">
+        <line xMin="120.587100" yMin="469.087000" xMax="161.607100" yMax="481.297000">
+          <word xMin="120.587100" yMin="469.087000" xMax="143.497100" yMax="481.297000">08:00</word>
+          <word xMin="145.797100" yMin="469.087000" xMax="161.607100" yMax="481.297000">(ET)</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="284.782300" xMax="244.512300" yMax="296.992300">
+        <line xMin="200.952300" yMin="284.782300" xMax="244.512300" yMax="296.992300">
+          <word xMin="200.952300" yMin="284.782300" xMax="244.512300" yMax="296.992300">DEN@OKC</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="330.858500" xMax="242.602300" yMax="343.068500">
+        <line xMin="200.952300" yMin="330.858500" xMax="242.602300" yMax="343.068500">
+          <word xMin="200.952300" yMin="330.858500" xMax="242.602300" yMax="343.068500">PHX@DAL</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="376.934700" xMax="250.082300" yMax="389.144700">
+        <line xMin="200.952300" yMin="376.934700" xMax="250.082300" yMax="389.144700">
+          <word xMin="200.952300" yMin="376.934700" xMax="250.082300" yMax="389.144700">MEM@NOP</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="423.010900" xMax="240.852300" yMax="435.220900">
+        <line xMin="200.952300" yMin="423.010900" xMax="240.852300" yMax="435.220900">
+          <word xMin="200.952300" yMin="423.010900" xMax="240.852300" yMax="435.220900">UTA@PHI</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="469.087000" xMax="239.552300" yMax="481.297000">
+        <line xMin="200.952300" yMin="469.087000" xMax="239.552300" yMax="481.297000">
+          <word xMin="200.952300" yMin="469.087000" xMax="239.552300" yMax="481.297000">CLE@MIL</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="107.458600" xMax="476.862500" yMax="119.668600">
+        <line xMin="425.975000" yMin="107.458600" xMax="476.862500" yMax="119.668600">
+          <word xMin="425.975000" yMin="107.458600" xMax="454.615000" yMax="119.668600">Kleber,</word>
+          <word xMin="456.912500" yMin="107.458600" xMax="476.862500" yMax="119.668600">Maxi</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="107.458600" xMax="601.915500" yMax="119.668600">
+        <line xMin="586.705500" yMin="107.458600" xMax="601.915500" yMax="119.668600">
+          <word xMin="586.705500" yMin="107.458600" xMax="601.915500" yMax="119.668600">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="100.439600" xMax="804.823500" yMax="126.687700">
+        <line xMin="667.070800" yMin="100.439600" xMax="804.823500" yMax="112.649600">
+          <word xMin="667.070800" yMin="100.439600" xMax="719.460800" yMax="112.649600">Injury/Illness</word>
+          <word xMin="721.787600" yMin="100.439600" xMax="724.847600" yMax="112.649600">-</word>
+          <word xMin="727.109900" yMin="100.439600" xMax="748.109900" yMax="112.649600">Right</word>
+          <word xMin="750.405800" yMin="100.439600" xMax="771.545800" yMax="112.649600">Foot;</word>
+          <word xMin="773.833500" yMin="100.439600" xMax="804.823500" yMax="112.649600">Surgery</word>
+        </line>
+        <line xMin="667.070800" yMin="114.477700" xMax="704.430800" yMax="126.687700">
+          <word xMin="667.070800" yMin="114.477700" xMax="704.430800" yMax="126.687700">Recovery</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="137.515700" xMax="472.253200" yMax="149.725700">
+        <line xMin="425.975000" yMin="137.515700" xMax="472.253200" yMax="149.725700">
+          <word xMin="425.975000" yMin="137.515700" xMax="460.635000" yMax="149.725700">Davison,</word>
+          <word xMin="462.923200" yMin="137.515700" xMax="472.253200" yMax="149.725700">JD</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="137.515700" xMax="601.915500" yMax="149.725700">
+        <line xMin="586.705500" yMin="137.515700" xMax="601.915500" yMax="149.725700">
+          <word xMin="586.705500" yMin="137.515700" xMax="601.915500" yMax="149.725700">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="137.515700" xMax="750.685800" yMax="149.725700">
+        <line xMin="667.070800" yMin="137.515700" xMax="750.685800" yMax="149.725700">
+          <word xMin="667.070800" yMin="137.515700" xMax="673.370800" yMax="149.725700">G</word>
+          <word xMin="675.640100" yMin="137.515700" xMax="704.520100" yMax="149.725700">League</word>
+          <word xMin="706.807100" yMin="137.515700" xMax="709.867100" yMax="149.725700">-</word>
+          <word xMin="712.129400" yMin="137.515700" xMax="750.685800" yMax="149.725700">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="159.553800" xMax="476.738300" yMax="171.763800">
+        <line xMin="425.975000" yMin="159.553800" xMax="476.738300" yMax="171.763800">
+          <word xMin="425.975000" yMin="159.553800" xMax="457.095000" yMax="171.763800">Hauser,</word>
+          <word xMin="459.378300" yMin="159.553800" xMax="476.738300" yMax="171.763800">Sam</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="159.553800" xMax="641.005500" yMax="171.763800">
+        <line xMin="586.705500" yMin="159.553800" xMax="641.005500" yMax="171.763800">
+          <word xMin="586.705500" yMin="159.553800" xMax="641.005500" yMax="171.763800">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="159.553800" xMax="803.848800" yMax="171.763800">
+        <line xMin="667.070800" yMin="159.553800" xMax="803.848800" yMax="171.763800">
+          <word xMin="667.070800" yMin="159.553800" xMax="719.460800" yMax="171.763800">Injury/Illness</word>
+          <word xMin="721.787600" yMin="159.553800" xMax="724.847600" yMax="171.763800">-</word>
+          <word xMin="727.109900" yMin="159.553800" xMax="748.109900" yMax="171.763800">Right</word>
+          <word xMin="750.405800" yMin="159.553800" xMax="775.905800" yMax="171.763800">Ankle;</word>
+          <word xMin="778.198800" yMin="159.553800" xMax="803.848800" yMax="171.763800">Sprain</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="188.611000" xMax="478.274900" yMax="200.821000">
+        <line xMin="425.975000" yMin="188.611000" xMax="478.274900" yMax="200.821000">
+          <word xMin="425.975000" yMin="188.611000" xMax="459.105000" yMax="200.821000">Holiday,</word>
+          <word xMin="461.394900" yMin="188.611000" xMax="478.274900" yMax="200.821000">Jrue</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="188.611000" xMax="641.005500" yMax="200.821000">
+        <line xMin="586.705500" yMin="188.611000" xMax="641.005500" yMax="200.821000">
+          <word xMin="586.705500" yMin="188.611000" xMax="641.005500" yMax="200.821000">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="181.591900" xMax="803.090600" yMax="207.840000">
+        <line xMin="667.070800" yMin="181.591900" xMax="803.090600" yMax="193.801900">
+          <word xMin="667.070800" yMin="181.591900" xMax="719.460800" yMax="193.801900">Injury/Illness</word>
+          <word xMin="721.787600" yMin="181.591900" xMax="724.847600" yMax="193.801900">-</word>
+          <word xMin="727.109900" yMin="181.591900" xMax="748.109900" yMax="193.801900">Right</word>
+          <word xMin="750.405800" yMin="181.591900" xMax="774.595800" yMax="193.801900">Hand;</word>
+          <word xMin="776.870600" yMin="181.591900" xMax="803.090600" yMax="193.801900">Mallet</word>
+        </line>
+        <line xMin="667.070800" yMin="195.630000" xMax="692.350800" yMax="207.840000">
+          <word xMin="667.070800" yMin="195.630000" xMax="692.350800" yMax="207.840000">Finger</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="217.668100" xMax="477.638100" yMax="229.878100">
+        <line xMin="425.975000" yMin="217.668100" xMax="477.638100" yMax="229.878100">
+          <word xMin="425.975000" yMin="217.668100" xMax="453.345000" yMax="229.878100">Norris,</word>
+          <word xMin="455.638100" yMin="217.668100" xMax="477.638100" yMax="229.878100">Miles</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="217.668100" xMax="601.915500" yMax="229.878100">
+        <line xMin="586.705500" yMin="217.668100" xMax="601.915500" yMax="229.878100">
+          <word xMin="586.705500" yMin="217.668100" xMax="601.915500" yMax="229.878100">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="217.668100" xMax="750.685800" yMax="229.878100">
+        <line xMin="667.070800" yMin="217.668100" xMax="750.685800" yMax="229.878100">
+          <word xMin="667.070800" yMin="217.668100" xMax="673.370800" yMax="229.878100">G</word>
+          <word xMin="675.640100" yMin="217.668100" xMax="704.520100" yMax="229.878100">League</word>
+          <word xMin="706.807100" yMin="217.668100" xMax="709.867100" yMax="229.878100">-</word>
+          <word xMin="712.129400" yMin="217.668100" xMax="750.685800" yMax="229.878100">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="239.706200" xMax="488.862500" yMax="251.916200">
+        <line xMin="425.975000" yMin="239.706200" xMax="488.862500" yMax="251.916200">
+          <word xMin="425.975000" yMin="239.706200" xMax="464.815000" yMax="251.916200">Peterson,</word>
+          <word xMin="467.122500" yMin="239.706200" xMax="488.862500" yMax="251.916200">Drew</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="239.706200" xMax="601.915500" yMax="251.916200">
+        <line xMin="586.705500" yMin="239.706200" xMax="601.915500" yMax="251.916200">
+          <word xMin="586.705500" yMin="239.706200" xMax="601.915500" yMax="251.916200">Out</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="239.706200" xMax="750.685800" yMax="251.916200">
+        <line xMin="667.070800" yMin="239.706200" xMax="750.685800" yMax="251.916200">
+          <word xMin="667.070800" yMin="239.706200" xMax="673.370800" yMax="251.916200">G</word>
+          <word xMin="675.640100" yMin="239.706200" xMax="704.520100" yMax="251.916200">League</word>
+          <word xMin="706.807100" yMin="239.706200" xMax="709.867100" yMax="251.916200">-</word>
+          <word xMin="712.129400" yMin="239.706200" xMax="750.685800" yMax="251.916200">Two-Way</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="425.975000" yMin="261.744300" xMax="499.228800" yMax="273.954300">
+        <line xMin="425.975000" yMin="261.744300" xMax="499.228800" yMax="273.954300">
+          <word xMin="425.975000" yMin="261.744300" xMax="464.765000" yMax="273.954300">Porzingis,</word>
+          <word xMin="467.068800" yMin="261.744300" xMax="499.228800" yMax="273.954300">Kristaps</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="586.705500" yMin="261.744300" xMax="641.005500" yMax="273.954300">
+        <line xMin="586.705500" yMin="261.744300" xMax="641.005500" yMax="273.954300">
+          <word xMin="586.705500" yMin="261.744300" xMax="641.005500" yMax="273.954300">Questionable</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="261.744300" xMax="799.901500" yMax="273.954300">
+        <line xMin="667.070800" yMin="261.744300" xMax="799.901500" yMax="273.954300">
+          <word xMin="667.070800" yMin="261.744300" xMax="719.460800" yMax="273.954300">Injury/Illness</word>
+          <word xMin="721.787600" yMin="261.744300" xMax="724.847600" yMax="273.954300">-</word>
+          <word xMin="727.109900" yMin="261.744300" xMax="754.909900" yMax="273.954300">Illness;</word>
+          <word xMin="757.207600" yMin="261.744300" xMax="799.901500" yMax="273.954300">Non-Covid</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="284.782300" xMax="330.185600" yMax="296.992300">
+        <line xMin="265.244500" yMin="284.782300" xMax="330.185600" yMax="296.992300">
+          <word xMin="265.244500" yMin="284.782300" xMax="294.574500" yMax="296.992300">Denver</word>
+          <word xMin="296.865600" yMin="284.782300" xMax="330.185600" yMax="296.992300">Nuggets</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="284.782300" xMax="752.420400" yMax="296.992300">
+        <line xMin="667.070800" yMin="284.782300" xMax="752.420400" yMax="296.992300">
+          <word xMin="667.070800" yMin="284.782300" xMax="685.010800" yMax="296.992300">NOT</word>
+          <word xMin="687.280800" yMin="284.782300" xMax="701.900800" yMax="296.992300">YET</word>
+          <word xMin="704.170400" yMin="284.782300" xMax="752.420400" yMax="296.992300">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="307.820400" xMax="361.146600" yMax="320.030400">
+        <line xMin="265.244500" yMin="307.820400" xMax="361.146600" yMax="320.030400">
+          <word xMin="265.244500" yMin="307.820400" xMax="306.774500" yMax="320.030400">Oklahoma</word>
+          <word xMin="309.062900" yMin="307.820400" xMax="324.542900" yMax="320.030400">City</word>
+          <word xMin="326.826600" yMin="307.820400" xMax="361.146600" yMax="320.030400">Thunder</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="307.820400" xMax="752.420400" yMax="320.030400">
+        <line xMin="667.070800" yMin="307.820400" xMax="752.420400" yMax="320.030400">
+          <word xMin="667.070800" yMin="307.820400" xMax="685.010800" yMax="320.030400">NOT</word>
+          <word xMin="687.280800" yMin="307.820400" xMax="701.900800" yMax="320.030400">YET</word>
+          <word xMin="704.170400" yMin="307.820400" xMax="752.420400" yMax="320.030400">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="330.858500" xMax="319.054100" yMax="343.068500">
+        <line xMin="265.244500" yMin="330.858500" xMax="319.054100" yMax="343.068500">
+          <word xMin="265.244500" yMin="330.858500" xMax="297.764500" yMax="343.068500">Phoenix</word>
+          <word xMin="300.054100" yMin="330.858500" xMax="319.054100" yMax="343.068500">Suns</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="330.858500" xMax="752.420400" yMax="343.068500">
+        <line xMin="667.070800" yMin="330.858500" xMax="752.420400" yMax="343.068500">
+          <word xMin="667.070800" yMin="330.858500" xMax="685.010800" yMax="343.068500">NOT</word>
+          <word xMin="687.280800" yMin="330.858500" xMax="701.900800" yMax="343.068500">YET</word>
+          <word xMin="704.170400" yMin="330.858500" xMax="752.420400" yMax="343.068500">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="353.896600" xMax="332.988600" yMax="366.106600">
+        <line xMin="265.244500" yMin="353.896600" xMax="332.988600" yMax="366.106600">
+          <word xMin="265.244500" yMin="353.896600" xMax="289.464500" yMax="366.106600">Dallas</word>
+          <word xMin="291.738600" yMin="353.896600" xMax="332.988600" yMax="366.106600">Mavericks</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="353.896600" xMax="752.420400" yMax="366.106600">
+        <line xMin="667.070800" yMin="353.896600" xMax="752.420400" yMax="366.106600">
+          <word xMin="667.070800" yMin="353.896600" xMax="685.010800" yMax="366.106600">NOT</word>
+          <word xMin="687.280800" yMin="353.896600" xMax="701.900800" yMax="366.106600">YET</word>
+          <word xMin="704.170400" yMin="353.896600" xMax="752.420400" yMax="366.106600">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="376.934700" xMax="339.162800" yMax="389.144700">
+        <line xMin="265.244500" yMin="376.934700" xMax="339.162800" yMax="389.144700">
+          <word xMin="265.244500" yMin="376.934700" xMax="303.434500" yMax="389.144700">Memphis</word>
+          <word xMin="305.732800" yMin="376.934700" xMax="339.162800" yMax="389.144700">Grizzlies</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="376.934700" xMax="752.420400" yMax="389.144700">
+        <line xMin="667.070800" yMin="376.934700" xMax="752.420400" yMax="389.144700">
+          <word xMin="667.070800" yMin="376.934700" xMax="685.010800" yMax="389.144700">NOT</word>
+          <word xMin="687.280800" yMin="376.934700" xMax="701.900800" yMax="389.144700">YET</word>
+          <word xMin="704.170400" yMin="376.934700" xMax="752.420400" yMax="389.144700">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="399.972800" xMax="352.558100" yMax="412.182800">
+        <line xMin="265.244500" yMin="399.972800" xMax="352.558100" yMax="412.182800">
+          <word xMin="265.244500" yMin="399.972800" xMax="283.804500" yMax="412.182800">New</word>
+          <word xMin="286.084300" yMin="399.972800" xMax="317.394300" yMax="412.182800">Orleans</word>
+          <word xMin="319.678100" yMin="399.972800" xMax="352.558100" yMax="412.182800">Pelicans</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="399.972800" xMax="752.420400" yMax="412.182800">
+        <line xMin="667.070800" yMin="399.972800" xMax="752.420400" yMax="412.182800">
+          <word xMin="667.070800" yMin="399.972800" xMax="685.010800" yMax="412.182800">NOT</word>
+          <word xMin="687.280800" yMin="399.972800" xMax="701.900800" yMax="412.182800">YET</word>
+          <word xMin="704.170400" yMin="399.972800" xMax="752.420400" yMax="412.182800">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="423.010900" xMax="303.184800" yMax="435.220900">
+        <line xMin="265.244500" yMin="423.010900" xMax="303.184800" yMax="435.220900">
+          <word xMin="265.244500" yMin="423.010900" xMax="285.034500" yMax="435.220900">Utah</word>
+          <word xMin="287.314800" yMin="423.010900" xMax="303.184800" yMax="435.220900">Jazz</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="423.010900" xMax="752.420400" yMax="435.220900">
+        <line xMin="667.070800" yMin="423.010900" xMax="752.420400" yMax="435.220900">
+          <word xMin="667.070800" yMin="423.010900" xMax="685.010800" yMax="435.220900">NOT</word>
+          <word xMin="687.280800" yMin="423.010900" xMax="701.900800" yMax="435.220900">YET</word>
+          <word xMin="704.170400" yMin="423.010900" xMax="752.420400" yMax="435.220900">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="446.048900" xMax="339.902200" yMax="458.258900">
+        <line xMin="265.244500" yMin="446.048900" xMax="339.902200" yMax="458.258900">
+          <word xMin="265.244500" yMin="446.048900" xMax="315.114500" yMax="458.258900">Philadelphia</word>
+          <word xMin="317.422200" yMin="446.048900" xMax="339.902200" yMax="458.258900">76ers</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="446.048900" xMax="752.420400" yMax="458.258900">
+        <line xMin="667.070800" yMin="446.048900" xMax="752.420400" yMax="458.258900">
+          <word xMin="667.070800" yMin="446.048900" xMax="685.010800" yMax="458.258900">NOT</word>
+          <word xMin="687.280800" yMin="446.048900" xMax="701.900800" yMax="458.258900">YET</word>
+          <word xMin="704.170400" yMin="446.048900" xMax="752.420400" yMax="458.258900">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="469.087000" xMax="343.552700" yMax="481.297000">
+        <line xMin="265.244500" yMin="469.087000" xMax="343.552700" yMax="481.297000">
+          <word xMin="265.244500" yMin="469.087000" xMax="304.894500" yMax="481.297000">Cleveland</word>
+          <word xMin="307.192700" yMin="469.087000" xMax="343.552700" yMax="481.297000">Cavaliers</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="469.087000" xMax="752.420400" yMax="481.297000">
+        <line xMin="667.070800" yMin="469.087000" xMax="752.420400" yMax="481.297000">
+          <word xMin="667.070800" yMin="469.087000" xMax="685.010800" yMax="481.297000">NOT</word>
+          <word xMin="687.280800" yMin="469.087000" xMax="701.900800" yMax="481.297000">YET</word>
+          <word xMin="704.170400" yMin="469.087000" xMax="752.420400" yMax="481.297000">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="492.125100" xMax="335.684300" yMax="504.335100">
+        <line xMin="265.244500" yMin="492.125100" xMax="335.684300" yMax="504.335100">
+          <word xMin="265.244500" yMin="492.125100" xMax="310.024500" yMax="504.335100">Milwaukee</word>
+          <word xMin="312.334300" yMin="492.125100" xMax="335.684300" yMax="504.335100">Bucks</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="492.125100" xMax="752.420400" yMax="504.335100">
+        <line xMin="667.070800" yMin="492.125100" xMax="752.420400" yMax="504.335100">
+          <word xMin="667.070800" yMin="492.125100" xMax="685.010800" yMax="504.335100">NOT</word>
+          <word xMin="687.280800" yMin="492.125100" xMax="701.900800" yMax="504.335100">YET</word>
+          <word xMin="704.170400" yMin="492.125100" xMax="752.420400" yMax="504.335100">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+        <line xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+          <word xMin="398.533600" yMin="535.913400" xMax="418.153600" yMax="548.123400">Page</word>
+          <word xMin="420.433000" yMin="535.913400" xMax="425.493000" yMax="548.123400">6</word>
+          <word xMin="427.762100" yMin="535.913400" xMax="436.082100" yMax="548.123400">of</word>
+          <word xMin="438.348000" yMin="535.913400" xMax="443.408000" yMax="548.123400">7</word>
+        </line>
+      </block>
+    </flow>
+  </page>
+  <page width="841.950000" height="595.350000">
+    <flow>
+      <block xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+        <line xMin="289.108100" yMin="38.271400" xMax="637.030400" yMax="67.531400">
+          <word xMin="289.108100" yMin="38.271400" xMax="349.454100" yMax="67.531400">Injury</word>
+          <word xMin="355.613000" yMin="38.271400" xMax="432.173000" yMax="67.531400">Report:</word>
+          <word xMin="438.317100" yMin="38.271400" xMax="533.709100" yMax="67.531400">03/08/25</word>
+          <word xMin="539.820000" yMin="38.271400" xMax="596.360000" yMax="67.531400">12:30</word>
+          <word xMin="602.468400" yMin="38.271400" xMax="637.030400" yMax="67.531400">PM</word>
+        </line>
+      </block>
+      <block xMin="200.952300" yMin="81.401500" xMax="242.352300" yMax="93.611500">
+        <line xMin="200.952300" yMin="81.401500" xMax="242.352300" yMax="93.611500">
+          <word xMin="200.952300" yMin="81.401500" xMax="242.352300" yMax="93.611500">SAS@MIN</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="120.587100" yMin="127.477700" xMax="161.607100" yMax="139.687700">
+        <line xMin="120.587100" yMin="127.477700" xMax="161.607100" yMax="139.687700">
+          <word xMin="120.587100" yMin="127.477700" xMax="143.497100" yMax="139.687700">09:00</word>
+          <word xMin="145.797100" yMin="127.477700" xMax="161.607100" yMax="139.687700">(ET)</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="120.587100" yMin="173.553800" xMax="161.607100" yMax="185.763800">
+        <line xMin="120.587100" yMin="173.553800" xMax="161.607100" yMax="185.763800">
+          <word xMin="120.587100" yMin="173.553800" xMax="143.497100" yMax="185.763800">09:30</word>
+          <word xMin="145.797100" yMin="173.553800" xMax="161.607100" yMax="185.763800">(ET)</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="127.477700" xMax="242.992300" yMax="139.687700">
+        <line xMin="200.952300" yMin="127.477700" xMax="242.992300" yMax="139.687700">
+          <word xMin="200.952300" yMin="127.477700" xMax="242.992300" yMax="139.687700">DET@POR</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="200.952300" yMin="173.553800" xMax="240.902300" yMax="185.763800">
+        <line xMin="200.952300" yMin="173.553800" xMax="240.902300" yMax="185.763800">
+          <word xMin="200.952300" yMin="173.553800" xMax="240.902300" yMax="185.763800">SAC@LAC</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="81.401500" xMax="339.370000" yMax="93.611500">
+        <line xMin="265.244500" yMin="81.401500" xMax="339.370000" yMax="93.611500">
+          <word xMin="265.244500" yMin="81.401500" xMax="279.874500" yMax="93.611500">San</word>
+          <word xMin="282.143900" yMin="81.401500" xMax="314.593900" yMax="93.611500">Antonio</word>
+          <word xMin="316.890000" yMin="81.401500" xMax="339.370000" yMax="93.611500">Spurs</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="81.401500" xMax="752.420400" yMax="93.611500">
+        <line xMin="667.070800" yMin="81.401500" xMax="752.420400" yMax="93.611500">
+          <word xMin="667.070800" yMin="81.401500" xMax="685.010800" yMax="93.611500">NOT</word>
+          <word xMin="687.280800" yMin="81.401500" xMax="701.900800" yMax="93.611500">YET</word>
+          <word xMin="704.170400" yMin="81.401500" xMax="752.420400" yMax="93.611500">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="104.439600" xMax="368.087600" yMax="116.649600">
+        <line xMin="265.244500" yMin="104.439600" xMax="368.087600" yMax="116.649600">
+          <word xMin="265.244500" yMin="104.439600" xMax="308.854500" yMax="116.649600">Minnesota</word>
+          <word xMin="311.157600" yMin="104.439600" xMax="368.087600" yMax="116.649600">Timberwolves</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="104.439600" xMax="752.420400" yMax="116.649600">
+        <line xMin="667.070800" yMin="104.439600" xMax="752.420400" yMax="116.649600">
+          <word xMin="667.070800" yMin="104.439600" xMax="685.010800" yMax="116.649600">NOT</word>
+          <word xMin="687.280800" yMin="104.439600" xMax="701.900800" yMax="116.649600">YET</word>
+          <word xMin="704.170400" yMin="104.439600" xMax="752.420400" yMax="116.649600">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="127.477700" xMax="325.517100" yMax="139.687700">
+        <line xMin="265.244500" yMin="127.477700" xMax="325.517100" yMax="139.687700">
+          <word xMin="265.244500" yMin="127.477700" xMax="294.084500" yMax="139.687700">Detroit</word>
+          <word xMin="296.387100" yMin="127.477700" xMax="325.517100" yMax="139.687700">Pistons</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="127.477700" xMax="752.420400" yMax="139.687700">
+        <line xMin="667.070800" yMin="127.477700" xMax="752.420400" yMax="139.687700">
+          <word xMin="667.070800" yMin="127.477700" xMax="685.010800" yMax="139.687700">NOT</word>
+          <word xMin="687.280800" yMin="127.477700" xMax="701.900800" yMax="139.687700">YET</word>
+          <word xMin="704.170400" yMin="127.477700" xMax="752.420400" yMax="139.687700">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="150.515700" xMax="351.193400" yMax="162.725700">
+        <line xMin="265.244500" yMin="150.515700" xMax="351.193400" yMax="162.725700">
+          <word xMin="265.244500" yMin="150.515700" xMax="300.074500" yMax="162.725700">Portland</word>
+          <word xMin="302.373400" yMin="150.515700" xMax="320.093400" yMax="162.725700">Trail</word>
+          <word xMin="322.373400" yMin="150.515700" xMax="351.193400" yMax="162.725700">Blazers</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="150.515700" xMax="752.420400" yMax="162.725700">
+        <line xMin="667.070800" yMin="150.515700" xMax="752.420400" yMax="162.725700">
+          <word xMin="667.070800" yMin="150.515700" xMax="685.010800" yMax="162.725700">NOT</word>
+          <word xMin="687.280800" yMin="150.515700" xMax="701.900800" yMax="162.725700">YET</word>
+          <word xMin="704.170400" yMin="150.515700" xMax="752.420400" yMax="162.725700">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="173.553800" xMax="337.575700" yMax="185.763800">
+        <line xMin="265.244500" yMin="173.553800" xMax="337.575700" yMax="185.763800">
+          <word xMin="265.244500" yMin="173.553800" xMax="313.924500" yMax="185.763800">Sacramento</word>
+          <word xMin="316.235700" yMin="173.553800" xMax="337.575700" yMax="185.763800">Kings</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="173.553800" xMax="752.420400" yMax="185.763800">
+        <line xMin="667.070800" yMin="173.553800" xMax="752.420400" yMax="185.763800">
+          <word xMin="667.070800" yMin="173.553800" xMax="685.010800" yMax="185.763800">NOT</word>
+          <word xMin="687.280800" yMin="173.553800" xMax="701.900800" yMax="185.763800">YET</word>
+          <word xMin="704.170400" yMin="173.553800" xMax="752.420400" yMax="185.763800">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="265.244500" yMin="196.591900" xMax="310.265500" yMax="208.801900">
+        <line xMin="265.244500" yMin="196.591900" xMax="310.265500" yMax="208.801900">
+          <word xMin="265.244500" yMin="196.591900" xMax="275.224500" yMax="208.801900">LA</word>
+          <word xMin="277.495500" yMin="196.591900" xMax="310.265500" yMax="208.801900">Clippers</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="667.070800" yMin="196.591900" xMax="752.420400" yMax="208.801900">
+        <line xMin="667.070800" yMin="196.591900" xMax="752.420400" yMax="208.801900">
+          <word xMin="667.070800" yMin="196.591900" xMax="685.010800" yMax="208.801900">NOT</word>
+          <word xMin="687.280800" yMin="196.591900" xMax="701.900800" yMax="208.801900">YET</word>
+          <word xMin="704.170400" yMin="196.591900" xMax="752.420400" yMax="208.801900">SUBMITTED</word>
+        </line>
+      </block>
+    </flow>
+    <flow>
+      <block xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+        <line xMin="398.533600" yMin="535.913400" xMax="443.408000" yMax="548.123400">
+          <word xMin="398.533600" yMin="535.913400" xMax="418.153600" yMax="548.123400">Page</word>
+          <word xMin="420.433000" yMin="535.913400" xMax="425.493000" yMax="548.123400">7</word>
+          <word xMin="427.762100" yMin="535.913400" xMax="436.082100" yMax="548.123400">of</word>
+          <word xMin="438.348000" yMin="535.913400" xMax="443.408000" yMax="548.123400">7</word>
+        </line>
+      </block>
+    </flow>
+  </page>
+</doc>
+</body>
+</html>

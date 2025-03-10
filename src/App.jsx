@@ -1,4 +1,4 @@
-import { useState } from "react"
+import React, { useState } from "react"
 
 import Report    from "./Report.jsx";
 import reactLogo from "./assets/react.svg"
@@ -9,14 +9,10 @@ import report from "../output.json";
 
 function App () {
     return (
-        <>
+        <div className="container">
             <h1>NBA Injury Report</h1>
             <Report matchups={report} />
-
-            <p className="read-the-docs">
-                Click on the Vite and React logos to learn more
-            </p>
-        </>
+        </div>
     )
 }
 

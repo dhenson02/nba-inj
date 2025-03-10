@@ -6,16 +6,14 @@ function Report ( props ) {
         <div>
             {props.matchups.map(( { matchup, date, time, teams }, i ) =>
                 <div
-                    className="card"
+                    className="row"
                     key={`${matchup}-${i}`}>
                     <code>{matchup}</code>
 
-                    <p>Away Team:</p>
                     <Team
                         teamName={teams[ 0 ].teamName}
                         players={teams[ 0 ].players} />
 
-                    <p>Home Team:</p>
                     <Team
                         teamName={teams[ 1 ].teamName}
                         players={teams[ 1 ].players} />

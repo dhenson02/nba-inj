@@ -31,4 +31,5 @@ export async function processReport ( now = moment().tz(`US/Eastern`) ) {
     logger.info(`Complete`);
 }
 
-processReport(moment(`2025-03-08T18:29:00`).tz(`US/Eastern`));
+// processReport(moment(`2025-03-08T18:29:00`).tz(`US/Eastern`));
+processReport();

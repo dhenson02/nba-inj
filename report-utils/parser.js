@@ -64,7 +64,9 @@ export function makePlayer ( name, status, reason ) {
     }
     // const details = {};
     return {
-        name,
+        name: name.split(`, `)
+                  .reverse()
+                  .join(` `),
         status,
         reason,
         // details,
@@ -127,29 +129,6 @@ export function getCellTypes ( line ) {
  */
 export function parsePivotTable ( txt ) {
     const [ emptyLine, headerRow, ...tableRows ] = getLines(txt);
-    /**
-     * @typedef Headers
-     * @param {string[]} cells - array of strings representing the table cells.
-     * @example [
-     * "Game Number",
-     * "Game Date",
-     * "Game Time",
-     * "Matchup",
-     * "Team",
-     * "Player Name",
-     * "Current Status"
-     * ]
-     */
-    // const headers = getCells(tableRows);
-/*    const positions = headers.reduce(( map, h, i ) => {
-        const startIndex = headerRow.indexOf(h);
-        const nextIndex = headerRow.indexOf(headers[ i + 1]);
-        map[ headers[ startIndex ] ] = [
-            startIndex,
-            nextIndex,
-        ];
-        return map;
-    }, {});*/
 
     const matchups = [];
 

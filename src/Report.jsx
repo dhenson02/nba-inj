@@ -26,13 +26,22 @@ function Report ( props ) {
                         </code>
                     </h2>
 
-                    <Team
-                        teamName={teams[ 0 ].teamName}
-                        players={teams[ 0 ].players} />
+                    {teams[ 0 ].players.length !== 0 || teams[ 1 ].players.length !== 0
+                        ? <>
+                            <Team
+                                key={`team-key-${teams[ 0 ].teamName}`}
+                                teamName={teams[ 0 ].teamName}
+                                players={teams[ 0 ].players} />
 
-                    <Team
-                        teamName={teams[ 1 ].teamName}
-                        players={teams[ 1 ].players} />
+                            <Team
+                                key={`team-key-${teams[1].teamName}`}
+                                teamName={teams[ 1 ].teamName}
+                                players={teams[ 1 ].players} />
+                        </>
+                        : <div className="col-12 col-lg-9 d-flex align-items-center justify-content-center">
+                            <em>No injured players reported for this matchup.</em>
+                        </div>
+                    }
 
                     <hr className="d-lg-none"/>
                 </div>

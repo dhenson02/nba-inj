@@ -17,9 +17,9 @@ function Report ( props ) {
         <div>
             {props.matchups.map(( { matchup, date, time, teams }, i ) =>
                 <div
-                    className="row"
+                    className="row mb-4"
                     key={`${matchup}-${i}`}>
-                    <h2 className="col col-3">
+                    <h2 className="col-12 col-lg-3 mb-3">
                         <code>
                             {matchup} <br/>
                             <small>{date} - {time}</small>
@@ -34,7 +34,7 @@ function Report ( props ) {
                         teamName={teams[ 1 ].teamName}
                         players={teams[ 1 ].players} />
 
-                    <hr/>
+                    <hr className="d-lg-none"/>
                 </div>
             )}
         </div>

@@ -98,6 +98,11 @@
                         "reason": "G League - On Assignment"
                     },
                     {
+                        "name": "Caleb Houstan",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
                         "name": "Eli John Ndiaye",
                         "status": "Out",
                         "reason": "G League - Two-Way"
@@ -335,6 +340,31 @@
                 "teamName": "Minnesota Timberwolves",
                 "players": [
                     {
+                        "name": "Bradley Beal",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Hip; Fracture"
+                    },
+                    {
+                        "name": "Bogdan Bogdanovic",
+                        "status": "Probable",
+                        "reason": "Injury/Illness - Left Hip; Contusion"
+                    },
+                    {
+                        "name": "Derrick Jones Jr.",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Knee; Sprain"
+                    },
+                    {
+                        "name": "Jordan Miller",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Back; Injury Management"
+                    },
+                    {
+                        "name": "Chris Paul",
+                        "status": "Out",
+                        "reason": "Not With Team"
+                    },
+                    {
                         "name": "Enrique Freeman",
                         "status": "Out",
                         "reason": "G League - Two-Way"
@@ -401,7 +431,7 @@
                     {
                         "name": "Tyler Herro",
                         "status": "Doubtful",
-                        "reason": "Injury/Illness - Right Big Toe; Contusion"
+                        "reason": "Injury/Illness - Right Big Toe;Contusion"
                     },
                     {
                         "name": "Kasparas Jakucionis",
@@ -455,12 +485,69 @@
             {
                 "team": "HOU",
                 "teamName": "Houston Rockets",
-                "players": []
+                "players": [
+                    {
+                        "name": "Steven Adams",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Ankle; Tendinopathy"
+                    },
+                    {
+                        "name": "Tari Eason",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Oblique; Strain"
+                    },
+                    {
+                        "name": "Dorian Finney-Smith",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Ankle; Surgery"
+                    },
+                    {
+                        "name": "Alperen Sengun",
+                        "status": "Doubtful",
+                        "reason": "Injury/Illness - N/a; Illness"
+                    },
+                    {
+                        "name": "Fred VanVleet",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Knee; ACL Repair"
+                    }
+                ]
             },
             {
                 "team": "DAL",
                 "teamName": "Dallas Mavericks",
-                "players": []
+                "players": [
+                    {
+                        "name": "Dante Exum",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Knee; Injury Management"
+                    },
+                    {
+                        "name": "Cooper Flagg",
+                        "status": "Available",
+                        "reason": "Injury/Illness - Right Thumb; Splint"
+                    },
+                    {
+                        "name": "Daniel Gafford",
+                        "status": "Doubtful",
+                        "reason": "Injury/Illness - Right Ankle; Injury Management"
+                    },
+                    {
+                        "name": "Kyrie Irving",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Knee; Surgery"
+                    },
+                    {
+                        "name": "Dereck Lively II",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Foot; Injury Management"
+                    },
+                    {
+                        "name": "P.J. Washington",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Right Ankle; Sprain"
+                    }
+                ]
             }
         ]
     },

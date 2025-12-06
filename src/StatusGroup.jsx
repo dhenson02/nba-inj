@@ -7,11 +7,11 @@ function StatusGroup ( props ) {
     } = props;
 
     return (
-        <div className="col">
-            <table className="table table-striped">
+        <div className="mb-2">
+            <table className="table table-striped table-sm">
                 <thead>
                     <tr>
-                        <th>{status}</th>
+                        <th className="table-light">{status}</th>
                     </tr>
                 </thead>
                 <tbody>

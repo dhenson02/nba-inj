@@ -4,6 +4,21 @@ import StatusGroup          from "./StatusGroup.jsx";
 function Team ( props ) {
     const [ showOthers, setShowOthers ] = useState(false);
 
+    if ( !props.players || props.players.length === 0 ) {
+        return (
+            <div className={`col-12 col-lg mb-3`}>
+                <div className="card h-100">
+                    <div className="card-body">
+                        <h3 className="card-title">{props.teamName}</h3>
+                        <div className="col-12 col-lg-9 d-flex align-items-center justify-content-center">
+                            <em>No injured players reported for this team.</em>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        );
+    }
+
     const grouped = props.players.reduce(( groups, player ) => {
         const group = groups[ player.status ] || [];
         groups[ player.status ] = [ ...group, player ];

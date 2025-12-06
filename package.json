@@ -9,7 +9,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "start": "npm run build && screen -dmS nbainj node server.js",
-    "show": "screen -r nbainj"
+    "show": "screen -r nbainj",
+    "stop": "screen -S nbainj -X stuff $'\\003'"
   },
   "dependencies": {
     "@koa/router": "^15.0.0",

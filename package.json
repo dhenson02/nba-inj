@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "screen -dmS nbainj node server.js",
+    "start": "npm run build && screen -dmS nbainj node server.js",
     "show": "screen -r nbainj"
   },
   "dependencies": {

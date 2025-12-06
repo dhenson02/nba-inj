@@ -8,7 +8,12 @@ function Report ( props ) {
                 <div
                     className="row"
                     key={`${matchup}-${i}`}>
-                    <code>{matchup}</code>
+                    <h2 className="col col-3">
+                        <code>
+                            {matchup} <br/>
+                            <small>{date} - {time}</small>
+                        </code>
+                    </h2>
 
                     <Team
                         teamName={teams[ 0 ].teamName}
@@ -17,6 +22,8 @@ function Report ( props ) {
                     <Team
                         teamName={teams[ 1 ].teamName}
                         players={teams[ 1 ].players} />
+
+                    <hr/>
                 </div>
             )}
         </div>

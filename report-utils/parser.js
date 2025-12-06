@@ -17,23 +17,40 @@ const {
 
 export function convertToText ( infile ) {
     const outfile = infile + `.txt`;
-    const args = pdfConvertUtilArgs
-        .replace(`%INPUTFILE%`, infile)
-        .replace(`%OUTPUTFILE%`, outfile);
-    const argsArray = args.split(/\s/);
-    const converter = spawn(pdfConvertUtil, argsArray);
+
+    // Build argument list safely: split template first, then replace placeholders.
+    const templateTokens = pdfConvertUtilArgs.trim().split(/\s+/);
+    const argsArray = templateTokens.map(tok => {
+        if ( tok === `%INPUTFILE%` ) return infile;
+        if ( tok === `%OUTPUTFILE%` ) return outfile;
+        return tok;
+    });
+
+    const converter = spawn(pdfConvertUtil, argsArray, { shell: false });
+
     return new Promise(( resolve, reject ) => {
         converter.stdout.on(`data`, data => {
             logger.info(`${pdfConvertUtil} | ${data}`);
         });
-        converter.stdout.on(`data`, data => {
+        converter.stderr.on(`data`, data => {
             logger.error(`${pdfConvertUtil} | ${data}`);
-            reject();
         });
         converter.on(`close`, async code => {
             logger.debug(`${pdfConvertUtil} finished with code ${code}`);
-            const txtFile = await fs.promises.readFile(outfile, { "encoding": `utf8` });
-            resolve(txtFile);
+            try {
+                if ( code !== 0 ) {
+                    return reject(new Error(`${pdfConvertUtil} exited with code ${code}`));
+                }
+                const txtFile = await fs.promises.readFile(outfile, { encoding: `utf8` });
+                resolve(txtFile);
+            }
+            catch (err) {
+                reject(err);
+            }
+        });
+        converter.on(`error`, err => {
+            logger.error(`Failed to start ${pdfConvertUtil}: ${err.message}`);
+            reject(err);
         });
     });
 }

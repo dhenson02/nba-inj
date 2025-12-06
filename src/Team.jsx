@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import StatusGroup          from "./StatusGroup.jsx";
 
 function Team ( props ) {
     const grouped = props.players.reduce(( groups, player ) => {
@@ -16,34 +17,30 @@ function Team ( props ) {
     //     return 0;
     // });
     return (
-        <div className={`row`}>
-            <h2>{props.teamName}</h2>
-            {Object.keys(grouped).map((status, i) =>
-                <div className="col" key={`${status}`}>
-                    <div className="row">
-                        <strong>{status}</strong>
-                    </div>
-                    <div className="row">
-                        {grouped[ status ].sort((a, b) => {
-                            return a.name > b.name;
-                        }).map(( {
-                               name,
-                               status,
-                               reason,
-                           }, i ) =>
-                        <div className="row" key={`${name}-${i}`}>
-                            <div className="col">
-                                {name}
-                            </div>
-                            <div className="col">
-                                <code>{reason}</code>
-                            </div>
-
-                        </div>
-                    )}
-                    </div>
-                </div>
-            )}
+        <div className={`col`}>
+            <div className="col">
+            <h3>{props.teamName}</h3>
+                <StatusGroup
+                    key={`Out`}
+                    players={grouped.Out}
+                    status={`Out`} />
+                <StatusGroup
+                    key={`Doubtful`}
+                    players={grouped.Doubtful}
+                    status={`Doubtful`} />
+                <StatusGroup
+                    key={`Questionable`}
+                    players={grouped.Questionable}
+                    status={`Questionable`} />
+                <StatusGroup
+                    key={`Probable`}
+                    players={grouped.Probable}
+                    status={`Probable`} />
+                <StatusGroup
+                    key={`Available`}
+                    players={grouped.Available}
+                    status={`Available`} />
+            </div>
         </div>
     );
 }

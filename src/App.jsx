@@ -9,7 +9,7 @@ import report from "../output.json";
 
 function App () {
     return (
-        <div className="container">
+        <div className="container-xxl">
             <h1>NBA Injury Report</h1>
             <Report matchups={report} />
         </div>

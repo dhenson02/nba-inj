@@ -1,47 +1,386 @@
 [
     {
-        "date": "03/10/2025",
-        "time": "07:30 (ET)",
-        "matchup": "CHA@MIA",
+        "date": "12/06/2025",
+        "time": "05:00 (ET)",
+        "matchup": "NOP@BKN",
         "teams": [
             {
-                "team": "CHA",
-                "teamName": "Charlotte Hornets",
+                "team": "NOP",
+                "teamName": "New Orleans Pelicans",
                 "players": [
                     {
-                        "name": "Tre Mann",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Disc; Herniation"
-                    },
-                    {
-                        "name": "Brandon Miller",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Wrist; Ligament Repair"
-                    },
-                    {
-                        "name": "Jusuf Nurkic",
-                        "status": "Probable",
-                        "reason": "Injury/Illness - Neck; Soreness"
-                    },
-                    {
-                        "name": "Josh Okogie",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Hamstring; Strain"
-                    },
-                    {
-                        "name": "Tidjane Salaun",
-                        "status": "Out",
-                        "reason": "G League - On Assignment"
-                    },
-                    {
-                        "name": "KJ Simpson",
+                        "name": "Hunter Dickinson",
                         "status": "Out",
                         "reason": "G League - Two-Way"
                     },
                     {
-                        "name": "Grant Williams",
+                        "name": "Herbert Jones",
                         "status": "Out",
-                        "reason": "Injury/Illness - Right ACL; Repair"
+                        "reason": "Injury/Illness - Right Calf; Strain"
+                    },
+                    {
+                        "name": "Yves Missi",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Right Foot/ankle; Sprain"
+                    },
+                    {
+                        "name": "Dejounte Murray",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Achilles; Rupture"
+                    },
+                    {
+                        "name": "Jordan Poole",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Quad; Strain"
+                    },
+                    {
+                        "name": "Zion Williamson",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Adductor; Strain"
+                    }
+                ]
+            },
+            {
+                "team": "BKN",
+                "teamName": "Brooklyn Nets",
+                "players": [
+                    {
+                        "name": "Noah Clowney",
+                        "status": "Probable",
+                        "reason": "Injury/Illness - Back; Soreness"
+                    },
+                    {
+                        "name": "Tyson Etienne",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Haywood Highsmith",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Knee; Surgery, Injury Recovery"
+                    },
+                    {
+                        "name": "E.J. Liddell",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Cam Thomas",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Hamstring; Strain"
+                    },
+                    {
+                        "name": "Nolan Traore",
+                        "status": "Out",
+                        "reason": "G League - On Assignment"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/06/2025",
+        "time": "07:00 (ET)",
+        "matchup": "ATL@WAS",
+        "teams": [
+            {
+                "team": "ATL",
+                "teamName": "Atlanta Hawks",
+                "players": [
+                    {
+                        "name": "N'Faly Dante",
+                        "status": "Out",
+                        "reason": "Concussion Protocol"
+                    },
+                    {
+                        "name": "Nikola Djurisic",
+                        "status": "Out",
+                        "reason": "G League - On Assignment"
+                    },
+                    {
+                        "name": "Eli John Ndiaye",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Kristaps Porzingis",
+                        "status": "Out",
+                        "reason": "Return to Competition Reconditioning"
+                    },
+                    {
+                        "name": "Jacob Toppin",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Shoulder; Sprain"
+                    },
+                    {
+                        "name": "Trae Young",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Knee; MCL Sprain"
+                    }
+                ]
+            },
+            {
+                "team": "WAS",
+                "teamName": "Washington Wizards",
+                "players": [
+                    {
+                        "name": "Sharife Cooper",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Calf; Strain"
+                    },
+                    {
+                        "name": "Bilal Coulibaly",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Oblique; Strain"
+                    },
+                    {
+                        "name": "Tre Johnson",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Hip Flexor; Strain"
+                    },
+                    {
+                        "name": "Corey Kispert",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Thumb; Distal Phalanx Fracture"
+                    },
+                    {
+                        "name": "Khris Middleton",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Right Knee; Soreness"
+                    },
+                    {
+                        "name": "Alex Sarr",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Adductor; Strain"
+                    },
+                    {
+                        "name": "Tristan Vukcevic",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Right Knee; Contusion"
+                    },
+                    {
+                        "name": "Cam Whitmore",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - N/a; Illness"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/06/2025",
+        "time": "07:30 (ET)",
+        "matchup": "GSW@CLE",
+        "teams": [
+            {
+                "team": "GSW",
+                "teamName": "Golden State Warriors",
+                "players": [
+                    {
+                        "name": "Jimmy Butler III",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Left Knee; Injury Management"
+                    },
+                    {
+                        "name": "Seth Curry",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Right Toe; Soreness"
+                    },
+                    {
+                        "name": "Stephen Curry",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Quadriceps; Contusion"
+                    },
+                    {
+                        "name": "Draymond Green",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Right Midfoot; Sprain"
+                    },
+                    {
+                        "name": "Al Horford",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Sciatic Nerve; Irritation"
+                    },
+                    {
+                        "name": "De'Anthony Melton",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Left Knee; Injury Management"
+                    },
+                    {
+                        "name": "Alex Toohey",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Knee; Injury Management"
+                    }
+                ]
+            },
+            {
+                "team": "CLE",
+                "teamName": "Cleveland Cavaliers",
+                "players": [
+                    {
+                        "name": "Jarrett Allen",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right 3rd Finger; Strain"
+                    },
+                    {
+                        "name": "Lonzo Ball",
+                        "status": "Out",
+                        "reason": "Rest - Left Knee Injury Management"
+                    },
+                    {
+                        "name": "Sam Merrill",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Hand; Sprain"
+                    },
+                    {
+                        "name": "Larry Nance Jr.",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Calf; Strain"
+                    },
+                    {
+                        "name": "Tyrese Proctor",
+                        "status": "Out",
+                        "reason": "Personal Reasons"
+                    },
+                    {
+                        "name": "Max Strus",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Foot; Surgery - Jones Fracture"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/06/2025",
+        "time": "07:30 (ET)",
+        "matchup": "MIL@DET",
+        "teams": [
+            {
+                "team": "MIL",
+                "teamName": "Milwaukee Bucks",
+                "players": [
+                    {
+                        "name": "Alex Antetokounmpo",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Giannis Antetokounmpo",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Calf; Strain"
+                    },
+                    {
+                        "name": "AJ Green",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Left Shoulder; Contusion"
+                    },
+                    {
+                        "name": "Taurean Prince",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Neck; Surgery"
+                    }
+                ]
+            },
+            {
+                "team": "DET",
+                "teamName": "Detroit Pistons",
+                "players": [
+                    {
+                        "name": "Tobias Harris",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Left Ankle; Sprain"
+                    },
+                    {
+                        "name": "Isaac Jones",
+                        "status": "Out",
+                        "reason": "G League - On Assignment"
+                    },
+                    {
+                        "name": "Bobi Klintman",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Ankle; Sprain"
+                    },
+                    {
+                        "name": "Wendell Moore Jr.",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Marcus Sasser",
+                        "status": "Probable",
+                        "reason": "Injury/Illness - Right Hip; Impingement"
+                    },
+                    {
+                        "name": "Tolu Smith",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/06/2025",
+        "time": "08:00 (ET)",
+        "matchup": "LAC@MIN",
+        "teams": [
+            {
+                "team": "LAC",
+                "teamName": "",
+                "players": []
+            },
+            {
+                "team": "MIN",
+                "teamName": "Minnesota Timberwolves",
+                "players": [
+                    {
+                        "name": "Enrique Freeman",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Rocco Zikarsky",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12/06/2025",
+        "time": "08:00 (ET)",
+        "matchup": "SAC@MIA",
+        "teams": [
+            {
+                "team": "SAC",
+                "teamName": "Sacramento Kings",
+                "players": [
+                    {
+                        "name": "Dylan Cardwell",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Daeqwon Plowden",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Domantas Sabonis",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Knee; Partial Meniscus Tear"
+                    },
+                    {
+                        "name": "Dennis Schroder",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Hip Flexor; Strain"
+                    },
+                    {
+                        "name": "Isaiah Stevens",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
                     }
                 ]
             },
@@ -50,859 +389,119 @@
                 "teamName": "Miami Heat",
                 "players": [
                     {
-                        "name": "Alec Burks",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Lower Back; Pain"
+                        "name": "Myron Gardner",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
                     },
                     {
-                        "name": "Josh Christopher",
+                        "name": "Vladislav Goldin",
                         "status": "Out",
                         "reason": "G League - Two-Way"
                     },
                     {
                         "name": "Tyler Herro",
-                        "status": "Probable",
-                        "reason": "Injury/Illness - Head; Cold"
+                        "status": "Doubtful",
+                        "reason": "Injury/Illness - Right Big Toe; Contusion"
                     },
                     {
-                        "name": "Haywood Highsmith",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Left Knee; Contusion"
+                        "name": "Kasparas Jakucionis",
+                        "status": "Out",
+                        "reason": "G League - On Assignment"
                     },
                     {
                         "name": "Jaime Jaquez Jr.",
                         "status": "Available",
-                        "reason": "Injury/Illness - Right Ankle; Sprain"
+                        "reason": "Injury/Illness - Right Groin; Strain"
                     },
                     {
                         "name": "Nikola Jovic",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Hand; Broken"
-                    },
-                    {
-                        "name": "Duncan Robinson",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Low Back; Pain"
-                    },
-                    {
-                        "name": "Dru Smith",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Achilles; Surgery"
-                    },
-                    {
-                        "name": "Kel'el Ware",
                         "status": "Available",
-                        "reason": "Injury/Illness - Left Knee; Sprain"
+                        "reason": "Injury/Illness - Right Hip; Impingement"
                     },
                     {
-                        "name": "Andrew Wiggins",
+                        "name": "Pelle Larsson",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Right Hip Flexor; Tightness"
+                    },
+                    {
+                        "name": "Davion Mitchell",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Right Groin; Tightness"
+                    },
+                    {
+                        "name": "Norman Powell",
                         "status": "Probable",
-                        "reason": "Injury/Illness - Right Ankle; Sprain"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "date": "03/10/2025",
-        "time": "07:30 (ET)",
-        "matchup": "LAL@BKN",
-        "teams": [
-            {
-                "team": "LAL",
-                "teamName": "Los Angeles Lakers",
-                "players": [
-                    {
-                        "name": "Luka Doncic",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Back; Soreness"
-                    },
-                    {
-                        "name": "Dorian Finney-Smith",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Ankle; Soreness"
-                    },
-                    {
-                        "name": "Rui Hachimura",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Patellar; Tendinopathy"
-                    },
-                    {
-                        "name": "Jaxson Hayes",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Knee; Contusion"
-                    },
-                    {
-                        "name": "Bronny James",
-                        "status": "Out",
-                        "reason": "G League - On Assignment"
-                    },
-                    {
-                        "name": "LeBron James",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Groin; Strain"
-                    },
-                    {
-                        "name": "Maxi Kleber",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Foot; Surgery Recovery"
-                    }
-                ]
-            },
-            {
-                "team": "BKN",
-                "teamName": "Brooklyn Nets",
-                "players": [
-                    {
-                        "name": "Nic Claxton",
-                        "status": "Available",
-                        "reason": "Injury/Illness - Nasal; Fracture"
-                    },
-                    {
-                        "name": "Tyson Etienne",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Tosan Evbuomwan",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "De'Anthony Melton",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Knee; ACL Tear"
-                    },
-                    {
-                        "name": "Cam Thomas",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Hamstring; Injury Management"
-                    },
-                    {
-                        "name": "Trendon Watford",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Hamstring; Injury Management"
-                    },
-                    {
-                        "name": "Dariq Whitehead",
-                        "status": "Out",
-                        "reason": "G League - On Assignment"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "date": "03/10/2025",
-        "time": "07:30 (ET)",
-        "matchup": "PHI@ATL",
-        "teams": [
-            {
-                "team": "PHI",
-                "teamName": "Philadelphia 76ers",
-                "players": [
-                    {
-                        "name": "Andre Drummond",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - N/a; Illness"
-                    },
-                    {
-                        "name": "Joel Embiid",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Knee; Injury Management"
-                    },
-                    {
-                        "name": "Paul George",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Groin; Soreness"
-                    },
-                    {
-                        "name": "Eric Gordon",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Wrist; Surgery"
-                    },
-                    {
-                        "name": "Jalen Hood-Schifino",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Kyle Lowry",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Hip; Injury Management"
-                    },
-                    {
-                        "name": "Tyrese Maxey",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Lower Back; Sprain / Finger Sprain"
-                    },
-                    {
-                        "name": "Jared McCain",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Knee; Meniscus Surgery"
-                    },
-                    {
-                        "name": "Kelly Oubre Jr.",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Ankle; Sprain"
-                    }
-                ]
-            },
-            {
-                "team": "ATL",
-                "teamName": "Atlanta Hawks",
-                "players": [
-                    {
-                        "name": "Kobe Bufkin",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Shoulder; Surgery"
-                    },
-                    {
-                        "name": "Jalen Johnson",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Shoulder; Surgery"
-                    },
-                    {
-                        "name": "Vit Krejci",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Lumbar; Fracture"
-                    },
-                    {
-                        "name": "Caris LeVert",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Left Middle Finger; Sprain"
-                    },
-                    {
-                        "name": "Larry Nance Jr.",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Medial Femoral Condyle; Fracture"
-                    },
-                    {
-                        "name": "Daeqwon Plowden",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Jacob Toppin",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Keaton Wallace",
-                        "status": "Available",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Trae Young",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Left Quad; Contusion"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "date": "03/10/2025",
-        "time": "07:30 (ET)",
-        "matchup": "UTA@BOS",
-        "teams": [
-            {
-                "team": "UTA",
-                "teamName": "Utah Jazz",
-                "players": [
-                    {
-                        "name": "Jordan Clarkson",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Plantar; Fasciitis"
-                    },
-                    {
-                        "name": "John Collins",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Low Back; Injury Management"
-                    },
-                    {
-                        "name": "Keyonte George",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Foot; Contusion"
-                    },
-                    {
-                        "name": "Elijah Harkless",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Taylor Hendricks",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Fibula; Fracture"
-                    },
-                    {
-                        "name": "Lauri Markkanen",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Low Back; Injury Management"
-                    },
-                    {
-                        "name": "Micah Potter",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Jaden Springer",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Low Back; Soreness"
-                    },
-                    {
-                        "name": "Oscar Tshiebwe",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    }
-                ]
-            },
-            {
-                "team": "BOS",
-                "teamName": "Boston Celtics",
-                "players": [
-                    {
-                        "name": "JD Davison",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Al Horford",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Left Big Toe; Sprain"
-                    },
-                    {
-                        "name": "Miles Norris",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Drew Peterson",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Kristaps Porzingis",
-                        "status": "Doubtful",
-                        "reason": "Injury/Illness - Illness; Non-Covid"
-                    },
-                    {
-                        "name": "Jayson Tatum",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Right Knee; Tendinopathy"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "date": "03/10/2025",
-        "time": "07:30 (ET)",
-        "matchup": "WAS@TOR",
-        "teams": [
-            {
-                "team": "WAS",
-                "teamName": "Washington Wizards",
-                "players": [
-                    {
-                        "name": "Saddiq Bey",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Knee; ACL Surgery"
-                    },
-                    {
-                        "name": "Malcolm Brogdon",
-                        "status": "Out",
                         "reason": "Injury/Illness - Left Ankle; Sprain"
                     },
                     {
-                        "name": "Richaun Holmes",
+                        "name": "Terry Rozier",
                         "status": "Out",
-                        "reason": "Injury/Illness - Left Knee; Contusion"
+                        "reason": "Not With Team"
                     },
                     {
-                        "name": "Colby Jones",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Achilles; Tendinopathy"
-                    },
-                    {
-                        "name": "Khris Middleton",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Bilateral Ankle; Injury Management"
-                    },
-                    {
-                        "name": "Marcus Smart",
-                        "status": "Out",
-                        "reason": "Partial Extensor Hood Tear InjuryInjury/Illness - Right Index Finger; Management"
+                        "name": "Andrew Wiggins",
+                        "status": "Available",
+                        "reason": "Injury/Illness - Left Hip Flexor; Strain"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "date": "12/06/2025",
+        "time": "08:30 (ET)",
+        "matchup": "HOU@DAL",
+        "teams": [
+            {
+                "team": "HOU",
+                "teamName": "Houston Rockets",
+                "players": []
+            },
+            {
+                "team": "DAL",
+                "teamName": "Dallas Mavericks",
+                "players": []
+            }
+        ]
+    },
+    {
+        "date": "12/07/2025",
+        "time": "03:30 (ET)",
+        "matchup": "BOS@TOR",
+        "teams": [
+            {
+                "team": "BOS",
+                "teamName": "Boston Celtics",
+                "players": []
             },
             {
                 "team": "TOR",
                 "teamName": "Toronto Raptors",
-                "players": [
-                    {
-                        "name": "Ochai Agbaji",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Ankle; Sprain"
-                    },
-                    {
-                        "name": "Ulrich Chomche",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Knee; Partial Proximal MCL Tear"
-                    },
-                    {
-                        "name": "Gradey Dick",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Knee; Bone Bruise"
-                    },
-                    {
-                        "name": "Brandon Ingram",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Ankle; Sprain"
-                    },
-                    {
-                        "name": "Jonathan Mogbo",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Nasal; Fracture"
-                    },
-                    {
-                        "name": "Jakob Poeltl",
-                        "status": "Out",
-                        "reason": "Rest"
-                    },
-                    {
-                        "name": "Ja'Kobe Walter",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Hip; Flexor"
-                    }
-                ]
+                "players": []
             }
         ]
     },
     {
-        "date": "03/10/2025",
-        "time": "08:00 (ET)",
-        "matchup": "DEN@OKC",
+        "date": "12/07/2025",
+        "time": "06:00 (ET)",
+        "matchup": "DEN@CHA",
         "teams": [
             {
                 "team": "DEN",
                 "teamName": "Denver Nuggets",
-                "players": [
-                    {
-                        "name": "Aaron Gordon",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Calf; Injury Management/Left Ankle Sprain"
-                    },
-                    {
-                        "name": "DaRon Holmes II",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Achilles Tendon; Repair"
-                    },
-                    {
-                        "name": "Nikola Jokic",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Right Elbow; Contusion/Left Ankle Impingement"
-                    },
-                    {
-                        "name": "Jamal Murray",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Left Knee;Inflammation"
-                    },
-                    {
-                        "name": "Zeke Nnaji",
-                        "status": "Probable",
-                        "reason": "Injury/Illness - Left Ankle; Sprain"
-                    },
-                    {
-                        "name": "Julian Strawther",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Knee; Sprain"
-                    }
-                ]
+                "players": []
             },
             {
-                "team": "OKC",
-                "teamName": "Oklahoma City Thunder",
-                "players": [
-                    {
-                        "name": "Branden Carlson",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Alex Ducas",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Adam Flagler",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Isaiah Hartenstein",
-                        "status": "Available",
-                        "reason": "Injury/Illness - Nasal; Fracture"
-                    },
-                    {
-                        "name": "Dillon Jones",
-                        "status": "Probable",
-                        "reason": "G League - On Assignment"
-                    },
-                    {
-                        "name": "Ajay Mitchell",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Great Toe; Sprain"
-                    },
-                    {
-                        "name": "Nikola Topic",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Knee; Surgery"
-                    }
-                ]
+                "team": "CHA",
+                "teamName": "Charlotte Hornets",
+                "players": []
             }
         ]
     },
     {
-        "date": "03/10/2025",
-        "time": "08:00 (ET)",
-        "matchup": "IND@CHI",
-        "teams": [
-            {
-                "team": "IND",
-                "teamName": "Indiana Pacers",
-                "players": [
-                    {
-                        "name": "RayJ Dennis",
-                        "status": "Probable",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Enrique Freeman",
-                        "status": "Probable",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Tyrese Haliburton",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Left Hip Flexor; Strain"
-                    },
-                    {
-                        "name": "Isaiah Jackson",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Achilles Tendon; Torn"
-                    },
-                    {
-                        "name": "Quenton Jackson",
-                        "status": "Probable",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "T.J. McConnell",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Right Ankle; Sprain"
-                    }
-                ]
-            },
-            {
-                "team": "CHI",
-                "teamName": "Chicago Bulls",
-                "players": [
-                    {
-                        "name": "Lonzo Ball",
-                        "status": "Doubtful",
-                        "reason": "Injury/Illness - Right Wrist; Sprain"
-                    },
-                    {
-                        "name": "Ayo Dosunmu",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Shoulder; Surgery"
-                    },
-                    {
-                        "name": "E.J. Liddell",
-                        "status": "Questionable",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Emanuel Miller",
-                        "status": "Questionable",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Nikola Vucevic",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Right Calf; Strain"
-                    },
-                    {
-                        "name": "Coby White",
-                        "status": "Probable",
-                        "reason": "Injury/Illness - Right Toe; Sesamoiditis"
-                    },
-                    {
-                        "name": "Patrick Williams",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Right Quadricep Tendon; Tendinosis"
-                    },
-                    {
-                        "name": "Jahmir Young",
-                        "status": "Questionable",
-                        "reason": "G League - Two-Way"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "date": "03/10/2025",
-        "time": "08:00 (ET)",
-        "matchup": "ORL@HOU",
-        "teams": [
-            {
-                "team": "ORL",
-                "teamName": "Orlando Magic",
-                "players": [
-                    {
-                        "name": "Mac McClung",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Jalen Suggs",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Knee; Trochlea cartilage tear"
-                    },
-                    {
-                        "name": "Ethan Thompson",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Moritz Wagner",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Knee; Torn ACL"
-                    }
-                ]
-            },
-            {
-                "team": "HOU",
-                "teamName": "Houston Rockets",
-                "players": [
-                    {
-                        "name": "N'Faly Dante",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Jack McVeigh",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "David Roddy",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Reed Sheppard",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Thumb; Avulsion Fracture"
-                    },
-                    {
-                        "name": "Amen Thompson",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Ankle; Sprain"
-                    },
-                    {
-                        "name": "Fred VanVleet",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Right Ankle; Strain"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "date": "03/10/2025",
-        "time": "08:00 (ET)",
-        "matchup": "PHX@MEM",
-        "teams": [
-            {
-                "team": "PHX",
-                "teamName": "Phoenix Suns",
-                "players": [
-                    {
-                        "name": "Bradley Beal",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Calf; InjuryManagement"
-                    },
-                    {
-                        "name": "Jalen Bridges",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Cody Martin",
-                        "status": "Out",
-                        "reason": "G League - On Assignment"
-                    },
-                    {
-                        "name": "Monte Morris",
-                        "status": "Doubtful",
-                        "reason": "Injury/Illness - Low Back; Injury Management"
-                    }
-                ]
-            },
-            {
-                "team": "MEM",
-                "teamName": "Memphis Grizzlies",
-                "players": [
-                    {
-                        "name": "Santi Aldama",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Calf; Strain"
-                    },
-                    {
-                        "name": "Brandon Clarke",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Right Knee; Soreness"
-                    },
-                    {
-                        "name": "Zach Edey",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Right Ankle; Soreness"
-                    },
-                    {
-                        "name": "Jaren Jackson Jr.",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Ankle; Sprain"
-                    },
-                    {
-                        "name": "Yuki Kawamura",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Luke Kennard",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Low Back; Soreness"
-                    },
-                    {
-                        "name": "Zyon Pullin",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Patellar; Tendon Surgery Recovery"
-                    },
-                    {
-                        "name": "Vince Williams Jr.",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Right Foot; Soreness"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "date": "03/10/2025",
-        "time": "08:30 (ET)",
-        "matchup": "DAL@SAS",
-        "teams": [
-            {
-                "team": "DAL",
-                "teamName": "Dallas Mavericks",
-                "players": [
-                    {
-                        "name": "Anthony Davis",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Adductor; Strain"
-                    },
-                    {
-                        "name": "Daniel Gafford",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Knee; Sprain"
-                    },
-                    {
-                        "name": "Jaden Hardy",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Ankle; Sprain"
-                    },
-                    {
-                        "name": "Kyrie Irving",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Knee; Sprain/ACL tear"
-                    },
-                    {
-                        "name": "Kai Jones",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Quad; Strain"
-                    },
-                    {
-                        "name": "Dereck Lively II",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Ankle; StressFracture"
-                    },
-                    {
-                        "name": "Olivier-Maxence Prosper",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Wrist; Sprain"
-                    },
-                    {
-                        "name": "P.J. Washington",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Ankle; Sprain"
-                    },
-                    {
-                        "name": "Brandon Williams",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Left Hamstring; Tightness"
-                    }
-                ]
-            },
-            {
-                "team": "SAS",
-                "teamName": "San Antonio Spurs",
-                "players": [
-                    {
-                        "name": "Charles Bassey",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Knee; Acute-on- chronic Bone Bruise"
-                    },
-                    {
-                        "name": "Stephon Castle",
-                        "status": "Questionable",
-                        "reason": "Injury/Illness - Left Shoulder; Contusion"
-                    },
-                    {
-                        "name": "David Duke Jr.",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Harrison Ingram",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Riley Minix",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    },
-                    {
-                        "name": "Jeremy Sochan",
-                        "status": "Doubtful",
-                        "reason": "Injury/Illness - Left Calf; Contusion"
-                    },
-                    {
-                        "name": "Victor Wembanyama",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Shoulder; Deep Vein Thrombosis"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "date": "03/10/2025",
-        "time": "10:00 (ET)",
-        "matchup": "POR@GSW",
+        "date": "12/07/2025",
+        "time": "06:00 (ET)",
+        "matchup": "POR@MEM",
         "teams": [
             {
                 "team": "POR",
@@ -910,113 +509,59 @@
                 "players": []
             },
             {
+                "team": "MEM",
+                "teamName": "Memphis Grizzlies",
+                "players": []
+            }
+        ]
+    },
+    {
+        "date": "12/07/2025",
+        "time": "07:00 (ET)",
+        "matchup": "GSW@CHI",
+        "teams": [
+            {
                 "team": "GSW",
                 "teamName": "Golden State Warriors",
-                "players": [
-                    {
-                        "name": "Jonathan Kuminga",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Ankle; Sprain"
-                    },
-                    {
-                        "name": "Gary Payton II",
-                        "status": "Available",
-                        "reason": "Injury/Illness - Bilateral Nasal Bone; Fracture - Facemask"
-                    },
-                    {
-                        "name": "Brandin Podziemski",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Bilateral Low Back; Strain"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "date": "03/10/2025",
-        "time": "10:30 (ET)",
-        "matchup": "NYK@SAC",
-        "teams": [
-            {
-                "team": "NYK",
-                "teamName": "New York Knicks",
-                "players": [
-                    {
-                        "name": "Jalen Brunson",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Right Ankle; Sprain"
-                    },
-                    {
-                        "name": "Pacome Dadiet",
-                        "status": "Out",
-                        "reason": "G League - On Assignment"
-                    },
-                    {
-                        "name": "Ariel Hukporti",
-                        "status": "Out",
-                        "reason": "Injury/Illness - Left Knee; Meniscus Surgery"
-                    },
-                    {
-                        "name": "Kevin McCullar Jr.",
-                        "status": "Out",
-                        "reason": "G League - Two-Way"
-                    }
-                ]
-            },
-            {
-                "team": "SAC",
-                "teamName": "Sacramento Kings",
-                "players": []
-            }
-        ]
-    },
-    {
-        "date": "03/11/2025",
-        "time": "07:00 (ET)",
-        "matchup": "BKN@CLE",
-        "teams": [
-            {
-                "team": "BKN",
-                "teamName": "Brooklyn Nets",
                 "players": []
             },
             {
-                "team": "CLE",
-                "teamName": "Cleveland Cavaliers",
+                "team": "CHI",
+                "teamName": "Chicago Bulls",
                 "players": []
             }
         ]
     },
     {
-        "date": "03/11/2025",
-        "time": "07:00 (ET)",
-        "matchup": "WAS@DET",
-        "teams": [
-            {
-                "team": "WAS",
-                "teamName": "Washington Wizards",
-                "players": []
-            },
-            {
-                "team": "DET",
-                "teamName": "Detroit Pistons",
-                "players": []
-            }
-        ]
-    },
-    {
-        "date": "03/11/2025",
+        "date": "12/07/2025",
         "time": "07:30 (ET)",
-        "matchup": "MIL@IND",
+        "matchup": "LAL@PHI",
         "teams": [
             {
-                "team": "MIL",
-                "teamName": "Milwaukee Bucks",
+                "team": "LAL",
+                "teamName": "Los Angeles Lakers",
                 "players": []
             },
             {
-                "team": "IND",
-                "teamName": "Indiana Pacers",
+                "team": "PHI",
+                "teamName": "Philadelphia 76ers",
+                "players": []
+            }
+        ]
+    },
+    {
+        "date": "12/07/2025",
+        "time": "08:00 (ET)",
+        "matchup": "OKC@UTA",
+        "teams": [
+            {
+                "team": "OKC",
+                "teamName": "Oklahoma City Thunder",
+                "players": []
+            },
+            {
+                "team": "UTA",
+                "teamName": "Utah Jazz",
                 "players": []
             }
         ]

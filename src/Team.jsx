@@ -1,45 +1,54 @@
-import React, { Component } from "react";
+import React, { useState } from "react";
 import StatusGroup          from "./StatusGroup.jsx";
 
 function Team ( props ) {
+    const [ showOthers, setShowOthers ] = useState(false);
+
     const grouped = props.players.reduce(( groups, player ) => {
         const group = groups[ player.status ] || [];
         groups[ player.status ] = [ ...group, player ];
         return groups;
     }, {});
-    // const sortedPlayers = props.players.sort(( a, b ) => {
-    //     if ( a.status > b.status ) {
-    //         return -1;
-    //     }
-    //     if ( a.status < b.status ) {
-    //         return 1;
-    //     }
-    //     return 0;
-    // });
+
+    const hasOthers = (grouped.Doubtful && grouped.Doubtful.length > 0) ||
+                      (grouped.Questionable && grouped.Questionable.length > 0) ||
+                      (grouped.Probable && grouped.Probable.length > 0);
+
     return (
-        <div className={`col`}>
-            <div className="col">
-            <h3>{props.teamName}</h3>
-                <StatusGroup
-                    key={`Out`}
-                    players={grouped.Out}
-                    status={`Out`} />
-                <StatusGroup
-                    key={`Doubtful`}
-                    players={grouped.Doubtful}
-                    status={`Doubtful`} />
-                <StatusGroup
-                    key={`Questionable`}
-                    players={grouped.Questionable}
-                    status={`Questionable`} />
-                <StatusGroup
-                    key={`Probable`}
-                    players={grouped.Probable}
-                    status={`Probable`} />
-                <StatusGroup
-                    key={`Available`}
-                    players={grouped.Available}
-                    status={`Available`} />
+        <div className={`col-12 col-lg mb-3`}>
+            <div className="card h-100">
+                <div className="card-body">
+                    <h3 className="card-title">{props.teamName}</h3>
+                    <StatusGroup
+                        key={`Out`}
+                        players={grouped.Out}
+                        status={`Out`} />
+
+                    {showOthers && (
+                        <>
+                            <StatusGroup
+                                key={`Doubtful`}
+                                players={grouped.Doubtful}
+                                status={`Doubtful`} />
+                            <StatusGroup
+                                key={`Questionable`}
+                                players={grouped.Questionable}
+                                status={`Questionable`} />
+                            <StatusGroup
+                                key={`Probable`}
+                                players={grouped.Probable}
+                                status={`Probable`} />
+                        </>
+                    )}
+
+                    {hasOthers && (
+                        <button
+                            className="btn btn-sm btn-outline-secondary mt-3 w-100"
+                            onClick={() => setShowOthers(!showOthers)}>
+                            {showOthers ? "Hide Others" : "Show Others"}
+                        </button>
+                    )}
+                </div>
             </div>
         </div>
     );

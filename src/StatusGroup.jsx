@@ -6,6 +6,10 @@ function StatusGroup ( props ) {
         players = [],
     } = props;
 
+    if ( !players || players.length === 0 ) {
+        return null;
+    }
+
     return (
         <div className="mb-2">
             <table className="table table-striped table-sm">

@@ -13,7 +13,7 @@ export const TEAMS = [
     `Golden State Warriors`,
     `Houston Rockets`,
     `Indiana Pacers`,
-    `Los Angeles Clippers`,
+    `LA Clippers`,
     `Los Angeles Lakers`,
     `Memphis Grizzlies`,
     `Miami Heat`,

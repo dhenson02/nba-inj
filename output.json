@@ -20,7 +20,7 @@
                     },
                     {
                         "name": "Yves Missi",
-                        "status": "Questionable",
+                        "status": "Available",
                         "reason": "Injury/Illness - Right Foot/ankle; Sprain"
                     },
                     {
@@ -46,7 +46,7 @@
                 "players": [
                     {
                         "name": "Noah Clowney",
-                        "status": "Probable",
+                        "status": "Available",
                         "reason": "Injury/Illness - Back; Soreness"
                     },
                     {
@@ -150,7 +150,7 @@
                     },
                     {
                         "name": "Khris Middleton",
-                        "status": "Questionable",
+                        "status": "Out",
                         "reason": "Injury/Illness - Right Knee; Soreness"
                     },
                     {
@@ -160,12 +160,12 @@
                     },
                     {
                         "name": "Tristan Vukcevic",
-                        "status": "Questionable",
+                        "status": "Available",
                         "reason": "Injury/Illness - Right Knee; Contusion"
                     },
                     {
                         "name": "Cam Whitmore",
-                        "status": "Questionable",
+                        "status": "Available",
                         "reason": "Injury/Illness - N/a; Illness"
                     }
                 ]
@@ -183,12 +183,12 @@
                 "players": [
                     {
                         "name": "Jimmy Butler III",
-                        "status": "Questionable",
+                        "status": "Out",
                         "reason": "Injury/Illness - Left Knee; Injury Management"
                     },
                     {
                         "name": "Seth Curry",
-                        "status": "Questionable",
+                        "status": "Out",
                         "reason": "Injury/Illness - Right Toe; Soreness"
                     },
                     {
@@ -198,7 +198,7 @@
                     },
                     {
                         "name": "Draymond Green",
-                        "status": "Questionable",
+                        "status": "Out",
                         "reason": "Injury/Illness - Right Midfoot; Sprain"
                     },
                     {
@@ -208,7 +208,7 @@
                     },
                     {
                         "name": "De'Anthony Melton",
-                        "status": "Questionable",
+                        "status": "Out",
                         "reason": "Injury/Illness - Left Knee; Injury Management"
                     },
                     {
@@ -332,12 +332,7 @@
         "teams": [
             {
                 "team": "LAC",
-                "teamName": "",
-                "players": []
-            },
-            {
-                "team": "MIN",
-                "teamName": "Minnesota Timberwolves",
+                "teamName": "LA Clippers",
                 "players": [
                     {
                         "name": "Bradley Beal",
@@ -363,7 +358,13 @@
                         "name": "Chris Paul",
                         "status": "Out",
                         "reason": "Not With Team"
-                    },
+                    }
+                ]
+            },
+            {
+                "team": "MIN",
+                "teamName": "Minnesota Timberwolves",
+                "players": [
                     {
                         "name": "Enrique Freeman",
                         "status": "Out",
@@ -543,6 +544,11 @@
                         "reason": "Injury/Illness - Right Foot; Injury Management"
                     },
                     {
+                        "name": "Klay Thompson",
+                        "status": "Doubtful",
+                        "reason": "Injury/Illness - Left Knee; Soreness"
+                    },
+                    {
                         "name": "P.J. Washington",
                         "status": "Questionable",
                         "reason": "Injury/Illness - Right Ankle; Sprain"
@@ -576,7 +582,33 @@
             {
                 "team": "DEN",
                 "teamName": "Denver Nuggets",
-                "players": []
+                "players": [
+                    {
+                        "name": "Tamar Bates",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Christian Braun",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Ankle; Sprain"
+                    },
+                    {
+                        "name": "Aaron Gordon",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Hamstring; Strain"
+                    },
+                    {
+                        "name": "DaRon Holmes II",
+                        "status": "Out",
+                        "reason": "G League - On Assignment"
+                    },
+                    {
+                        "name": "Julian Strawther",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Lower Back; Injury Management"
+                    }
+                ]
             },
             {
                 "team": "CHA",
@@ -615,7 +647,58 @@
             {
                 "team": "CHI",
                 "teamName": "Chicago Bulls",
-                "players": []
+                "players": [
+                    {
+                        "name": "Zach Collins",
+                        "status": "Probable",
+                        "reason": "Injury/Illness - Left Scaphoid; Fracture"
+                    },
+                    {
+                        "name": "Ayo Dosunmu",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Right Thumb; Sprain"
+                    },
+                    {
+                        "name": "Noa Essengue",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Shoulder; Contusion"
+                    },
+                    {
+                        "name": "Kevin Huerter",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Adductor; Strain"
+                    },
+                    {
+                        "name": "Tre Jones",
+                        "status": "Doubtful",
+                        "reason": "Injury/Illness - Left Ankle; Sprain"
+                    },
+                    {
+                        "name": "Isaac Okoro",
+                        "status": "Doubtful",
+                        "reason": "Injury/Illness - Left Lumbar; Radiculopathy"
+                    },
+                    {
+                        "name": "Jalen Smith",
+                        "status": "Doubtful",
+                        "reason": "Injury/Illness - Left Hamstring; Strain"
+                    },
+                    {
+                        "name": "Dalen Terry",
+                        "status": "Probable",
+                        "reason": "Injury/Illness - Left Calf; Strain"
+                    },
+                    {
+                        "name": "Coby White",
+                        "status": "Probable",
+                        "reason": "Injury/Illness - Left Calf; Strain"
+                    },
+                    {
+                        "name": "Patrick Williams",
+                        "status": "Probable",
+                        "reason": "Injury/Illness - Left Wrist; Sprain"
+                    }
+                ]
             }
         ]
     },

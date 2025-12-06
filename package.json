@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "screen -dmS nbainj node server.js",
+    "show": "screen -r nbainj"
   },
   "dependencies": {
     "@koa/router": "^15.0.0",

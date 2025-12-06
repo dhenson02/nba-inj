@@ -64,6 +64,12 @@ const app = new Koa();
 const router = new Router();
 app.use(helmet());
 
+// Remove X-Powered-By header
+app.use(async ( ctx, next ) => {
+    ctx.remove(`X-Powered-By`);
+    await next();
+});
+
 // Routes
 router.get(`/api/injury-report`, async ( ctx ) => {
     try {

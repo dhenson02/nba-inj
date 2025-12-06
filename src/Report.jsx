@@ -2,6 +2,17 @@ import React, { Component } from "react";
 import Team                 from "./Team.jsx";
 
 function Report ( props ) {
+    if ( !props.matchups || props.matchups.length === 0 ) {
+        return (
+            <div>
+                <h2>No Matchups Found</h2>
+                <p>
+                    Refresh the report or try again later.
+                </p>
+            </div>
+        );
+    }
+
     return (
         <div>
             {props.matchups.map(( { matchup, date, time, teams }, i ) =>

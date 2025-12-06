@@ -145,7 +145,7 @@ export function getCellTypes ( line ) {
  * @param {string}  txt -   raw text output from PDF
  */
 export function parsePivotTable ( txt ) {
-    const [ emptyLine, headerRow, ...tableRows ] = getLines(txt);
+    const [ EMPTY_LINE, HEADER_ROW, ...tableRows ] = getLines(txt);
 
     const matchups = [];
 

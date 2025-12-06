@@ -19,7 +19,6 @@ function StatusGroup ( props ) {
                         return a.name > b.name;
                     }).map(( {
                            name,
-                           status,
                            reason,
                        }, i ) =>
                     <tr key={`${name}-${i}`}>

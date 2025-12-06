@@ -22,20 +22,21 @@ export function makeUrl ( date, time ) {
 }
 
 export async function downloadFile ( date, time ) {
-    const url = makeUrl(date, time);
-    logger.debug(`URL to download: ${url}`);
     const localFilePath = `${BASE_FILE_PATH}/${date}_${time}.pdf`;
 
     // Confirm file doesn't exist already - no point in extra download if so
     try {
         await fs.promises.stat(localFilePath);
-        logger.warn(`Report exists for ${date} ${time}.  Skipping`);
+        logger.debug(`Report exists for ${date} ${time}.  Skipping`);
         return localFilePath;
     }
     catch (e) {
-        logger.info(`No existing report found for ${date} ${time}.  Downloading now`);
+        logger.debug(e.message);
+        logger.debug(`No existing report found for ${date} ${time}.  Downloading now`);
     }
 
+    const url = makeUrl(date, time);
+    logger.debug(`URL to download: ${url}`);
     try {
         const response = await axios({
             method: 'get',

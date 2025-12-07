@@ -23,20 +23,26 @@ function App () {
     }, [ report, setReport ]);
 
     return (
-        <div className="container-xxl">
-            <header className={`d-flex flex-column my-4`}>
-                <h1>
+        <div className="container-xxl py-5">
+            <header className="d-flex flex-column align-items-center mb-5 text-center">
+                <h1 className="display-4 fw-bold mb-3 tracking-tight">
                     NBA Injury Report
                 </h1>
-                <button
-                    className={`px-4 py-2 rounded-lg bg-fuchsia-400 text-white my-2`}
-                    type={`button`}
-                    onClick={() => setReport(null)}>
-                    Refresh Report
-                </button>
-                <small>
-                    Last updated: {lastUpdated || "N/A"}
-                </small>
+                <div className="d-flex flex-column flex-md-row align-items-center gap-3">
+                    <button
+                        className="px-4 py-2 rounded-pill fw-bold border-0 shadow-sm hover-scale transition-all"
+                        style={{
+                            background: 'linear-gradient(90deg, #ec4899 0%, #8b5cf6 100%)',
+                            color: 'white'
+                        }}
+                        type="button"
+                        onClick={() => setReport(null)}>
+                        Refresh Report
+                    </button>
+                    <span className="text-white-50 small">
+                        Last updated: {lastUpdated || "N/A"}
+                    </span>
+                </div>
             </header>
             <Report matchups={report} />
         </div>

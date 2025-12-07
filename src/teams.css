@@ -1,104 +1,231 @@
-.NOP /* New Orleans Pelicans */{
-    color: #002B5C;
-    text-shadow: 2px 1px 1px #B4975A;
+/* CSS Variables for Team Colors */
+/* --team-text is selected for best contrast against dark backgrounds */
+/* --team-primary is adjusted for visibility on dark backgrounds where necessary */
+
+.NOP /* New Orleans Pelicans */ {
+    --team-primary: #B4975A; /* Swapped for visibility */
+    --team-secondary: #002B5C;
+    --team-text: #B4975A;
+    color: var(--team-text);
 }
-.BKN /* Brooklyn Nets */{
-    color: #000000;
-    text-shadow: 2px 1px 1px #FFFFFF;
+
+.BKN /* Brooklyn Nets */ {
+    --team-primary: #FFFFFF; /* Adjusted for dark theme visibility */
+    --team-secondary: #000000;
+    --team-text: #FFFFFF;
+    color: var(--team-text);
 }
-.ATL /* Atlanta Hawks */{
-    color: #E03A3E;
-    text-shadow: 2px 1px 1px #C1D32F;
+
+.ATL /* Atlanta Hawks */ {
+    --team-primary: #E03A3E;
+    --team-secondary: #C1D32F;
+    --team-text: #E03A3E;
+    color: var(--team-text);
 }
-.WAS /* Washington Wizards */{
-    color: #002B5C;
-    text-shadow: 2px 1px 1px #E31837;
+
+.WAS /* Washington Wizards */ {
+    --team-primary: #E31837; /* Swapped for visibility */
+    --team-secondary: #002B5C;
+    --team-text: #E31837;
+    color: var(--team-text);
 }
-.GSW /* Golden State Warriors */{
-    color: #FFC72C;
-    text-shadow: 2px 1px 1px #1D428A;
+
+.GSW /* Golden State Warriors */ {
+    --team-primary: #FFC72C;
+    --team-secondary: #1D428A;
+    --team-text: #FFC72C;
+    color: var(--team-text);
 }
-.CLE /* Cleveland Cavaliers */{
-    color: #6F263D;
-    /*color: #FFB81C;*/
-    text-shadow: 2px 1px 1px #FFB81C;
+
+.CLE /* Cleveland Cavaliers */ {
+    --team-primary: #6F263D;
+    --team-secondary: #FFB81C;
+    --team-text: #FFB81C; /* Keep text bright, but border can be burgundy? No, burgundy is dark. */
+    /* Let's swap CLE too? Burgundy #6F263D is nice but dark. Gold border is better. */
+    /* But CLE is known for Wine. */
+    /* I'll keep primary Wine, but maybe text Gold. */
+    /* Wait, if border is Wine, it might be hard to see. */
+    /* I'll leave CLE Primary as Wine for now. */
+    color: var(--team-text);
 }
-.MIL /* Milwaukee Bucks */{
-    color: #00471B;
-    text-shadow: 2px 1px 1px #EEE1C6;
+
+.MIL /* Milwaukee Bucks */ {
+    --team-primary: #00471B;
+    --team-secondary: #EEE1C6;
+    --team-text: #EEE1C6;
+    /* Green is very dark. Swap? */
+    /* Cream border? Yes. */
+    /* Let's swap MIL. */
+    /* Actually, no. The green is iconic. */
+    /* I'll leave it. */
+    color: var(--team-text);
 }
-.DET /* Detroit Pistons */{
-    color: #C8102E;
-    /*color: #006BB6;*/
-    text-shadow: 2px 1px 1px #006BB6;
+
+.DET /* Detroit Pistons */ {
+    --team-primary: #C8102E;
+    --team-secondary: #006BB6;
+    --team-text: #C8102E;
+    color: var(--team-text);
 }
-.LAC /* LA Clippers */{
-    color: #C8102E;
-    text-shadow: 2px 1px 1px #1D428A;
+
+.LAC /* LA Clippers */ {
+    --team-primary: #C8102E;
+    --team-secondary: #1D428A;
+    --team-text: #C8102E;
+    color: var(--team-text);
 }
-.MIN /* Minnesota Timberwolves */{
-    color: #0C2340;
-    text-shadow: 2px 1px 1px #78BE20;
+
+.MIN /* Minnesota Timberwolves */ {
+    --team-primary: #78BE20; /* Swapped for visibility */
+    --team-secondary: #0C2340;
+    --team-text: #78BE20;
+    color: var(--team-text);
 }
-.SAC /* Sacramento Kings */{
-    color: #5A2D81;
-    text-shadow: 2px 1px 1px #63727A;
+
+.SAC /* Sacramento Kings */ {
+    --team-primary: #5A2D81;
+    --team-secondary: #63727A;
+    --team-text: #dcdcdc;
+    /* Purple is dark. */
+    /* I'll leave it. */
+    color: var(--team-text);
 }
-.MIA /* Miami Heat */{
-    color: #98002E;
-    text-shadow: 2px 1px 1px #F9A01B;
+
+.MIA /* Miami Heat */ {
+    --team-primary: #98002E;
+    --team-secondary: #F9A01B;
+    --team-text: #F9A01B;
+    /* Dark Red. Border might be dark. */
+    /* Let's use Orange for primary? No, Heat is Red. */
+    /* I'll leave it. */
+    color: var(--team-text);
 }
-.HOU /* Houston Rockets */{
-    color: #CE1141;
-    text-shadow: 2px 1px 1px #000000;
+
+.HOU /* Houston Rockets */ {
+    --team-primary: #CE1141;
+    --team-secondary: #000000;
+    --team-text: #CE1141;
+    color: var(--team-text);
 }
-.DAL /* Dallas Mavericks */{
-    color: #00538C;
-    text-shadow: 2px 1px 1px #B8C4CA;
+
+.DAL /* Dallas Mavericks */ {
+    --team-primary: #00538C;
+    --team-secondary: #B8C4CA;
+    --team-text: #B8C4CA;
+    color: var(--team-text);
 }
-.BOS /* Boston Celtics */{
-    color: #007A33;
-    text-shadow: 2px 1px 1px #BA9653;
+
+.BOS /* Boston Celtics */ {
+    --team-primary: #007A33;
+    --team-secondary: #BA9653;
+    --team-text: #BA9653;
+    /* Green is dark. Swap? Gold border is nice. */
+    /* But Boston IS Green. */
+    /* I'll keep Green primary. */
+    color: var(--team-text);
 }
-.TOR /* Toronto Raptors */{
-    color: #CE1141;
-    text-shadow: 2px 1px 1px #000000;
+
+.TOR /* Toronto Raptors */ {
+    --team-primary: #CE1141;
+    --team-secondary: #000000;
+    --team-text: #CE1141;
+    color: var(--team-text);
 }
-.DEN /* Denver Nuggets */{
-    color: #0E2240;
-    text-shadow: 2px 1px 1px #FEC524;
+
+.DEN /* Denver Nuggets */ {
+    --team-primary: #FEC524; /* Swapped for visibility */
+    --team-secondary: #0E2240;
+    --team-text: #FEC524;
+    color: var(--team-text);
 }
-.CHA /* Charlotte Hornets */{
-    /*color: #1D1160;*/
-    color: #00788C;
-    text-shadow: 2px 1px 1px #A1A1A4;
+
+.CHA /* Charlotte Hornets */ {
+    --team-primary: #00788C;
+    --team-secondary: #A1A1A4;
+    --team-text: #00788C;
+    color: var(--team-text);
 }
-.POR /* Portland Trail Blazers */{
-    color: #E03A3E;
-    text-shadow: 2px 1px 1px #000000;
+
+.POR /* Portland Trail Blazers */ {
+    --team-primary: #E03A3E;
+    --team-secondary: #000000;
+    --team-text: #E03A3E;
+    color: var(--team-text);
 }
-.MEM /* Memphis Grizzlies */{
-    color: #5D76A9;
-    text-shadow: 2px 1px 1px #12173F;
+
+.MEM /* Memphis Grizzlies */ {
+    --team-primary: #5D76A9;
+    --team-secondary: #12173F;
+    --team-text: #5D76A9;
+    color: var(--team-text);
 }
-.CHI /* Chicago Bulls */{
-    color: #CE1141;
-    text-shadow: 2px 1px 1px #000000;
+
+.CHI /* Chicago Bulls */ {
+    --team-primary: #CE1141;
+    --team-secondary: #000000;
+    --team-text: #CE1141;
+    color: var(--team-text);
 }
-.LAL /* Los Angeles Lakers */{
-    /*color: #552583;*/
-    color: #FDB927;
-    text-shadow: 2px 1px 1px #552583;
+
+.LAL /* Los Angeles Lakers */ {
+    --team-primary: #FDB927;
+    --team-secondary: #552583;
+    --team-text: #FDB927;
+    color: var(--team-text);
 }
-.PHI /* Philadelphia 76ers */{
-    color: #006BB6;
-    text-shadow: 2px 1px 1px #ED174C;
+
+.PHI /* Philadelphia 76ers */ {
+    --team-primary: #006BB6;
+    --team-secondary: #ED174C;
+    --team-text: #006BB6;
+    color: var(--team-text);
 }
-.OKC /* Oklahoma City Thunder */{
-    color: #007AC1;
-    text-shadow: 2px 1px 1px #F05133;
+
+.OKC /* Oklahoma City Thunder */ {
+    --team-primary: #007AC1;
+    --team-secondary: #F05133;
+    --team-text: #007AC1;
+    color: var(--team-text);
 }
-.UTA /* Utah Jazz */{
-    color: #002B5C;
-    text-shadow: 2px 1px 1px #F9A01B;
+
+.UTA /* Utah Jazz */ {
+    --team-primary: #F9A01B; /* Swapped for visibility */
+    --team-secondary: #002B5C;
+    --team-text: #F9A01B;
+    color: var(--team-text);
+}
+
+.NYK /* New York Knicks */ {
+    --team-primary: #F58426;
+    --team-secondary: #006BB6;
+    --team-text: #F58426;
+    color: var(--team-text);
+}
+
+.IND /* Indiana Pacers */ {
+    --team-primary: #FDBB30;
+    --team-secondary: #002D62;
+    --team-text: #FDBB30;
+    color: var(--team-text);
+}
+
+.ORL /* Orlando Magic */ {
+    --team-primary: #0077C0;
+    --team-secondary: #C4CED4;
+    --team-text: #0077C0;
+    color: var(--team-text);
+}
+
+.SAS /* San Antonio Spurs */ {
+    --team-primary: #C4CED4;
+    --team-secondary: #000000;
+    --team-text: #C4CED4;
+    color: var(--team-text);
+}
+
+.PHX /* Phoenix Suns */ {
+    --team-primary: #E56020;
+    --team-secondary: #1D1160;
+    --team-text: #E56020;
+    color: var(--team-text);
 }

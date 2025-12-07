@@ -24,9 +24,9 @@ function StatusGroup ( props ) {
 
             <div className="d-flex flex-column gap-2">
                 {players.sort((a, b) => a.name > b.name).map(( { name, reason }, i ) => (
-                    <div key={`${name}-${i}`} className="d-flex align-items-center justify-content-between p-2 rounded" style={{backgroundColor: 'rgba(255,255,255,0.05)'}}>
-                        <span className="font-weight-bold" style={{color: '#ececec'}}>{name}</span>
-                        <span className="text-white-50 text-end" style={{fontSize: '0.85rem', maxWidth: '50%'}}>{reason}</span>
+                    <div key={`${name}-${i}`} className="player-row">
+                        <span className="font-weight-bold">{name}</span>
+                        <span className="text-muted-custom text-end" style={{fontSize: '0.85rem', maxWidth: '50%'}}>{reason}</span>
                     </div>
                 ))}
             </div>

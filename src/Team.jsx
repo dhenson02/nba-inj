@@ -4,14 +4,6 @@ import StatusGroup          from "./StatusGroup.jsx";
 function Team ( props ) {
     const [ showOthers, setShowOthers ] = useState(false);
 
-    // Common container style
-    const containerClass = `h-100 p-4 rounded-3 position-relative ${props.teamAbbr}`;
-    const containerStyle = {
-        backgroundColor: '#2a2a2a',
-        borderTop: '6px solid var(--team-primary)',
-        boxShadow: '0 4px 6px rgba(0,0,0,0.1)'
-    };
-
     // Decorative corner
     const decorativeCorner = (
         <div style={{
@@ -25,13 +17,16 @@ function Team ( props ) {
         }} />
     );
 
+    // Dynamic container class
+    const containerClass = `team-card ${props.teamAbbr}`;
+
     if ( !props.players || props.players.length === 0 ) {
         return (
             <div className={`col-12 col-lg mb-3`}>
-                <div className={containerClass} style={containerStyle}>
+                <div className={containerClass}>
                     {decorativeCorner}
                     <h3 className="h4 font-weight-bold mb-4" style={{color: 'var(--team-text)', letterSpacing: '0.5px'}}>{props.teamName}</h3>
-                    <div className="d-flex align-items-center justify-content-start text-white-50">
+                    <div className="d-flex align-items-center justify-content-start text-muted-custom">
                         <em>No injured players reported.</em>
                     </div>
                 </div>
@@ -51,7 +46,7 @@ function Team ( props ) {
 
     return (
         <div className={`col-12 col-lg mb-3`}>
-            <div className={containerClass} style={containerStyle}>
+            <div className={containerClass}>
                 {decorativeCorner}
                 <h3 className="h4 font-weight-bold mb-4" style={{color: 'var(--team-text)', letterSpacing: '0.5px'}}>{props.teamName}</h3>
 
@@ -61,7 +56,7 @@ function Team ( props ) {
                     status={`Out`} />
 
                 {showOthers && (
-                    <div className="mt-3 pt-3 border-top border-secondary">
+                    <div className="mt-3 pt-3 border-top" style={{borderColor: 'var(--border-color)'}}>
                         <StatusGroup
                             key={`Doubtful`}
                             players={grouped.Doubtful}
@@ -81,7 +76,7 @@ function Team ( props ) {
                     <button
                         className="btn btn-sm mt-3 w-100"
                         style={{
-                            color: 'var(--team-primary)',
+                            color: 'var(--team-text)',
                             borderColor: 'var(--team-primary)',
                             backgroundColor: 'transparent'
                         }}

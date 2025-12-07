@@ -3,7 +3,7 @@
 /* --team-primary is adjusted for visibility on dark backgrounds where necessary */
 
 .NOP /* New Orleans Pelicans */ {
-    --team-primary: #B4975A; /* Swapped for visibility */
+    --team-primary: #B4975A; /* Gold (Swapped for dark visibility) */
     --team-secondary: #002B5C;
     --team-text: #B4975A;
     color: var(--team-text);
@@ -40,12 +40,7 @@
 .CLE /* Cleveland Cavaliers */ {
     --team-primary: #6F263D;
     --team-secondary: #FFB81C;
-    --team-text: #FFB81C; /* Keep text bright, but border can be burgundy? No, burgundy is dark. */
-    /* Let's swap CLE too? Burgundy #6F263D is nice but dark. Gold border is better. */
-    /* But CLE is known for Wine. */
-    /* I'll keep primary Wine, but maybe text Gold. */
-    /* Wait, if border is Wine, it might be hard to see. */
-    /* I'll leave CLE Primary as Wine for now. */
+    --team-text: #FFB81C;
     color: var(--team-text);
 }
 
@@ -53,11 +48,6 @@
     --team-primary: #00471B;
     --team-secondary: #EEE1C6;
     --team-text: #EEE1C6;
-    /* Green is very dark. Swap? */
-    /* Cream border? Yes. */
-    /* Let's swap MIL. */
-    /* Actually, no. The green is iconic. */
-    /* I'll leave it. */
     color: var(--team-text);
 }
 
@@ -86,8 +76,6 @@
     --team-primary: #5A2D81;
     --team-secondary: #63727A;
     --team-text: #dcdcdc;
-    /* Purple is dark. */
-    /* I'll leave it. */
     color: var(--team-text);
 }
 
@@ -95,9 +83,6 @@
     --team-primary: #98002E;
     --team-secondary: #F9A01B;
     --team-text: #F9A01B;
-    /* Dark Red. Border might be dark. */
-    /* Let's use Orange for primary? No, Heat is Red. */
-    /* I'll leave it. */
     color: var(--team-text);
 }
 
@@ -119,9 +104,6 @@
     --team-primary: #007A33;
     --team-secondary: #BA9653;
     --team-text: #BA9653;
-    /* Green is dark. Swap? Gold border is nice. */
-    /* But Boston IS Green. */
-    /* I'll keep Green primary. */
     color: var(--team-text);
 }
 
@@ -228,4 +210,59 @@
     --team-secondary: #1D1160;
     --team-text: #E56020;
     color: var(--team-text);
+}
+
+/* Light Theme Overrides */
+/* Revert colors to darker/bolder versions for light backgrounds */
+@media (prefers-color-scheme: light) {
+    .NOP {
+        --team-primary: #002B5C;
+        --team-text: #002B5C;
+    }
+    .BKN {
+        --team-primary: #000000;
+        --team-text: #000000;
+    }
+    .MIN {
+        --team-primary: #0C2340;
+        --team-text: #0C2340;
+    }
+    .WAS {
+        --team-primary: #002B5C;
+        --team-text: #002B5C;
+    }
+    .DEN {
+        --team-primary: #0E2240;
+        --team-text: #0E2240;
+    }
+    .UTA {
+        --team-primary: #002B5C;
+        --team-text: #002B5C;
+    }
+    .MEM {
+        --team-primary: #12173F;
+        --team-text: #12173F;
+    }
+    .MIL {
+        --team-text: #00471B;
+    }
+    .SAC {
+        --team-text: #5A2D81;
+    }
+    .MIA {
+        --team-text: #98002E;
+    }
+    .BOS {
+        --team-text: #007A33;
+    }
+    .CLE {
+        --team-text: #6F263D;
+    }
+    .SAS {
+        --team-primary: #000000;
+        --team-text: #000000;
+    }
+    .DAL {
+        --team-text: #00538C;
+    }
 }

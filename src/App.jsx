@@ -39,7 +39,7 @@ function App () {
                         onClick={() => setReport(null)}>
                         Refresh Report
                     </button>
-                    <span className="text-white-50 small">
+                    <span className="text-muted-custom small">
                         Last updated: {lastUpdated || "N/A"}
                     </span>
                 </div>

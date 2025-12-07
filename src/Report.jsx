@@ -14,7 +14,7 @@ function MatchupHeader ( props ) {
 
     return (
         <div className="col-12 col-lg-3 mb-4 mb-lg-0">
-            <div className="d-flex flex-column align-items-start p-3 rounded-3" style={{backgroundColor: '#1e1e1e', borderLeft: '4px solid #444'}}>
+            <div className="matchup-card d-flex flex-column align-items-start h-100">
                  <div className="d-flex align-items-center mb-2 w-100">
                     <span className={`h3 mb-0 me-2 ${splitMatchup[0]}`} style={{fontWeight: 800, color: 'var(--team-text)'}}>
                         {splitMatchup[0]}
@@ -24,7 +24,7 @@ function MatchupHeader ( props ) {
                         {splitMatchup[1]}
                     </span>
                  </div>
-                 <div className="text-white-50 small">
+                 <div className="text-muted-custom small">
                     <span title={date} className="d-block text-uppercase" style={{letterSpacing: '1px'}}>{dateFormatted}</span>
                     <span className="d-block">{time}</span>
                  </div>
@@ -38,7 +38,7 @@ function Report ( props ) {
         return (
             <div className="text-center py-5">
                 <h2 className="text-muted">No Matchups Found</h2>
-                <p className="text-white-50">
+                <p className="text-muted-custom">
                     Refresh the report or try again later.
                 </p>
             </div>
@@ -49,7 +49,8 @@ function Report ( props ) {
         <div>
             {props.matchups.map(( { matchup, date, time, teams }, i ) =>
                 <div
-                    className="row mb-5 pb-4 border-bottom border-secondary"
+                    className="row mb-5 pb-4 border-bottom"
+                    style={{borderColor: 'var(--border-color)'}}
                     key={`${matchup}-${i}`}>
                     <MatchupHeader
                         matchup={matchup}
@@ -70,7 +71,7 @@ function Report ( props ) {
                                 teamName={teams[ 1 ].teamName}
                                 players={teams[ 1 ].players} />
                         </>
-                        : <div className="col-12 col-lg-9 d-flex align-items-center justify-content-center text-white-50">
+                        : <div className="col-12 col-lg-9 d-flex align-items-center justify-content-center text-muted-custom">
                             <em>No injured players reported for this matchup.</em>
                         </div>
                     }

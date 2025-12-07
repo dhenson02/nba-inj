@@ -24,16 +24,19 @@ function App () {
 
     return (
         <div className="container-xxl">
-            <header className={`flex flex-col justify-between py-5 gap-4`}>
-                <h1 className={`justify-around`}>
+            <header className={`d-flex flex-column my-4`}>
+                <h1>
                     NBA Injury Report
                 </h1>
                 <button
-                    className={`justify-around px-4 py-2 rounded-lg`}
+                    className={`px-4 py-2 rounded-lg bg-fuchsia-400 text-white my-2`}
                     type={`button`}
                     onClick={() => setReport(null)}>
-                    Refresh Report (Last updated: {lastUpdated || 'N/A'})
+                    Refresh Report
                 </button>
+                <small>
+                    Last updated: {lastUpdated || "N/A"}
+                </small>
             </header>
             <Report matchups={report} />
         </div>

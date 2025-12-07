@@ -277,7 +277,7 @@
                     },
                     {
                         "name": "AJ Green",
-                        "status": "Questionable",
+                        "status": "Out",
                         "reason": "Injury/Illness - Left Shoulder; Contusion"
                     },
                     {
@@ -293,7 +293,7 @@
                 "players": [
                     {
                         "name": "Tobias Harris",
-                        "status": "Questionable",
+                        "status": "Out",
                         "reason": "Injury/Illness - Left Ankle; Sprain"
                     },
                     {
@@ -313,7 +313,7 @@
                     },
                     {
                         "name": "Marcus Sasser",
-                        "status": "Probable",
+                        "status": "Available",
                         "reason": "Injury/Illness - Right Hip; Impingement"
                     },
                     {
@@ -341,7 +341,7 @@
                     },
                     {
                         "name": "Bogdan Bogdanovic",
-                        "status": "Probable",
+                        "status": "Available",
                         "reason": "Injury/Illness - Left Hip; Contusion"
                     },
                     {
@@ -431,7 +431,7 @@
                     },
                     {
                         "name": "Tyler Herro",
-                        "status": "Doubtful",
+                        "status": "Out",
                         "reason": "Injury/Illness - Right Big Toe;Contusion"
                     },
                     {
@@ -451,23 +451,28 @@
                     },
                     {
                         "name": "Pelle Larsson",
-                        "status": "Questionable",
+                        "status": "Out",
                         "reason": "Injury/Illness - Right Hip Flexor; Tightness"
                     },
                     {
                         "name": "Davion Mitchell",
-                        "status": "Questionable",
+                        "status": "Out",
                         "reason": "Injury/Illness - Right Groin; Tightness"
                     },
                     {
                         "name": "Norman Powell",
-                        "status": "Probable",
+                        "status": "Available",
                         "reason": "Injury/Illness - Left Ankle; Sprain"
                     },
                     {
                         "name": "Terry Rozier",
                         "status": "Out",
                         "reason": "Not With Team"
+                    },
+                    {
+                        "name": "Dru Smith",
+                        "status": "Available",
+                        "reason": "Injury/Illness - Left Hip; Tightness"
                     },
                     {
                         "name": "Andrew Wiggins",
@@ -504,7 +509,7 @@
                     },
                     {
                         "name": "Alperen Sengun",
-                        "status": "Doubtful",
+                        "status": "Out",
                         "reason": "Injury/Illness - N/a; Illness"
                     },
                     {
@@ -530,7 +535,7 @@
                     },
                     {
                         "name": "Daniel Gafford",
-                        "status": "Doubtful",
+                        "status": "Out",
                         "reason": "Injury/Illness - Right Ankle; Injury Management"
                     },
                     {
@@ -545,12 +550,12 @@
                     },
                     {
                         "name": "Klay Thompson",
-                        "status": "Doubtful",
+                        "status": "Out",
                         "reason": "Injury/Illness - Left Knee; Soreness"
                     },
                     {
                         "name": "P.J. Washington",
-                        "status": "Questionable",
+                        "status": "Available",
                         "reason": "Injury/Illness - Right Ankle; Sprain"
                     }
                 ]
@@ -565,12 +570,49 @@
             {
                 "team": "BOS",
                 "teamName": "Boston Celtics",
-                "players": []
+                "players": [
+                    {
+                        "name": "Ron Harper Jr.",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Max Shulga",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Jayson Tatum",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Achilles; Repair"
+                    },
+                    {
+                        "name": "Amari Williams",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    }
+                ]
             },
             {
                 "team": "TOR",
                 "teamName": "Toronto Raptors",
-                "players": []
+                "players": [
+                    {
+                        "name": "RJ Barrett",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Knee; Sprain"
+                    },
+                    {
+                        "name": "Jamison Battle",
+                        "status": "Doubtful",
+                        "reason": "Injury/Illness - Left Ankle; Sprain"
+                    },
+                    {
+                        "name": "Immanuel Quickley",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Illness; Illness"
+                    }
+                ]
             }
         ]
     },
@@ -613,7 +655,43 @@
             {
                 "team": "CHA",
                 "teamName": "Charlotte Hornets",
-                "players": []
+                "players": [
+                    {
+                        "name": "LaMelo Ball",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Ankle; Bone Bruise"
+                    },
+                    {
+                        "name": "Pat Connaughton",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Calf; Strain"
+                    },
+                    {
+                        "name": "Moussa Diabate",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Right Knee; Soreness"
+                    },
+                    {
+                        "name": "Josh Green",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Shoulder; Surgery"
+                    },
+                    {
+                        "name": "Tre Mann",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Knee; Bone Bruise"
+                    },
+                    {
+                        "name": "Collin Sexton",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Quadriceps; Strain"
+                    },
+                    {
+                        "name": "Grant Williams",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Knee; Surgery"
+                    }
+                ]
             }
         ]
     },
@@ -625,12 +703,74 @@
             {
                 "team": "POR",
                 "teamName": "Portland Trail Blazers",
-                "players": []
+                "players": [
+                    {
+                        "name": "Donovan Clingan",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Left Lower Leg; Contusion"
+                    },
+                    {
+                        "name": "Scoot Henderson",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Hamstring; Tear"
+                    },
+                    {
+                        "name": "Jrue Holiday",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Calf; Strain"
+                    },
+                    {
+                        "name": "Damian Lillard",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Achilles Tendon; Injury Management"
+                    },
+                    {
+                        "name": "Matisse Thybulle",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Thumb; Ligament Tear"
+                    },
+                    {
+                        "name": "Blake Wesley",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Foot; Fracture"
+                    }
+                ]
             },
             {
                 "team": "MEM",
                 "teamName": "Memphis Grizzlies",
-                "players": []
+                "players": [
+                    {
+                        "name": "Brandon Clarke",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Knee; Surgery Recovery"
+                    },
+                    {
+                        "name": "GG Jackson",
+                        "status": "Out",
+                        "reason": "G League - On Assignment"
+                    },
+                    {
+                        "name": "Ty Jerome",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Calf; Strain"
+                    },
+                    {
+                        "name": "Ja Morant",
+                        "status": "Doubtful",
+                        "reason": "Injury/Illness - Right Calf; Strain"
+                    },
+                    {
+                        "name": "Scotty Pippen Jr.",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Great Toe; Surgery Recovery"
+                    },
+                    {
+                        "name": "Javon Small",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Toe; Turf Toe"
+                    }
+                ]
             }
         ]
     },
@@ -710,12 +850,59 @@
             {
                 "team": "LAL",
                 "teamName": "Los Angeles Lakers",
-                "players": []
+                "players": [
+                    {
+                        "name": "LeBron James",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Right Sciatica; & Left Foot Joint Arthritis"
+                    },
+                    {
+                        "name": "Marcus Smart",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Lumbar; Muscle Strain"
+                    }
+                ]
             },
             {
                 "team": "PHI",
                 "teamName": "Philadelphia 76ers",
-                "players": []
+                "players": [
+                    {
+                        "name": "Johni Broome",
+                        "status": "Questionable",
+                        "reason": "G League - On Assignment"
+                    },
+                    {
+                        "name": "Joel Embiid",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Left Knee; Injury Recovery"
+                    },
+                    {
+                        "name": "Paul George",
+                        "status": "Questionable",
+                        "reason": "Injury/Illness - Left Knee; Injury Recovery"
+                    },
+                    {
+                        "name": "Jared McCain",
+                        "status": "Available",
+                        "reason": "Injury/Illness - Right Thumb; Surgery Recovery - Splint"
+                    },
+                    {
+                        "name": "Kelly Oubre Jr.",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Knee; Sprain"
+                    },
+                    {
+                        "name": "Hunter Sallis",
+                        "status": "Questionable",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Trendon Watford",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Adductor; Strain"
+                    }
+                ]
             }
         ]
     },
@@ -727,12 +914,79 @@
             {
                 "team": "OKC",
                 "teamName": "Oklahoma City Thunder",
-                "players": []
+                "players": [
+                    {
+                        "name": "Branden Carlson",
+                        "status": "Available",
+                        "reason": "Injury/Illness - N/a; Nasal Fracture"
+                    },
+                    {
+                        "name": "Alex Caruso",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Quad; Contusion"
+                    },
+                    {
+                        "name": "Luguentz Dort",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Adductor; Strain"
+                    },
+                    {
+                        "name": "Shai Gilgeous-Alexander",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Elbow; Bursitis"
+                    },
+                    {
+                        "name": "Isaiah Hartenstein",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right Soleus; Strain"
+                    },
+                    {
+                        "name": "Isaiah Joe",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Knee; Soreness"
+                    },
+                    {
+                        "name": "Thomas Sorber",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Right ACL; Surgical Recovery"
+                    },
+                    {
+                        "name": "Nikola Topic",
+                        "status": "Out",
+                        "reason": "Injury/Illness - N/a; Surgical Recovery"
+                    },
+                    {
+                        "name": "Chris Youngblood",
+                        "status": "Probable",
+                        "reason": "G League - Two-Way"
+                    }
+                ]
             },
             {
                 "team": "UTA",
                 "teamName": "Utah Jazz",
-                "players": []
+                "players": [
+                    {
+                        "name": "Elijah Harkless",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    },
+                    {
+                        "name": "Walker Kessler",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Shoulder; Injury Recovery"
+                    },
+                    {
+                        "name": "Georges Niang",
+                        "status": "Out",
+                        "reason": "Injury/Illness - Left Foot; Fourth Metatarsal Stress Reaction"
+                    },
+                    {
+                        "name": "John Tonje",
+                        "status": "Out",
+                        "reason": "G League - Two-Way"
+                    }
+                ]
             }
         ]
     }

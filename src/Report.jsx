@@ -1,5 +1,41 @@
 import React, { Component } from "react";
 import Team                 from "./Team.jsx";
+import { formatMatchupDate } from "./util.js";
+
+function MatchupHeader ( props ) {
+    const {
+        matchup,
+        date,
+        time,
+    } = props;
+
+    const splitMatchup = matchup.split(`@`);
+    const matchupFormatted = (
+        <span>
+            <span className={splitMatchup[ 0 ]}>
+                {splitMatchup[ 0 ]}
+            </span> @ <span className={splitMatchup[ 1 ]}>
+                {splitMatchup[ 1 ]}
+            </span>
+        </span>
+    );
+
+    const dateFormatted = formatMatchupDate(date);
+
+    return (
+        <h2 className="col-12 col-lg-3 mb-3">
+            <code>
+                {matchupFormatted} <br/>
+                <small>
+                    <span title={date}>
+                        {dateFormatted}
+                    </span> <br />
+                    {time}
+                </small>
+            </code>
+        </h2>
+    );
+}
 
 function Report ( props ) {
     if ( !props.matchups || props.matchups.length === 0 ) {
@@ -19,22 +55,22 @@ function Report ( props ) {
                 <div
                     className="row mb-4"
                     key={`${matchup}-${i}`}>
-                    <h2 className="col-12 col-lg-3 mb-3">
-                        <code>
-                            {matchup} <br/>
-                            <small>{date} - {time}</small>
-                        </code>
-                    </h2>
+                    <MatchupHeader
+                        matchup={matchup}
+                        date={date}
+                        time={time} />
 
                     {teams[ 0 ].players.length !== 0 || teams[ 1 ].players.length !== 0
                         ? <>
                             <Team
                                 key={`team-key-${teams[ 0 ].teamName}`}
+                                teamAbbr={teams[ 0 ].team}
                                 teamName={teams[ 0 ].teamName}
                                 players={teams[ 0 ].players} />
 
                             <Team
-                                key={`team-key-${teams[1].teamName}`}
+                                key={`team-key-${teams[ 1 ].teamName}`}
+                                teamAbbr={teams[ 1 ].team}
                                 teamName={teams[ 1 ].teamName}
                                 players={teams[ 1 ].players} />
                         </>

@@ -1,0 +1,104 @@
+.NOP /* New Orleans Pelicans */{
+    color: #002B5C;
+    text-shadow: 2px 1px 0 #B4975A;
+}
+.BKN /* Brooklyn Nets */{
+    color: #000000;
+    text-shadow: 2px 1px 0 #FFFFFF;
+}
+.ATL /* Atlanta Hawks */{
+    color: #E03A3E;
+    text-shadow: 2px 1px 0 #C1D32F;
+}
+.WAS /* Washington Wizards */{
+    color: #002B5C;
+    text-shadow: 2px 1px 0 #E31837;
+}
+.GSW /* Golden State Warriors */{
+    color: #FFC72C;
+    text-shadow: 2px 1px 0 #1D428A;
+}
+.CLE /* Cleveland Cavaliers */{
+    color: #6F263D;
+    /*color: #FFB81C;*/
+    text-shadow: 2px 1px 0 #FFB81C;
+}
+.MIL /* Milwaukee Bucks */{
+    color: #00471B;
+    text-shadow: 2px 1px 0 #EEE1C6;
+}
+.DET /* Detroit Pistons */{
+    color: #C8102E;
+    /*color: #006BB6;*/
+    text-shadow: 2px 1px 0 #006BB6;
+}
+.LAC /* LA Clippers */{
+    color: #C8102E;
+    text-shadow: 2px 1px 0 #1D428A;
+}
+.MIN /* Minnesota Timberwolves */{
+    color: #0C2340;
+    text-shadow: 2px 1px 0 #78BE20;
+}
+.SAC /* Sacramento Kings */{
+    color: #5A2D81;
+    text-shadow: 2px 1px 0 #63727A;
+}
+.MIA /* Miami Heat */{
+    color: #98002E;
+    text-shadow: 2px 1px 0 #F9A01B;
+}
+.HOU /* Houston Rockets */{
+    color: #CE1141;
+    text-shadow: 2px 1px 0 #000000;
+}
+.DAL /* Dallas Mavericks */{
+    color: #00538C;
+    text-shadow: 2px 1px 0 #B8C4CA;
+}
+.BOS /* Boston Celtics */{
+    color: #007A33;
+    text-shadow: 2px 1px 0 #BA9653;
+}
+.TOR /* Toronto Raptors */{
+    color: #CE1141;
+    text-shadow: 2px 1px 0 #000000;
+}
+.DEN /* Denver Nuggets */{
+    color: #0E2240;
+    text-shadow: 2px 1px 0 #FEC524;
+}
+.CHA /* Charlotte Hornets */{
+    /*color: #1D1160;*/
+    color: #00788C;
+    text-shadow: 2px 1px 0 #A1A1A4;
+}
+.POR /* Portland Trail Blazers */{
+    color: #E03A3E;
+    text-shadow: 2px 1px 0 #000000;
+}
+.MEM /* Memphis Grizzlies */{
+    color: #5D76A9;
+    text-shadow: 2px 1px 0 #12173F;
+}
+.CHI /* Chicago Bulls */{
+    color: #CE1141;
+    text-shadow: 2px 1px 0 #000000;
+}
+.LAL /* Los Angeles Lakers */{
+    /*color: #552583;*/
+    color: #FDB927;
+    text-shadow: 2px 1px 0 #552583;
+}
+.PHI /* Philadelphia 76ers */{
+    color: #006BB6;
+    text-shadow: 2px 1px 0 #ED174C;
+}
+.OKC /* Oklahoma City Thunder */{
+    color: #007AC1;
+    text-shadow: 2px 1px 0 #F05133;
+}
+.UTA /* Utah Jazz */{
+    color: #002B5C;
+    text-shadow: 2px 1px 0 #F9A01B;
+}

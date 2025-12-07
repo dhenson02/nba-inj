@@ -9,7 +9,7 @@ function Team ( props ) {
             <div className={`col-12 col-lg mb-3`}>
                 <div className="card h-100">
                     <div className="card-body">
-                        <h3 className="card-title">{props.teamName}</h3>
+                        <h3 className={`card-title ${props.teamAbbr}`}>{props.teamName}</h3>
                         <div className="col-12 col-lg-9 d-flex align-items-center justify-content-center">
                             <em>No injured players reported for this team.</em>
                         </div>
@@ -33,7 +33,7 @@ function Team ( props ) {
         <div className={`col-12 col-lg mb-3`}>
             <div className="card h-100">
                 <div className="card-body">
-                    <h3 className="card-title">{props.teamName}</h3>
+                    <h3 className={`card-title ${props.teamAbbr}`}>{props.teamName}</h3>
                     <StatusGroup
                         key={`Out`}
                         players={grouped.Out}

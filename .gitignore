@@ -27,3 +27,4 @@ output.json
 .env
 .env.*.local
 .env.local
+report-downloads/*

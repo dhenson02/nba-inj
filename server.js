@@ -24,10 +24,21 @@ const lastReportDateTime = {
 
 export async function processReport ( now = moment().tz(`US/Eastern`) ) {
     const date = now.format(`YYYY-MM-DD`);
-    if ( now.minutes() < 30 ) {
-        now.add(-1, `hour`);
+    const minutes = now.minutes();
+    const minRemainder = minutes / 15;
+    if ( minRemainder < 1 ) {
+        now.set({ minute: 0 });
     }
-    const time = now.format(`hhA`);
+    else if ( minRemainder < 2 ) {
+        now.set({ minute: 15 });
+    }
+    else if ( minRemainder < 3 ) {
+        now.set({ minute: 30 });
+    }
+    else if ( minRemainder < 4 ) {
+        now.set({ minute: 45 });
+    }
+    const time = now.format(`hh_mmA`);
 
     if (
         lastReportDateTime

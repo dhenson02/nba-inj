@@ -40,8 +40,7 @@ function Team ( props ) {
         return groups;
     }, {});
 
-    const hasOthers = (grouped.Doubtful && grouped.Doubtful.length > 0) ||
-                      (grouped.Questionable && grouped.Questionable.length > 0) ||
+    const hasOthers = (grouped.Questionable && grouped.Questionable.length > 0) ||
                       (grouped.Probable && grouped.Probable.length > 0);
 
     return (
@@ -54,13 +53,13 @@ function Team ( props ) {
                     key={`Out`}
                     players={grouped.Out}
                     status={`Out`} />
+                <StatusGroup
+                    key={`Doubtful`}
+                    players={grouped.Doubtful}
+                    status={`Doubtful`} />
 
                 {showOthers && (
                     <div className="mt-3 pt-3 border-top" style={{borderColor: 'var(--border-color)'}}>
-                        <StatusGroup
-                            key={`Doubtful`}
-                            players={grouped.Doubtful}
-                            status={`Doubtful`} />
                         <StatusGroup
                             key={`Questionable`}
                             players={grouped.Questionable}

@@ -1,13 +1,74 @@
 <!doctype html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+        rel="icon"
+        type="image/svg+xml"
+        href="/vite.svg" />
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0" />
     <title>Vite + React</title>
-  </head>
-  <body>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: #000000;
+            font-family: monospace;
+            color: #FFFFFF;
+        }
+
+        .emoji {
+            font-size: 80px;
+            margin-bottom: 20px;
+            cursor: pointer;
+        }
+
+        .text {
+            font-size: 48px;
+            font-weight: bold;
+            margin-bottom: 30px;
+        }
+
+        .hint {
+            font-size: 16px;
+            color: #666666;
+        }
+
+        .hush {
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="hush">
+        <div class="emoji">🤫</div>
+        <div class="text">STFU</div>
+        <div class="hint">tap to shut them up</div>
+    </div>
+    <script>
+        document.querySelector(".emoji").addEventListener('click', async () => {
+            const audioContext = new AudioContext();
+            const mediaStream = await navigator.mediaDevices.getUserMedia({ audio: true });
+            const source = audioContext.createMediaStreamSource(mediaStream);
+            const delayNode = audioContext.createDelay(5);
+            const gainNode = audioContext.createGain();
+            delayNode.delayTime.value = 2;
+            gainNode.gain.value = 0.9;
+            source.connect(delayNode);
+            delayNode.connect(gainNode);
+            gainNode.connect(audioContext.destination);
+            document.querySelector('.hint').style.display = 'none';
+        }, { once: true });
+    </script>
     <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+    <script
+        type="module"
+        src="/src/main.jsx"></script>
+</body>
 </html>
